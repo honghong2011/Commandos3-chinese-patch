@@ -16,7 +16,7 @@
 
 - 成品补丁在仓库 `build\final\`（**Steam 版专用**），拖进游戏目录即可游玩；
 - 其中 `DATA.PCK`（约 495MB）超过 GitHub 单文件 100MB 限制，
-  **请到 [Releases] 页下载**，与本仓库其余文件配合使用；
+  **请到 [Releases](https://github.com/honghong2011/Commandos3-chinese-patch/releases/latest) 页下载**，与本仓库其余文件配合使用；
 - 详细安装/还原步骤见 `build\final\安装说明.txt`。
 
 ## 开源说明
