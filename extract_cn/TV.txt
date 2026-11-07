@@ -1,0 +1,12 @@
+【TV】 10 条 · 861 字符预算 · 战役任务 台词/字幕
+────────────────────────────────────────────────────────
+CO01  [27]  "GREEN BERET: Paul? Frenchy?"
+ES01  [65]  "SPY: Yes Butcher, we're here, but in a bit of a sticky situation."
+CO02  [243]  "GREEN BERET: Yes, I heard, resistance intercepted a transmission from the train. Listen, I'm a few miles away from your position. It looks like the Nazis are looking to derail the train. Leave it to me lads, I'll make sure you can get through."
+ES02  [75]  "SPY: Sounds good but the train will still be packed full of enemy soldiers."
+CO03  [98]  "GREEN BERET: OK, we can tackle that later. I have to make sure there's a train to get on to first."
+FLMA  [24]  "YOU HAVE RUN OUT OF TIME"
+OR01  [98]  " Eliminate the enemy and their vehicles. Move the truck off the tracks so that the train can pass."
+TWCV  [10]  "OBJECTIVES"
+TIPS  [4]  "HELP"
+TIP1  [217]  " Explosive Barrels: All of your men can utilise these barrels. Fire at an explosive barrel to blow it up. The Green Beret can carry a barrel and move it to a different position. He cannot run whilst carrying a barrel."

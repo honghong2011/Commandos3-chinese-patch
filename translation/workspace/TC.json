@@ -1,0 +1,68 @@
+{
+ "AR01": {
+  "budget": 56,
+  "flags": [],
+  "en": "SAPPER: La, La, Lili Marleen. OK, what are we doing now?",
+  "zh": "工兵：啦，啦，莉莉·玛莲。好了，我们现在干什么？"
+ },
+ "FT01": {
+  "budget": 140,
+  "flags": [],
+  "en": "SNIPER: Looks like Frenchy and Paul have been captured. However, Butcher has managed to hide in one of the trucks. You know what that means?",
+  "zh": "狙击手：看来法国佬和保罗被抓了。不过，屠夫已经躲进了一辆卡车里。你知道这意味着什么吗？"
+ },
+ "AR02": {
+  "budget": 39,
+  "flags": [],
+  "en": "SAPPER: Sure, don't blow up the trucks.",
+  "zh": "工兵：当然，别炸掉那些卡车。"
+ },
+ "FT02": {
+  "budget": 101,
+  "flags": [],
+  "en": "SNIPER: Exactly, I know how you love your explosives but let’s exercise a little caution on this one.",
+  "zh": "狙击手：没错，我知道你有多爱炸药，但这次咱们得小心点。"
+ },
+ "CH01": {
+  "budget": 39,
+  "flags": [],
+  "en": "ALLIED SOLDIER: Reporting for duty sir!",
+  "zh": "盟军士兵：长官，前来报到！"
+ },
+ "FLMA": {
+  "budget": 34,
+  "flags": [],
+  "en": "SOME OF THE ART HAS BEEN DESTROYED",
+  "zh": "部分艺术品已被摧毁"
+ },
+ "FLCN": {
+  "budget": 23,
+  "flags": [],
+  "en": "THE CONVOY HAS ESCAPED ",
+  "zh": "车队已逃脱"
+ },
+ "OR01": {
+  "budget": 46,
+  "flags": [],
+  "en": " Stop the convoy and recover the works of art.",
+  "zh": "拦下车队，夺回艺术品。"
+ },
+ "TWCV": {
+  "budget": 10,
+  "flags": [],
+  "en": "OBJECTIVES",
+  "zh": "任务目标"
+ },
+ "TIPS": {
+  "budget": 4,
+  "flags": [],
+  "en": "HELP",
+  "zh": "帮助"
+ },
+ "TIP1": {
+  "budget": 188,
+  "flags": [],
+  "en": " Anti-personnel Mine: Only placed by the Sapper. Left-Click on the desired location to activate. You can also deactivate mines and pick them up. You cannot step on mines that you have set.",
+  "zh": "反步兵地雷：只能由工兵布设。左键点击选定位置即可布雷。你也可以解除地雷并将其拾起。自己布设的地雷不会踩响。"
+ }
+}

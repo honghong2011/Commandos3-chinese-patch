@@ -1,0 +1,194 @@
+{
+ "FR01": {
+  "budget": 38,
+  "flags": [],
+  "en": "SNIPER: What the bloody hell happened?",
+  "zh": "狙击手：该死，究竟发生了什么事？"
+ },
+ "CO01": {
+  "budget": 62,
+  "flags": [],
+  "en": "GREEN BERET: That scum Bulldog is a traitor, he's sold us out!",
+  "zh": "绿贝雷：那个混蛋斗牛犬是叛徒，他出卖了我们！"
+ },
+ "FR02": {
+  "budget": 21,
+  "flags": [],
+  "en": "SNIPER: Where are we?",
+  "zh": "狙击手：我们在哪儿？"
+ },
+ "CO02": {
+  "budget": 84,
+  "flags": [],
+  "en": "GREEN BERET: I have no idea, but I do know that we have to get the hell out of here.",
+  "zh": "绿贝雷：不知道，但我清楚我们必须尽快离开这鬼地方。"
+ },
+ "FR03": {
+  "budget": 39,
+  "flags": [],
+  "en": "SNIPER: Jesus, will this day never end?",
+  "zh": "狙击手：老天，今天没完了吗？"
+ },
+ "CO03": {
+  "budget": 31,
+  "flags": [],
+  "en": "GREEN BERET: Come on, let's go!",
+  "zh": "绿贝雷：快，我们走！"
+ },
+ "KK00": {
+  "budget": 0,
+  "flags": [
+   "空白/装饰",
+   "超短"
+  ],
+  "en": "",
+  "zh": ""
+ },
+ "FR04": {
+  "budget": 56,
+  "flags": [],
+  "en": "SNIPER: Hello old boy, what the hell are you doing here?",
+  "zh": "狙击手：老兄，你在这儿干什么呢？"
+ },
+ "ES01": {
+  "budget": 57,
+  "flags": [],
+  "en": "SPY: I came as quick as I could, we don't have much time!",
+  "zh": "间谍：我尽快赶来了，我们时间不多了！"
+ },
+ "CO04": {
+  "budget": 27,
+  "flags": [],
+  "en": "GREEN BERET: Time for what?",
+  "zh": "绿贝雷：做什么的时间？"
+ },
+ "ES02": {
+  "budget": 143,
+  "flags": [],
+  "en": "SPY: It is understood that at 1100 that dog O'Donnell is meeting with Nazi generals. He will give them information about key Allied movements. ",
+  "zh": "间谍：据悉，11点那条狗奥唐纳要与纳粹将领会面，他会把盟军关键调动情报交给他们。"
+ },
+ "ESMA": {
+  "budget": 65,
+  "flags": [],
+  "en": "SPY: This is his planned route, we have to stop him at all costs.",
+  "zh": "间谍：这是他计划的路线，我们必须不惜一切代价阻止他。"
+ },
+ "CO05": {
+  "budget": 78,
+  "flags": [],
+  "en": "GREEN BERET: Hey Frenchy, you're the spy. Don't you have anything else for us?",
+  "zh": "绿贝雷：嘿，法国佬，你是间谍。就没什么别的给我们了吗？"
+ },
+ "ES03": {
+  "budget": 43,
+  "flags": [],
+  "en": "SPY: Looks like we have three options...   ",
+  "zh": "间谍：看来我们有三个选择……"
+ },
+ "ES04": {
+  "budget": 82,
+  "flags": [],
+  "en": "SPY: Duke, you could take up a sniping position on his entry or exit from the car.",
+  "zh": "间谍：公爵，你可以在他上下车时占据狙击位置。"
+ },
+ "ES05": {
+  "budget": 144,
+  "flags": [],
+  "en": "SPY: Two, there are explosives at the construction site, they could be used to destroy his vehicle but as it is armour-plated it won't kill him.",
+  "zh": "间谍：第二，建筑工地有炸药，可以炸毁他的车辆，但车有装甲，炸不死他。"
+ },
+ "ES06": {
+  "budget": 175,
+  "flags": [],
+  "en": "SPY: Thirdly, I could sneak in using a high-ranking uniform and get close enough to eliminate him. Remember that as soon as he is eliminated we will have to escape with haste.",
+  "zh": "间谍：第三，我可以穿高级军官制服混进去，靠近后干掉他。记住，一旦得手我们必须立刻撤离。"
+ },
+ "AR01": {
+  "budget": 44,
+  "flags": [],
+  "en": "SAPPER: Hang on, one question, where are we?",
+  "zh": "工兵：等等，一个问题，我们在哪儿？"
+ },
+ "ES07": {
+  "budget": 37,
+  "flags": [],
+  "en": "SPY: Haven't you guessed yet? Berlin!",
+  "zh": "间谍：还没猜到吗？柏林！"
+ },
+ "KK02": {
+  "budget": 0,
+  "flags": [
+   "空白/装饰",
+   "超短"
+  ],
+  "en": "",
+  "zh": ""
+ },
+ "FIN1": {
+  "budget": 31,
+  "flags": [],
+  "en": "YOU CANNOT STOP THE TRAITOR NOW",
+  "zh": "你现在阻止不了叛徒了"
+ },
+ "FIN2": {
+  "budget": 51,
+  "flags": [],
+  "en": "THE TRAITOR HAS SUCCEEDED IN MEETING WITH THE ENEMY",
+  "zh": "叛徒已成功与敌人接头"
+ },
+ "FIN3": {
+  "budget": 23,
+  "flags": [],
+  "en": "THE TRAITOR HAS ESCAPED",
+  "zh": "叛徒已逃脱"
+ },
+ "TWCV": {
+  "budget": 10,
+  "flags": [],
+  "en": "OBJECTIVES",
+  "zh": "目标"
+ },
+ "OR00": {
+  "budget": 20,
+  "flags": [],
+  "en": " Find your comrades.",
+  "zh": "找到你的战友。"
+ },
+ "OR01": {
+  "budget": 341,
+  "flags": [],
+  "en": " Kill the traitor before he reports to the enemy. To do this you could obtain a sniper rifle, get into position and eliminate him when entering or exiting his car. Alternatively, you could obtain an enemy Officer's uniform and sneak up on him to kill him, or you could prepare an ambush and attack him with explosives while he is in his car.",
+  "zh": "在叛徒向敌人汇报之前将其击杀。为此，你可以弄到一支狙击步枪，选好位置，趁他上下车时将其消灭。你也可以弄到一套敌人军官军服，悄悄接近并杀死他；或者设下埋伏，趁他还在车内时用炸药袭击他。"
+ },
+ "OR02": {
+  "budget": 68,
+  "flags": [],
+  "en": " Escape with all of your men in the Kubelwagen near the prison door.",
+  "zh": "带领全体队员乘监狱门旁的库贝尔车逃离。"
+ },
+ "TIPS": {
+  "budget": 4,
+  "flags": [],
+  "en": "HELP",
+  "zh": "帮助"
+ },
+ "TIP1": {
+  "budget": 123,
+  "flags": [],
+  "en": " Whilst you are a prisoner you must carefully consider your actions. Only approach enemies if you are going to attack them.",
+  "zh": "身为囚犯时，你必须慎重考虑自己的行动。只有在打算攻击敌人时才靠近他们。"
+ },
+ "TIP2": {
+  "budget": 266,
+  "flags": [],
+  "en": " Disguise: Use the uniforms you steal to disguise and enable you to walk among them. The spy can distract enemies while disguised, and depending on the rank of the uniform, can order them to look at any direction or to leave their position to allow your men to pass.",
+  "zh": "伪装：利用偷来的军服伪装自己，便能混迹于敌人之中。间谍在伪装状态下可以分散敌人的注意力，并且根据军服的军衔，还能命令他们朝任意方向看，或离开岗位，让你的队员通过。"
+ },
+ "IT06": {
+  "budget": 37,
+  "flags": [],
+  "en": "THE ESCAPE VEHICLE HAS BEEN DESTROYED",
+  "zh": "撤离车辆已被摧毁"
+ }
+}

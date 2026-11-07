@@ -1,0 +1,7 @@
+【TA1】 5 条 · 281 字符预算 · 战役任务 台词/字幕
+────────────────────────────────────────────────────────
+TWCV  [10]  "OBJECTIVES"
+FLMA  [18]  "THE TRAIN HAS LEFT"
+OR01  [87]  " Board the train and enter a carriage with both your men without setting off the alarm."
+TIPS  [4]  "HELP"
+TIP1  [162]  " Only the Thief can climb. He can climb walls without the aid of special equipment. Left-Click on a wall to scale it. You are able to move sideways on some walls."

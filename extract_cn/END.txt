@@ -1,0 +1,7 @@
+【END】 5 条 · 189 字符预算 · 通关结算
+────────────────────────────────────────────────────────
+0001  [24]  "Congratulations officer!"
+0002  [51]  "You have completed Commandos 3: Destination Berlin."
+0003  [64]  "Hitler and his army have been thwarted by your tactical prowess."
+0004  [36]  "It looks like We WILL win the war..."
+0005  [14]  "...Or will we?"

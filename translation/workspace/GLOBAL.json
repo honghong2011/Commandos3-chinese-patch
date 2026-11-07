@@ -1,0 +1,2514 @@
+{
+ "TPIS": {
+  "budget": 3,
+  "flags": [],
+  "en": "GUN",
+  "zh": "手枪"
+ },
+ "TCUC": {
+  "budget": 5,
+  "flags": [],
+  "en": "KNIFE",
+  "zh": "匕首"
+ },
+ "TRIF": {
+  "budget": 5,
+  "flags": [],
+  "en": "RIFLE",
+  "zh": "步枪"
+ },
+ "TRFF": {
+  "budget": 19,
+  "flags": [],
+  "en": "ALLIED SNIPER RIFLE",
+  "zh": "盟军狙击步枪"
+ },
+ "TRIG": {
+  "budget": 12,
+  "flags": [],
+  "en": "GERMAN RIFLE",
+  "zh": "德军步枪"
+ },
+ "TRIS": {
+  "budget": 13,
+  "flags": [],
+  "en": "ASSAULT RIFLE",
+  "zh": "突击步枪"
+ },
+ "TRFG": {
+  "budget": 19,
+  "flags": [],
+  "en": "GERMAN SNIPER RIFLE",
+  "zh": "德军狙击步枪"
+ },
+ "TMET": {
+  "budget": 14,
+  "flags": [],
+  "en": "SUBMACHINE GUN",
+  "zh": "冲锋枪"
+ },
+ "TMTN": {
+  "budget": 17,
+  "flags": [],
+  "en": "LIGHT MACHINE GUN",
+  "zh": "轻机枪"
+ },
+ "TSUB": {
+  "budget": 13,
+  "flags": [],
+  "en": "ASSAULT RIFLE",
+  "zh": "突击步枪"
+ },
+ "TAGA": {
+  "budget": 5,
+  "flags": [],
+  "en": "CRAWL",
+  "zh": "爬行"
+ },
+ "TLEV": {
+  "budget": 5,
+  "flags": [],
+  "en": "STAND",
+  "zh": "站立"
+ },
+ "TSAL": {
+  "budget": 4,
+  "flags": [],
+  "en": "EXIT",
+  "zh": "离开"
+ },
+ "TBOM": {
+  "budget": 10,
+  "flags": [],
+  "en": "TIMER BOMB",
+  "zh": "定时炸弹"
+ },
+ "TSEN": {
+  "budget": 5,
+  "flags": [],
+  "en": "DECOY",
+  "zh": "诱饵"
+ },
+ "TSON": {
+  "budget": 16,
+  "flags": [],
+  "en": "SWITCH DECOY OFF",
+  "zh": "关闭诱饵"
+ },
+ "TSOF": {
+  "budget": 15,
+  "flags": [],
+  "en": "SWITCH DECOY ON",
+  "zh": "开启诱饵"
+ },
+ "TBOA": {
+  "budget": 11,
+  "flags": [],
+  "en": "REMOTE BOMB",
+  "zh": "遥控炸弹"
+ },
+ "TACT": {
+  "budget": 9,
+  "flags": [],
+  "en": "DETONATOR",
+  "zh": "起爆器"
+ },
+ "TDSO": {
+  "budget": 15,
+  "flags": [],
+  "en": "SOLDIER UNIFORM",
+  "zh": "士兵军服"
+ },
+ "TDPA": {
+  "budget": 14,
+  "flags": [],
+  "en": "PATROL UNIFORM",
+  "zh": "巡逻兵军服"
+ },
+ "TDCA": {
+  "budget": 18,
+  "flags": [],
+  "en": "LIEUTENANT UNIFORM",
+  "zh": "中尉军服"
+ },
+ "TDOF": {
+  "budget": 15,
+  "flags": [],
+  "en": "OFFICER UNIFORM",
+  "zh": "军官军服"
+ },
+ "TDAL": {
+  "budget": 15,
+  "flags": [],
+  "en": "ADMIRAL UNIFORM",
+  "zh": "海军上将军服"
+ },
+ "TDCI": {
+  "budget": 16,
+  "flags": [],
+  "en": "REGULAR CLOTHING",
+  "zh": "普通服装"
+ },
+ "TINS": {
+  "budget": 8,
+  "flags": [],
+  "en": "DISTRACT",
+  "zh": "吸引注意"
+ },
+ "TSUM": {
+  "budget": 4,
+  "flags": [],
+  "en": "DIVE",
+  "zh": "潜水"
+ },
+ "TEME": {
+  "budget": 7,
+  "flags": [],
+  "en": "SURFACE",
+  "zh": "浮出水面"
+ },
+ "TEXA": {
+  "budget": 7,
+  "flags": [],
+  "en": "EXAMINE",
+  "zh": "查看"
+ },
+ "TLIB": {
+  "budget": 3,
+  "flags": [],
+  "en": "MAP",
+  "zh": "地图"
+ },
+ "TOJO": {
+  "budget": 13,
+  "flags": [],
+  "en": "FIELD OF VIEW",
+  "zh": "视野范围"
+ },
+ "TCAM": {
+  "budget": 6,
+  "flags": [],
+  "en": "CAMERA",
+  "zh": "摄像机"
+ },
+ "TMAP": {
+  "budget": 3,
+  "flags": [],
+  "en": "MAP",
+  "zh": "地图"
+ },
+ "TGRA": {
+  "budget": 7,
+  "flags": [],
+  "en": "GRENADE",
+  "zh": "手榴弹"
+ },
+ "ACOM": {
+  "budget": 11,
+  "flags": [],
+  "en": "GREEN BERET",
+  "zh": "绿贝雷"
+ },
+ "MB06": {
+  "budget": 11,
+  "flags": [],
+  "en": "GREEN BERET",
+  "zh": "绿贝雷"
+ },
+ "AART": {
+  "budget": 6,
+  "flags": [],
+  "en": "SAPPER",
+  "zh": "工兵"
+ },
+ "AFRN": {
+  "budget": 6,
+  "flags": [],
+  "en": "SNIPER",
+  "zh": "狙击手"
+ },
+ "ALAN": {
+  "budget": 5,
+  "flags": [],
+  "en": "DIVER",
+  "zh": "潜水员"
+ },
+ "AESP": {
+  "budget": 3,
+  "flags": [],
+  "en": "SPY",
+  "zh": "间谍"
+ },
+ "ARAT": {
+  "budget": 5,
+  "flags": [],
+  "en": "THIEF",
+  "zh": "小偷"
+ },
+ "MESC": {
+  "budget": 5,
+  "flags": [],
+  "en": "CLIMB",
+  "zh": "攀爬"
+ },
+ "DBMN": {
+  "budget": 8,
+  "flags": [],
+  "en": "DOBERMAN",
+  "zh": "杜宾犬"
+ },
+ "SOLD": {
+  "budget": 7,
+  "flags": [],
+  "en": "SOLDIER",
+  "zh": "士兵"
+ },
+ "ESCL": {
+  "budget": 5,
+  "flags": [],
+  "en": "CLIMB",
+  "zh": "攀爬"
+ },
+ "CAMI": {
+  "budget": 5,
+  "flags": [],
+  "en": "TRUCK",
+  "zh": "卡车"
+ },
+ "TANQ": {
+  "budget": 4,
+  "flags": [],
+  "en": "TANK",
+  "zh": "坦克"
+ },
+ "ZODI": {
+  "budget": 6,
+  "flags": [],
+  "en": "ZODIAK",
+  "zh": "橡皮艇"
+ },
+ "WILL": {
+  "budget": 6,
+  "flags": [],
+  "en": "WILLIS",
+  "zh": "威利斯"
+ },
+ "TVEN": {
+  "budget": 6,
+  "flags": [],
+  "en": "WINDOW",
+  "zh": "窗户"
+ },
+ "IT00": {
+  "budget": 44,
+  "flags": [],
+  "en": "YOU HAVE NOT COMPLETED ALL OF THE OBJECTIVES",
+  "zh": "你尚未完成所有目标"
+ },
+ "IT01": {
+  "budget": 24,
+  "flags": [],
+  "en": "ALL YOUR MEN MUST ESCAPE",
+  "zh": "全体队员必须撤离"
+ },
+ "IT02": {
+  "budget": 24,
+  "flags": [],
+  "en": "ONE OF YOUR MEN HAS DIED",
+  "zh": "你的一名队员已阵亡"
+ },
+ "IT03": {
+  "budget": 25,
+  "flags": [],
+  "en": "ALL OF YOUR MEN HAVE DIED",
+  "zh": "你的队员已全部阵亡"
+ },
+ "IT04": {
+  "budget": 41,
+  "flags": [],
+  "en": "YOU HAVE TO ESCAPE IN THE CORRECT VEHICLE",
+  "zh": "必须乘坐正确的载具撤离"
+ },
+ "IT05": {
+  "budget": 59,
+  "flags": [],
+  "en": "YOU HAVE COMPLETED ALL THE GOALS, BUT SOME OF YOUR MEN DIED",
+  "zh": "你已完成全部目标，但部分队员阵亡"
+ },
+ "IT06": {
+  "budget": 37,
+  "flags": [],
+  "en": "THE ESCAPE VEHICLE HAS BEEN DESTROYED",
+  "zh": "撤离载具已被摧毁"
+ },
+ "IT07": {
+  "budget": 17,
+  "flags": [],
+  "en": "MISSION COMPLETED",
+  "zh": "任务完成"
+ },
+ "IT08": {
+  "budget": 7,
+  "flags": [],
+  "en": "VICTORY",
+  "zh": "胜利"
+ },
+ "IT09": {
+  "budget": 22,
+  "flags": [],
+  "en": "YOU HAVE BEEN DEFEATED",
+  "zh": "你已被击败"
+ },
+ "IT10": {
+  "budget": 14,
+  "flags": [],
+  "en": "MISSION FAILED",
+  "zh": "任务失败"
+ },
+ "IT11": {
+  "budget": 17,
+  "flags": [],
+  "en": "YOUR MAN HAS DIED",
+  "zh": "你的部下阵亡了"
+ },
+ "IT12": {
+  "budget": 32,
+  "flags": [],
+  "en": "ALL OF YOUR ALLIED MEN HAVE DIED",
+  "zh": "所有盟军士兵都已阵亡"
+ },
+ "IT13": {
+  "budget": 17,
+  "flags": [],
+  "en": "CAMPAIGN COMPLETE",
+  "zh": "战役完成"
+ },
+ "MMAI": {
+  "budget": 9,
+  "flags": [],
+  "en": "MAIN MENU",
+  "zh": "主菜单"
+ },
+ "SPLA": {
+  "budget": 13,
+  "flags": [],
+  "en": "SINGLE PLAYER",
+  "zh": "单人游戏"
+ },
+ "MPLY": {
+  "budget": 11,
+  "flags": [],
+  "en": "MULTIPLAYER",
+  "zh": "多人游戏"
+ },
+ "OPTI": {
+  "budget": 7,
+  "flags": [],
+  "en": "OPTIONS",
+  "zh": "选项设置"
+ },
+ "CRED": {
+  "budget": 7,
+  "flags": [],
+  "en": "CREDITS",
+  "zh": "制作人员"
+ },
+ "TUTO": {
+  "budget": 8,
+  "flags": [],
+  "en": "TUTORIAL",
+  "zh": "教学任务"
+ },
+ "EXIT": {
+  "budget": 4,
+  "flags": [],
+  "en": "EXIT",
+  "zh": "离开"
+ },
+ "MPLA": {
+  "budget": 12,
+  "flags": [],
+  "en": "PLAYERS MENU",
+  "zh": "玩家菜单"
+ },
+ "MJRE": {
+  "budget": 12,
+  "flags": [],
+  "en": "PLAYERS MENU",
+  "zh": "玩家菜单"
+ },
+ "MCON": {
+  "budget": 15,
+  "flags": [],
+  "en": "CONNECTION TYPE",
+  "zh": "连接类型"
+ },
+ "MSES": {
+  "budget": 11,
+  "flags": [],
+  "en": "SELECT GAME",
+  "zh": "选择游戏"
+ },
+ "MCSE": {
+  "budget": 11,
+  "flags": [],
+  "en": "CREATE GAME",
+  "zh": "创建游戏"
+ },
+ "MFSR": {
+  "budget": 14,
+  "flags": [],
+  "en": "CONFIGURE GAME",
+  "zh": "配置游戏"
+ },
+ "MFPV": {
+  "budget": 11,
+  "flags": [],
+  "en": "SELECT TEAM",
+  "zh": "选择队伍"
+ },
+ "MFPC": {
+  "budget": 11,
+  "flags": [],
+  "en": "SELECT TEAM",
+  "zh": "选择队伍"
+ },
+ "MVC1": {
+  "budget": 6,
+  "flags": [],
+  "en": "VERSUS",
+  "zh": "对抗"
+ },
+ "MVCL": {
+  "budget": 11,
+  "flags": [],
+  "en": "COOPERATIVE",
+  "zh": "合作"
+ },
+ "DELE": {
+  "budget": 6,
+  "flags": [],
+  "en": "DELETE",
+  "zh": "删除"
+ },
+ "NEW_": {
+  "budget": 11,
+  "flags": [],
+  "en": "NEW PROFILE",
+  "zh": "新建档案"
+ },
+ "LOPO": {
+  "budget": 12,
+  "flags": [],
+  "en": "LOAD PROFILE",
+  "zh": "读取档案"
+ },
+ "MMIS": {
+  "budget": 8,
+  "flags": [],
+  "en": "MISSIONS",
+  "zh": "任务"
+ },
+ "STAR": {
+  "budget": 5,
+  "flags": [],
+  "en": "START",
+  "zh": "开始"
+ },
+ "MING": {
+  "budget": 12,
+  "flags": [],
+  "en": "IN GAME MENU",
+  "zh": "游戏菜单"
+ },
+ "EXGA": {
+  "budget": 9,
+  "flags": [],
+  "en": "EXIT GAME",
+  "zh": "退出游戏"
+ },
+ "LQSG": {
+  "budget": 9,
+  "flags": [],
+  "en": "QUICKLOAD",
+  "zh": "快速读取"
+ },
+ "SQSG": {
+  "budget": 9,
+  "flags": [],
+  "en": "QUICKSAVE",
+  "zh": "快速保存"
+ },
+ "RSTA": {
+  "budget": 7,
+  "flags": [],
+  "en": "RESTART",
+  "zh": "重新开始"
+ },
+ "LSGS": {
+  "budget": 9,
+  "flags": [],
+  "en": "LOAD GAME",
+  "zh": "读取进度"
+ },
+ "STGA": {
+  "budget": 9,
+  "flags": [],
+  "en": "SAVE GAME",
+  "zh": "保存进度"
+ },
+ "MSDA": {
+  "budget": 15,
+  "flags": [],
+  "en": "SAVED GAME MENU",
+  "zh": "读取存档菜单"
+ },
+ "MSGA": {
+  "budget": 15,
+  "flags": [],
+  "en": "SAVED GAME MENU",
+  "zh": "读取存档菜单"
+ },
+ "SAVE": {
+  "budget": 4,
+  "flags": [],
+  "en": "SAVE",
+  "zh": "保存"
+ },
+ "UNUS": {
+  "budget": 11,
+  "flags": [],
+  "en": "UNUSED SLOT",
+  "zh": "空白存档位"
+ },
+ "DEFA": {
+  "budget": 7,
+  "flags": [],
+  "en": "DEFAULT",
+  "zh": "默认"
+ },
+ "MOPT": {
+  "budget": 7,
+  "flags": [],
+  "en": "OPTIONS",
+  "zh": "选项设置"
+ },
+ "VOLM": {
+  "budget": 5,
+  "flags": [],
+  "en": "MUSIC",
+  "zh": "音乐"
+ },
+ "VOLE": {
+  "budget": 3,
+  "flags": [],
+  "en": "SFX",
+  "zh": "音效"
+ },
+ "VOLG": {
+  "budget": 13,
+  "flags": [],
+  "en": "MASTER VOLUME",
+  "zh": "主音量"
+ },
+ "VOCH": {
+  "budget": 10,
+  "flags": [],
+  "en": "CHARACTERS",
+  "zh": "角色"
+ },
+ "MOOF": {
+  "budget": 5,
+  "flags": [],
+  "en": "MUSIC",
+  "zh": "音乐"
+ },
+ "PBRI": {
+  "budget": 8,
+  "flags": [],
+  "en": "BRIEFING",
+  "zh": "任务简报"
+ },
+ "TENT": {
+  "budget": 4,
+  "flags": [],
+  "en": "DOOR",
+  "zh": "门"
+ },
+ "TOUT": {
+  "budget": 4,
+  "flags": [],
+  "en": "DOOR",
+  "zh": "门"
+ },
+ "TPUE": {
+  "budget": 4,
+  "flags": [],
+  "en": "DOOR",
+  "zh": "门"
+ },
+ "CONT": {
+  "budget": 8,
+  "flags": [],
+  "en": "CONTINUE",
+  "zh": "继续"
+ },
+ "BOTI": {
+  "budget": 13,
+  "flags": [],
+  "en": "FIRST-AID KIT",
+  "zh": "急救包"
+ },
+ "TENA": {
+  "budget": 12,
+  "flags": [],
+  "en": "WIRE CUTTERS",
+  "zh": "剪线钳"
+ },
+ "ALAM": {
+  "budget": 11,
+  "flags": [],
+  "en": "BARBED WIRE",
+  "zh": "铁丝网"
+ },
+ "CCOM": {
+  "budget": 11,
+  "flags": [],
+  "en": "GREEN BERET",
+  "zh": "绿贝雷"
+ },
+ "CART": {
+  "budget": 6,
+  "flags": [],
+  "en": "SAPPER",
+  "zh": "工兵"
+ },
+ "CFCT": {
+  "budget": 6,
+  "flags": [],
+  "en": "SNIPER",
+  "zh": "狙击手"
+ },
+ "CLCH": {
+  "budget": 5,
+  "flags": [],
+  "en": "DIVER",
+  "zh": "潜水员"
+ },
+ "CSPY": {
+  "budget": 3,
+  "flags": [],
+  "en": "SPY",
+  "zh": "间谍"
+ },
+ "CRAT": {
+  "budget": 5,
+  "flags": [],
+  "en": "THIEF",
+  "zh": "小偷"
+ },
+ "LANZ": {
+  "budget": 12,
+  "flags": [],
+  "en": "FLAMETHROWER",
+  "zh": "火焰喷射器"
+ },
+ "BAZO": {
+  "budget": 7,
+  "flags": [],
+  "en": "BAZOOKA",
+  "zh": "火箭筒"
+ },
+ "NGRA": {
+  "budget": 9,
+  "flags": [],
+  "en": "GRENADE N",
+  "zh": "手榴弹"
+ },
+ "CAJA": {
+  "budget": 3,
+  "flags": [],
+  "en": "BOX",
+  "zh": "箱子"
+ },
+ "MINA": {
+  "budget": 19,
+  "flags": [],
+  "en": "ANTI-PERSONNEL MINE",
+  "zh": "反步兵地雷"
+ },
+ "BUCE": {
+  "budget": 16,
+  "flags": [],
+  "en": "DIVING EQUIPMENT",
+  "zh": "潜水装备"
+ },
+ "DETE": {
+  "budget": 13,
+  "flags": [],
+  "en": "MINE DETECTOR",
+  "zh": "探雷器"
+ },
+ "GANZ": {
+  "budget": 9,
+  "flags": [],
+  "en": "LOCKPICKS",
+  "zh": "开锁工具"
+ },
+ "MINS": {
+  "budget": 15,
+  "flags": [],
+  "en": "UNDERWATER MINE",
+  "zh": "水雷"
+ },
+ "FACH": {
+  "budget": 4,
+  "flags": [],
+  "en": "WALL",
+  "zh": "墙壁"
+ },
+ "JERI": {
+  "budget": 18,
+  "flags": [],
+  "en": "HYPODERMIC SYRINGE",
+  "zh": "注射器"
+ },
+ "ATON": {
+  "budget": 4,
+  "flags": [],
+  "en": "STUN",
+  "zh": "击晕"
+ },
+ "CIPX": {
+  "budget": 3,
+  "flags": [],
+  "en": "IPX",
+  "zh": "IPX"
+ },
+ "CTCL": {
+  "budget": 12,
+  "flags": [],
+  "en": "TCP/IP (LAN)",
+  "zh": "TCP/IP（局域网）"
+ },
+ "CTCI": {
+  "budget": 17,
+  "flags": [],
+  "en": "TCP/IP (INTERNET)",
+  "zh": "TCP/IP（互联网）"
+ },
+ "PLAY": {
+  "budget": 4,
+  "flags": [],
+  "en": "PLAY",
+  "zh": "开始"
+ },
+ "NODI": {
+  "budget": 5,
+  "flags": [],
+  "en": "(N/A)",
+  "zh": "（无）"
+ },
+ "UNIR": {
+  "budget": 4,
+  "flags": [],
+  "en": "JOIN",
+  "zh": "加入"
+ },
+ "CREA": {
+  "budget": 6,
+  "flags": [],
+  "en": "CREATE",
+  "zh": "创建"
+ },
+ "REFR": {
+  "budget": 7,
+  "flags": [],
+  "en": "REFRESH",
+  "zh": "刷新"
+ },
+ "EMPE": {
+  "budget": 5,
+  "flags": [],
+  "en": "START",
+  "zh": "开始"
+ },
+ "VOPT": {
+  "budget": 13,
+  "flags": [],
+  "en": "VIDEO OPTIONS",
+  "zh": "视频选项"
+ },
+ "VODE": {
+  "budget": 13,
+  "flags": [],
+  "en": "VIDEO OPTIONS",
+  "zh": "视频选项"
+ },
+ "SOPT": {
+  "budget": 13,
+  "flags": [],
+  "en": "AUDIO OPTIONS",
+  "zh": "音频选项"
+ },
+ "MOPS": {
+  "budget": 13,
+  "flags": [],
+  "en": "AUDIO OPTIONS",
+  "zh": "音频选项"
+ },
+ "MOPV": {
+  "budget": 18,
+  "flags": [],
+  "en": "VIDEO OPTIONS MENU",
+  "zh": "视频选项菜单"
+ },
+ "MOPJ": {
+  "budget": 17,
+  "flags": [],
+  "en": "GAME OPTIONS MENU",
+  "zh": "游戏选项菜单"
+ },
+ "CDPR": {
+  "budget": 8,
+  "flags": [],
+  "en": "DOG FOOD",
+  "zh": "狗粮"
+ },
+ "CPNA": {
+  "budget": 17,
+  "flags": [],
+  "en": "POISONED DOG FOOD",
+  "zh": "有毒狗粮"
+ },
+ "TABC": {
+  "budget": 14,
+  "flags": [],
+  "en": "CIGARETTE PACK",
+  "zh": "香烟盒"
+ },
+ "MINC": {
+  "budget": 14,
+  "flags": [],
+  "en": "ANTI-TANK MINE",
+  "zh": "反坦克地雷"
+ },
+ "PEGB": {
+  "budget": 16,
+  "flags": [],
+  "en": "STEAL FROM ENEMY",
+  "zh": "从敌人处偷取"
+ },
+ "VINV": {
+  "budget": 16,
+  "flags": [],
+  "en": "INVENTORY WINDOW",
+  "zh": "物品栏窗口"
+ },
+ "BARR": {
+  "budget": 6,
+  "flags": [],
+  "en": "BARREL",
+  "zh": "木桶"
+ },
+ "CAFU": {
+  "budget": 4,
+  "flags": [],
+  "en": "SAFE",
+  "zh": "保险箱"
+ },
+ "CARF": {
+  "budget": 17,
+  "flags": [],
+  "en": "SNIPER RIFLE AMMO",
+  "zh": "狙击步枪弹药"
+ },
+ "CARB": {
+  "budget": 12,
+  "flags": [],
+  "en": "BAZOOKA AMMO",
+  "zh": "火箭筒弹药"
+ },
+ "CARP": {
+  "budget": 11,
+  "flags": [],
+  "en": "PISTOL AMMO",
+  "zh": "手枪弹药"
+ },
+ "CARR": {
+  "budget": 10,
+  "flags": [],
+  "en": "RIFLE AMMO",
+  "zh": "步枪弹药"
+ },
+ "CARZ": {
+  "budget": 16,
+  "flags": [],
+  "en": "MACHINE GUN AMMO",
+  "zh": "机枪弹药"
+ },
+ "CARS": {
+  "budget": 19,
+  "flags": [],
+  "en": "SUBMACHINE GUN AMMO",
+  "zh": "冲锋枪弹药"
+ },
+ "ESCD": {
+  "budget": 12,
+  "flags": [],
+  "en": "HIDING PLACE",
+  "zh": "藏身处"
+ },
+ "INTE": {
+  "budget": 6,
+  "flags": [],
+  "en": "SWITCH",
+  "zh": "开关"
+ },
+ "POST": {
+  "budget": 4,
+  "flags": [],
+  "en": "POLE",
+  "zh": "杆子"
+ },
+ "ESEN": {
+  "budget": 11,
+  "flags": [],
+  "en": "ROPE LADDER",
+  "zh": "绳梯"
+ },
+ "CEPO": {
+  "budget": 4,
+  "flags": [],
+  "en": "TRAP",
+  "zh": "陷阱"
+ },
+ "ESMI": {
+  "budget": 7,
+  "flags": [],
+  "en": "LOOK AT",
+  "zh": "查看"
+ },
+ "ESIR": {
+  "budget": 5,
+  "flags": [],
+  "en": "GO TO",
+  "zh": "前往"
+ },
+ "AMPO": {
+  "budget": 6,
+  "flags": [],
+  "en": "POISON",
+  "zh": "毒药"
+ },
+ "QBEL": {
+  "budget": 10,
+  "flags": [],
+  "en": "KUBELWAGEN",
+  "zh": "桶车"
+ },
+ "AMTE": {
+  "budget": 17,
+  "flags": [],
+  "en": "HEAVY MACHINE GUN",
+  "zh": "重机枪"
+ },
+ "PBAJ": {
+  "budget": 3,
+  "flags": [],
+  "en": "LOW",
+  "zh": "低"
+ },
+ "PALT": {
+  "budget": 4,
+  "flags": [],
+  "en": "HIGH",
+  "zh": "高"
+ },
+ "ACTI": {
+  "budget": 14,
+  "flags": [],
+  "en": "REMOTE CONTROL",
+  "zh": "遥控器"
+ },
+ "MECA": {
+  "budget": 15,
+  "flags": [],
+  "en": "WORKER CLOTHING",
+  "zh": "工人服装"
+ },
+ "MARI": {
+  "budget": 15,
+  "flags": [],
+  "en": "SAILOR CLOTHING",
+  "zh": "水兵服装"
+ },
+ "RSOL": {
+  "budget": 7,
+  "flags": [],
+  "en": "SOLDIER",
+  "zh": "士兵"
+ },
+ "RCAB": {
+  "budget": 10,
+  "flags": [],
+  "en": "LIEUTENANT",
+  "zh": "中尉"
+ },
+ "ROFI": {
+  "budget": 7,
+  "flags": [],
+  "en": "OFFICER",
+  "zh": "军官"
+ },
+ "ARIF": {
+  "budget": 12,
+  "flags": [],
+  "en": "SNIPER RIFLE",
+  "zh": "狙击步枪"
+ },
+ "SILL": {
+  "budget": 5,
+  "flags": [],
+  "en": "CHAIR",
+  "zh": "椅子"
+ },
+ "OBJE": {
+  "budget": 10,
+  "flags": [],
+  "en": "OBJECTIVES",
+  "zh": "目标"
+ },
+ "ESPL": {
+  "budget": 25,
+  "flags": [],
+  "en": "WAITING FOR OTHER PLAYERS",
+  "zh": "正在等待其他玩家"
+ },
+ "ESMU": {
+  "budget": 81,
+  "flags": [],
+  "en": "WAITING TOO LONG FOR OTHER PLAYERS... timing out... connection may have been lost",
+  "zh": "等待其他玩家时间过长……即将超时……连接可能已断"
+ },
+ "NTAE": {
+  "budget": 30,
+  "flags": [],
+  "en": "NOT ALL COMMANDOS ARE ASSIGNED",
+  "zh": "并非所有敢死队员都已分配"
+ },
+ "AJSC": {
+  "budget": 38,
+  "flags": [],
+  "en": "NOT ALL PLAYERS HAVE CHOSEN A COMMANDO",
+  "zh": "并非所有玩家都已选择敢死队员"
+ },
+ "ECON": {
+  "budget": 19,
+  "flags": [],
+  "en": "Error in connection",
+  "zh": "连接错误"
+ },
+ "CCHA": {
+  "budget": 8,
+  "flags": [],
+  "en": "MESSAGE:",
+  "zh": "消息："
+ },
+ "CCHB": {
+  "budget": 13,
+  "flags": [],
+  "en": "TEAM MESSAGE:",
+  "zh": "小队消息："
+ },
+ "CCHC": {
+  "budget": 6,
+  "flags": [],
+  "en": "(TEAM)",
+  "zh": "小队"
+ },
+ "CCHD": {
+  "budget": 6,
+  "flags": [],
+  "en": "(DEAD)",
+  "zh": "阵亡"
+ },
+ "BIIN": {
+  "budget": 5,
+  "flags": [],
+  "en": "TRADE",
+  "zh": "交易"
+ },
+ "BISA": {
+  "budget": 4,
+  "flags": [],
+  "en": "EXIT",
+  "zh": "退出"
+ },
+ "BIUS": {
+  "budget": 3,
+  "flags": [],
+  "en": "USE",
+  "zh": "使用"
+ },
+ "NARC": {
+  "budget": 14,
+  "flags": [],
+  "en": "SLEEPING PILLS",
+  "zh": "安眠药"
+ },
+ "ASBU": {
+  "budget": 8,
+  "flags": [],
+  "en": "LOOK OUT",
+  "zh": "警戒"
+ },
+ "DSBU": {
+  "budget": 9,
+  "flags": [],
+  "en": "DIVE DOWN",
+  "zh": "卧倒"
+ },
+ "GARF": {
+  "budget": 14,
+  "flags": [],
+  "en": "GRAPPLING HOOK",
+  "zh": "抓钩"
+ },
+ "GNCH": {
+  "budget": 14,
+  "flags": [],
+  "en": "GRAPPLING HOOK",
+  "zh": "抓钩"
+ },
+ "TBGA": {
+  "budget": 11,
+  "flags": [],
+  "en": "GAS GRENADE",
+  "zh": "毒气手榴弹"
+ },
+ "TASK": {
+  "budget": 16,
+  "flags": [],
+  "en": "ARMOURED VEHICLE",
+  "zh": "装甲车"
+ },
+ "RFRA": {
+  "budget": 12,
+  "flags": [],
+  "en": "ENEMY SNIPER",
+  "zh": "敌方狙击手"
+ },
+ "JEPA": {
+  "budget": 13,
+  "flags": [],
+  "en": "PATROL LEADER",
+  "zh": "巡逻队长"
+ },
+ "PATU": {
+  "budget": 9,
+  "flags": [],
+  "en": "PATROLMAN",
+  "zh": "巡逻兵"
+ },
+ "ALGS": {
+  "budget": 12,
+  "flags": [],
+  "en": "GESTAPO SGT.",
+  "zh": "盖世太保中士"
+ },
+ "MTOV": {
+  "budget": 16,
+  "flags": [],
+  "en": "MOLOTOV COCKTAIL",
+  "zh": "燃烧瓶"
+ },
+ "TMSP": {
+  "budget": 10,
+  "flags": [],
+  "en": "One Player",
+  "zh": "单人游戏"
+ },
+ "TMCO": {
+  "budget": 11,
+  "flags": [],
+  "en": "Cooperative",
+  "zh": "合作模式"
+ },
+ "TMST": {
+  "budget": 19,
+  "flags": [],
+  "en": "One Player Tutorial",
+  "zh": "单人游戏教程"
+ },
+ "MOAG": {
+  "budget": 10,
+  "flags": [],
+  "en": "COVER MODE",
+  "zh": "掩护模式"
+ },
+ "DXE1": {
+  "budget": 5,
+  "flags": [],
+  "en": "Error",
+  "zh": "错误"
+ },
+ "DXE2": {
+  "budget": 40,
+  "flags": [],
+  "en": " You need DirectX version 8.1 or higher.",
+  "zh": "需要DirectX 8.1或更高版本。"
+ },
+ "BCTF": {
+  "budget": 16,
+  "flags": [],
+  "en": "Collect The Flag",
+  "zh": "夺旗模式"
+ },
+ "FPTI": {
+  "budget": 4,
+  "flags": [],
+  "en": "TIME",
+  "zh": "时间"
+ },
+ "FPPU": {
+  "budget": 6,
+  "flags": [],
+  "en": "POINTS",
+  "zh": "分数"
+ },
+ "MBOK": {
+  "budget": 2,
+  "flags": [
+   "超短"
+  ],
+  "en": "OK",
+  "zh": "确定"
+ },
+ "MBSI": {
+  "budget": 3,
+  "flags": [],
+  "en": "YES",
+  "zh": "是"
+ },
+ "MBNO": {
+  "budget": 2,
+  "flags": [
+   "超短"
+  ],
+  "en": "NO",
+  "zh": "否"
+ },
+ "STAS": {
+  "budget": 20,
+  "flags": [],
+  "en": "SHOW TIPS AT STARTUP",
+  "zh": "启动时显示提示"
+ },
+ "TICL": {
+  "budget": 5,
+  "flags": [],
+  "en": "CLOSE",
+  "zh": "关闭"
+ },
+ "LOAD": {
+  "budget": 4,
+  "flags": [],
+  "en": "LOAD",
+  "zh": "读取"
+ },
+ "SECA": {
+  "budget": 15,
+  "flags": [],
+  "en": "SELECT CAMPAIGN",
+  "zh": "选择战役"
+ },
+ "CNPR": {
+  "budget": 11,
+  "flags": [],
+  "en": "NEW PROFILE",
+  "zh": "新建档案"
+ },
+ "EPEV": {
+  "budget": 17,
+  "flags": [],
+  "en": "ERROR: EMPTY NAME",
+  "zh": "错误：名称为空"
+ },
+ "EPER": {
+  "budget": 20,
+  "flags": [],
+  "en": "ERROR: REPEATED NAME",
+  "zh": "错误：名称重复"
+ },
+ "CAST": {
+  "budget": 10,
+  "flags": [],
+  "en": "STALINGRAD",
+  "zh": "斯大林格勒"
+ },
+ "CATR": {
+  "budget": 14,
+  "flags": [],
+  "en": "CENTRAL EUROPE",
+  "zh": "中欧"
+ },
+ "CAOM": {
+  "budget": 8,
+  "flags": [],
+  "en": "NORMANDY",
+  "zh": "诺曼底"
+ },
+ "ELPJ": {
+  "budget": 10,
+  "flags": [],
+  "en": "START GAME",
+  "zh": "开始游戏"
+ },
+ "SEPT": {
+  "budget": 15,
+  "flags": [],
+  "en": "SELECT TUTORIAL",
+  "zh": "选择教程"
+ },
+ "FIPR": {
+  "budget": 4,
+  "flags": [],
+  "en": "PREV",
+  "zh": "上一页"
+ },
+ "FDNE": {
+  "budget": 4,
+  "flags": [],
+  "en": "NEXT",
+  "zh": "下一页"
+ },
+ "CHON": {
+  "budget": 2,
+  "flags": [
+   "超短"
+  ],
+  "en": "ON",
+  "zh": "开"
+ },
+ "CHOF": {
+  "budget": 3,
+  "flags": [],
+  "en": "OFF",
+  "zh": "关"
+ },
+ "HIQU": {
+  "budget": 12,
+  "flags": [],
+  "en": "HIGH QUALITY",
+  "zh": "高画质"
+ },
+ "LOQU": {
+  "budget": 11,
+  "flags": [],
+  "en": "LOW QUALITY",
+  "zh": "低画质"
+ },
+ "INSA": {
+  "budget": 4,
+  "flags": [],
+  "en": "EXIT",
+  "zh": "退出"
+ },
+ "INEI": {
+  "budget": 4,
+  "flags": [],
+  "en": "HELP",
+  "zh": "帮助"
+ },
+ "ININ": {
+  "budget": 5,
+  "flags": [],
+  "en": "TRADE",
+  "zh": "交换"
+ },
+ "INUS": {
+  "budget": 3,
+  "flags": [],
+  "en": "USE",
+  "zh": "使用"
+ },
+ "ACCO": {
+  "budget": 16,
+  "flags": [],
+  "en": "TOGGLE COMMANDOS",
+  "zh": "切换队员栏"
+ },
+ "APSI": {
+  "budget": 17,
+  "flags": [],
+  "en": "TOGGLE MAP WINDOW",
+  "zh": "切换地图窗口"
+ },
+ "APSU": {
+  "budget": 21,
+  "flags": [],
+  "en": "TOGGLE ON-SCREEN TIPS",
+  "zh": "切换屏幕提示"
+ },
+ "CLPP": {
+  "budget": 16,
+  "flags": [],
+  "en": "SELECT SAVE GAME",
+  "zh": "选择存档"
+ },
+ "AINV": {
+  "budget": 8,
+  "flags": [],
+  "en": "BACKPACK",
+  "zh": "背包"
+ },
+ "ELPM": {
+  "budget": 13,
+  "flags": [],
+  "en": "START MISSION",
+  "zh": "开始任务"
+ },
+ "MERC": {
+  "budget": 13,
+  "flags": [],
+  "en": "OFFICER'S CAR",
+  "zh": "军官座车"
+ },
+ "SEMI": {
+  "budget": 14,
+  "flags": [],
+  "en": "SELECT MISSION",
+  "zh": "选择任务"
+ },
+ "TTML": {
+  "budget": 4,
+  "flags": [],
+  "en": "HELP",
+  "zh": "帮助"
+ },
+ "MLCR": {
+  "budget": 5,
+  "flags": [],
+  "en": "CLOSE",
+  "zh": "关闭"
+ },
+ "CHMA": {
+  "budget": 14,
+  "flags": [],
+  "en": "ALLIED SOLDIER",
+  "zh": "盟军士兵"
+ },
+ "ATME": {
+  "budget": 18,
+  "flags": [],
+  "en": "MACHINE GUN TRIPOD",
+  "zh": "机枪三脚架"
+ },
+ "CDMA": {
+  "budget": 10,
+  "flags": [],
+  "en": "PIANO WIRE",
+  "zh": "钢琴线"
+ },
+ "MCJV": {
+  "budget": 14,
+  "flags": [],
+  "en": "PLAYER IS GONE",
+  "zh": "玩家已离开"
+ },
+ "MCNS": {
+  "budget": 24,
+  "flags": [],
+  "en": "PLAYER IS THE NEW SERVER",
+  "zh": "玩家成为新主机"
+ },
+ "MCPU": {
+  "budget": 17,
+  "flags": [],
+  "en": "PLAYER HAS JOINED",
+  "zh": "玩家已加入"
+ },
+ "MCWO": {
+  "budget": 47,
+  "flags": [],
+  "en": "PLEASE WAIT FOR OTHER LOBBY PLAYERS TO JOIN ...",
+  "zh": "请等待大厅内其他玩家加入……"
+ },
+ "MCWC": {
+  "budget": 56,
+  "flags": [],
+  "en": "WAITING FOR OTHER LOBBY PLAYERS TO REACH THIS SCREEN ...",
+  "zh": "正在等待其他大厅玩家进入此界面……"
+ },
+ "MCWN": {
+  "budget": 55,
+  "flags": [],
+  "en": "NUMBER OF PLAYERS IN SESSION EXCEEDS CONFIGURED PLAYERS",
+  "zh": "本次游戏玩家数超过设定的玩家数量"
+ },
+ "MCWM": {
+  "budget": 32,
+  "flags": [],
+  "en": "THERE MUST BE AT LEAST 2 PLAYERS",
+  "zh": "至少需要2名玩家"
+ },
+ "MCWB": {
+  "budget": 32,
+  "flags": [],
+  "en": "YOU MUST USE ALL OF YOUR CREDITS",
+  "zh": "必须用完所有积分"
+ },
+ "MCWS": {
+  "budget": 14,
+  "flags": [],
+  "en": "GAME STARTS IN",
+  "zh": "游戏开始倒计时"
+ },
+ "MCYW": {
+  "budget": 20,
+  "flags": [],
+  "en": "BATTLE OVER: YOU WIN",
+  "zh": "战斗结束：你获胜"
+ },
+ "MCWK": {
+  "budget": 47,
+  "flags": [],
+  "en": "ARE YOU SURE YOU WANT THIS PLAYER TO BE KICKED?",
+  "zh": "确定要踢出该玩家吗？"
+ },
+ "MCYL": {
+  "budget": 21,
+  "flags": [],
+  "en": "BATTLE OVER: YOU LOSE",
+  "zh": "战斗结束：你失败"
+ },
+ "MCYD": {
+  "budget": 22,
+  "flags": [],
+  "en": "BATTLE OVER: DRAW GAME",
+  "zh": "战斗结束：平局"
+ },
+ "MCYR": {
+  "budget": 26,
+  "flags": [],
+  "en": "BATTLE OVER: RED TEAM WINS",
+  "zh": "战斗结束：红队获胜"
+ },
+ "MCYG": {
+  "budget": 28,
+  "flags": [],
+  "en": "BATTLE OVER: GREEN TEAM WINS",
+  "zh": "战斗结束：绿队获胜"
+ },
+ "MCYB": {
+  "budget": 27,
+  "flags": [],
+  "en": "BATTLE OVER: BLUE TEAM WINS",
+  "zh": "战斗结束：蓝队获胜"
+ },
+ "MCYY": {
+  "budget": 29,
+  "flags": [],
+  "en": "BATTLE OVER: YELLOW TEAM WINS",
+  "zh": "战斗结束：黄队获胜"
+ },
+ "MCLA": {
+  "budget": 24,
+  "flags": [],
+  "en": "YOU'VE LOST ALL YOUR MEN",
+  "zh": "你已损失所有队员"
+ },
+ "NRNM": {
+  "budget": 22,
+  "flags": [],
+  "en": "   RUSSIAN SOLDIERS : ",
+  "zh": "苏联士兵："
+ },
+ "SCAP": {
+  "budget": 14,
+  "flags": [],
+  "en": "MISSION FAILED",
+  "zh": "任务失败"
+ },
+ "MST1": {
+  "budget": 14,
+  "flags": [],
+  "en": "BASIC TRAINING",
+  "zh": "基础训练"
+ },
+ "SST0": {
+  "budget": 10,
+  "flags": [],
+  "en": "TUTORIAL 1",
+  "zh": "教程1"
+ },
+ "MTU2": {
+  "budget": 17,
+  "flags": [],
+  "en": "ADVANCED TRAINING",
+  "zh": "高级训练"
+ },
+ "STU2": {
+  "budget": 10,
+  "flags": [],
+  "en": "TUTORIAL 2",
+  "zh": "教程2"
+ },
+ "MSTL": {
+  "budget": 20,
+  "flags": [],
+  "en": "ELIMINATE THE SNIPER",
+  "zh": "消灭狙击手"
+ },
+ "SST1": {
+  "budget": 10,
+  "flags": [],
+  "en": "STALINGRAD",
+  "zh": "斯大林格勒"
+ },
+ "MST2": {
+  "budget": 25,
+  "flags": [],
+  "en": "PROTECT GENERAL O'DONNELL",
+  "zh": "保护奥唐奈将军"
+ },
+ "SST2": {
+  "budget": 10,
+  "flags": [],
+  "en": "STALINGRAD",
+  "zh": "斯大林格勒"
+ },
+ "BRL2": {
+  "budget": 16,
+  "flags": [],
+  "en": "KILL THE TRAITOR",
+  "zh": "杀死叛徒"
+ },
+ "SBE2": {
+  "budget": 6,
+  "flags": [],
+  "en": "BERLIN",
+  "zh": "柏林"
+ },
+ "MTES": {
+  "budget": 22,
+  "flags": [],
+  "en": "INFILTRATE THE STATION",
+  "zh": "潜入火车站"
+ },
+ "STEE": {
+  "budget": 11,
+  "flags": [],
+  "en": "SAINT AVOLD",
+  "zh": "圣阿沃尔德"
+ },
+ "MTAN": {
+  "budget": 15,
+  "flags": [],
+  "en": "BOARD THE TRAIN",
+  "zh": "登上火车"
+ },
+ "STA1": {
+  "budget": 11,
+  "flags": [],
+  "en": "SAINT AVOLD",
+  "zh": "圣阿沃尔德"
+ },
+ "MTVI": {
+  "budget": 20,
+  "flags": [],
+  "en": "STOP BOMB DEPLOYMENT",
+  "zh": "阻止炸弹部署"
+ },
+ "STVI": {
+  "budget": 20,
+  "flags": [],
+  "en": "APPROACHING FRONTIER",
+  "zh": "接近边境"
+ },
+ "MTRE": {
+  "budget": 17,
+  "flags": [],
+  "en": "GET TO THE ENGINE",
+  "zh": "抵达机车"
+ },
+ "STMV": {
+  "budget": 20,
+  "flags": [],
+  "en": "APPROACHING FRONTIER",
+  "zh": "接近边境"
+ },
+ "MTC1": {
+  "budget": 24,
+  "flags": [],
+  "en": "TAKE CONTROL OF THE TOWN",
+  "zh": "夺取城镇控制权"
+ },
+ "STC1": {
+  "budget": 21,
+  "flags": [],
+  "en": "FORBACH, THE FRONTIER",
+  "zh": "福尔巴克，边境"
+ },
+ "MTRC": {
+  "budget": 18,
+  "flags": [],
+  "en": "AMBUSH THE CONVOY ",
+  "zh": "伏击车队"
+ },
+ "STC0": {
+  "budget": 21,
+  "flags": [],
+  "en": "FORBACH, THE FRONTIER",
+  "zh": "福尔巴克，边境"
+ },
+ "MCMP": {
+  "budget": 20,
+  "flags": [],
+  "en": "CRIPPLE NAZI SUPPORT",
+  "zh": "瘫痪纳粹支援"
+ },
+ "SCMP": {
+  "budget": 8,
+  "flags": [],
+  "en": "NORMANDY",
+  "zh": "诺曼底"
+ },
+ "MDOK": {
+  "budget": 20,
+  "flags": [],
+  "en": "DESTROY THE WARSHIPS",
+  "zh": "摧毁战舰"
+ },
+ "SDOK": {
+  "budget": 8,
+  "flags": [],
+  "en": "NORMANDY",
+  "zh": "诺曼底"
+ },
+ "MDSP": {
+  "budget": 15,
+  "flags": [],
+  "en": "STORM THE BEACH",
+  "zh": "强攻海滩"
+ },
+ "SDSP": {
+  "budget": 8,
+  "flags": [],
+  "en": "NORMANDY",
+  "zh": "诺曼底"
+ },
+ "DEM1": {
+  "budget": 14,
+  "flags": [],
+  "en": "BASIC TRAINING",
+  "zh": "基础训练"
+ },
+ "DEM2": {
+  "budget": 8,
+  "flags": [],
+  "en": "TUTORIAL",
+  "zh": "教程"
+ },
+ "DEM3": {
+  "budget": 24,
+  "flags": [],
+  "en": "ELIMINATE ENEMY SOLDIERS",
+  "zh": "消灭敌军士兵"
+ },
+ "DEM4": {
+  "budget": 14,
+  "flags": [],
+  "en": "CENTRAL EUROPE",
+  "zh": "中欧"
+ },
+ "ST01": {
+  "budget": 10,
+  "flags": [],
+  "en": "STALINGRAD",
+  "zh": "斯大林格勒"
+ },
+ "SSMP": {
+  "budget": 11,
+  "flags": [],
+  "en": "MULTIPLAYER",
+  "zh": "多人游戏"
+ },
+ "ST02": {
+  "budget": 17,
+  "flags": [],
+  "en": "BOMBED STALINGRAD",
+  "zh": "被轰炸的斯大林格勒"
+ },
+ "BRMP": {
+  "budget": 7,
+  "flags": [],
+  "en": "BERLIN ",
+  "zh": "柏林"
+ },
+ "TEMP": {
+  "budget": 11,
+  "flags": [],
+  "en": "SAINT AVOLD",
+  "zh": "圣阿沃尔德"
+ },
+ "T1MP": {
+  "budget": 19,
+  "flags": [],
+  "en": "SAINT AVOLD STATION",
+  "zh": "圣阿沃尔德车站"
+ },
+ "TVMP": {
+  "budget": 20,
+  "flags": [],
+  "en": "APPROACHING FRONTIER",
+  "zh": "接近边境"
+ },
+ "TMMP": {
+  "budget": 8,
+  "flags": [],
+  "en": "BY TRAIN",
+  "zh": "乘火车"
+ },
+ "TCMP": {
+  "budget": 7,
+  "flags": [],
+  "en": "FORBACH",
+  "zh": "福尔巴克"
+ },
+ "CPMP": {
+  "budget": 8,
+  "flags": [],
+  "en": "THE CAMP",
+  "zh": "营地"
+ },
+ "PTMP": {
+  "budget": 8,
+  "flags": [],
+  "en": "THE DOCK",
+  "zh": "码头"
+ },
+ "DSMP": {
+  "budget": 5,
+  "flags": [],
+  "en": "OMAHA",
+  "zh": "奥马哈"
+ },
+ "DCT2": {
+  "budget": 9,
+  "flags": [],
+  "en": "DOCUMENTS",
+  "zh": "文件"
+ },
+ "LOAG": {
+  "budget": 10,
+  "flags": [],
+  "en": "LOADING...",
+  "zh": "读取中..."
+ },
+ "SAVG": {
+  "budget": 9,
+  "flags": [],
+  "en": "SAVING...",
+  "zh": "保存中..."
+ },
+ "AUBU": {
+  "budget": 3,
+  "flags": [],
+  "en": "BUS",
+  "zh": "巴士"
+ },
+ "CAAT": {
+  "budget": 16,
+  "flags": [],
+  "en": "ANTI-TANK CANNON",
+  "zh": "反坦克炮"
+ },
+ "BAHU": {
+  "budget": 13,
+  "flags": [],
+  "en": "LANDING CRAFT",
+  "zh": "登陆艇"
+ },
+ "MMO1": {
+  "budget": 9,
+  "flags": [],
+  "en": "COMMANDOS",
+  "zh": "敢死队"
+ },
+ "MMO2": {
+  "budget": 18,
+  "flags": [],
+  "en": "COMMANDOS & ALLIES",
+  "zh": "敢死队与盟军"
+ },
+ "MMO3": {
+  "budget": 6,
+  "flags": [],
+  "en": "ALLIES",
+  "zh": "盟军"
+ },
+ "MTJ1": {
+  "budget": 10,
+  "flags": [],
+  "en": "DEATHMATCH",
+  "zh": "死亡竞赛"
+ },
+ "MTJ2": {
+  "budget": 17,
+  "flags": [],
+  "en": "COLLECT THE FLAGS",
+  "zh": "收集旗帜"
+ },
+ "MDI1": {
+  "budget": 6,
+  "flags": [],
+  "en": "VERSUS",
+  "zh": "对战"
+ },
+ "MDI2": {
+  "budget": 11,
+  "flags": [],
+  "en": "COOPERATIVE",
+  "zh": "合作"
+ },
+ "CHN1": {
+  "budget": 5,
+  "flags": [],
+  "en": "SCOUT",
+  "zh": "侦察兵"
+ },
+ "CHN2": {
+  "budget": 8,
+  "flags": [],
+  "en": "INFANTRY",
+  "zh": "步兵"
+ },
+ "CHN3": {
+  "budget": 7,
+  "flags": [],
+  "en": "ASSAULT",
+  "zh": "突击兵"
+ },
+ "CHN4": {
+  "budget": 11,
+  "flags": [],
+  "en": "PARATROOPER",
+  "zh": "伞兵"
+ },
+ "CHN5": {
+  "budget": 5,
+  "flags": [],
+  "en": "MEDIC",
+  "zh": "医护兵"
+ },
+ "CHN6": {
+  "budget": 6,
+  "flags": [],
+  "en": "SAPPER",
+  "zh": "工兵"
+ },
+ "CHN7": {
+  "budget": 9,
+  "flags": [],
+  "en": "GRENADIER",
+  "zh": "掷弹兵"
+ },
+ "CHN8": {
+  "budget": 7,
+  "flags": [],
+  "en": "BAZOOKA",
+  "zh": "火箭筒"
+ },
+ "MFI1": {
+  "budget": 6,
+  "flags": [],
+  "en": "POINTS",
+  "zh": "得分"
+ },
+ "MFI2": {
+  "budget": 4,
+  "flags": [],
+  "en": "TIME",
+  "zh": "时间"
+ },
+ "MFI3": {
+  "budget": 5,
+  "flags": [],
+  "en": "FLAGS",
+  "zh": "旗帜"
+ },
+ "MFI4": {
+  "budget": 7,
+  "flags": [],
+  "en": "NO TIME",
+  "zh": "无时间"
+ },
+ "MPS1": {
+  "budget": 5,
+  "flags": [],
+  "en": "TEAMS",
+  "zh": "队伍"
+ },
+ "MPS2": {
+  "budget": 7,
+  "flags": [],
+  "en": "PLAYERS",
+  "zh": "玩家"
+ },
+ "MPS3": {
+  "budget": 4,
+  "flags": [],
+  "en": "TIME",
+  "zh": "时间"
+ },
+ "TARD": {
+  "budget": 41,
+  "flags": [],
+  "en": "Unable to join - game already in progress",
+  "zh": "无法加入——游戏已在进行中"
+ },
+ "MCCO": {
+  "budget": 7,
+  "flags": [],
+  "en": "CONNECT",
+  "zh": "连接"
+ },
+ "MCCN": {
+  "budget": 6,
+  "flags": [],
+  "en": "CANCEL",
+  "zh": "取消"
+ },
+ "MNUL": {
+  "budget": 5,
+  "flags": [],
+  "en": "EMPTY",
+  "zh": "空"
+ },
+ "MEQ1": {
+  "budget": 6,
+  "flags": [],
+  "en": "TEAM 1",
+  "zh": "队伍1"
+ },
+ "MEQ2": {
+  "budget": 6,
+  "flags": [],
+  "en": "TEAM 2",
+  "zh": "队伍2"
+ },
+ "MCOC": {
+  "budget": 3,
+  "flags": [],
+  "en": "BUY",
+  "zh": "购买"
+ },
+ "MCOD": {
+  "budget": 4,
+  "flags": [],
+  "en": "SELL",
+  "zh": "出售"
+ },
+ "MCCT": {
+  "budget": 14,
+  "flags": [],
+  "en": "CONFIGURE TEAM",
+  "zh": "配置队伍"
+ },
+ "MCRE": {
+  "budget": 5,
+  "flags": [],
+  "en": "READY",
+  "zh": "就绪"
+ },
+ "MCEM": {
+  "budget": 5,
+  "flags": [],
+  "en": "START",
+  "zh": "开始"
+ },
+ "MCD1": {
+  "budget": 31,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": "Basic troop, armed with a\\nGun.",
+  "zh": "基本兵种，装备\\n手枪。"
+ },
+ "MCD2": {
+  "budget": 19,
+  "flags": [],
+  "en": "Armed with a Rifle.",
+  "zh": "装备步枪。"
+ },
+ "MCD3": {
+  "budget": 29,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": "Armed with a Submachine\\nGun.",
+  "zh": "装备\\n冲锋枪。"
+ },
+ "MCD4": {
+  "budget": 80,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": "Air troop, armed with an\\nAssault Rifle. Use the\\nparachute to land on the\\nmap.",
+  "zh": "空降兵，装备\\n突击步枪。使用\\n降落伞降落至\\n地图上。"
+ },
+ "MCD5": {
+  "budget": 73,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": "Support troop, armed with\\na Gun. Carries auto\\nrecharging First-Aid Kit.",
+  "zh": "支援兵，装备\\n手枪。携带自动\\n补充的急救包。"
+ },
+ "MCD6": {
+  "budget": 55,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": "Armed with a Submachine\\nGun, Mines and Mine\\nDetector.",
+  "zh": "装备冲锋\\n枪、地雷和\\n探雷器。"
+ },
+ "MCD7": {
+  "budget": 61,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": "Elite troop, armed with a\\nGun and auto recharging\\nGrenades.",
+  "zh": "精锐部队，装备\\n手枪和自动补充\\n手榴弹。"
+ },
+ "MCD8": {
+  "budget": 60,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": "Elite troop, armed with a\\nGun and auto recharging\\nBazooka.",
+  "zh": "精锐部队，装备\\n手枪和自动补充\\n火箭筒。"
+ },
+ "MCCL": {
+  "budget": 12,
+  "flags": [],
+  "en": "CREDITS LEFT",
+  "zh": "剩余点数"
+ },
+ "TBOS": {
+  "budget": 13,
+  "flags": [],
+  "en": "MAGNETIC BOMB",
+  "zh": "磁性炸弹"
+ },
+ "VQMI": {
+  "budget": 12,
+  "flags": [],
+  "en": "SAPPER TRUCK",
+  "zh": "工兵卡车"
+ },
+ "MAGS": {
+  "budget": 8,
+  "flags": [],
+  "en": "GAS MASK",
+  "zh": "防毒面具"
+ },
+ "GEOD": {
+  "budget": 17,
+  "flags": [],
+  "en": "GENERAL O'DONNELL",
+  "zh": "奥唐奈将军"
+ },
+ "RUGE": {
+  "budget": 15,
+  "flags": [],
+  "en": "RUSSIAN GENERAL",
+  "zh": "苏联将军"
+ },
+ "INMU": {
+  "budget": 10,
+  "flags": [],
+  "en": "TEAM SCORE",
+  "zh": "队伍得分"
+ },
+ "INMT": {
+  "budget": 4,
+  "flags": [],
+  "en": "Team",
+  "zh": "队伍"
+ },
+ "INMB": {
+  "budget": 5,
+  "flags": [],
+  "en": "FLAGS",
+  "zh": "旗帜"
+ },
+ "INMP": {
+  "budget": 6,
+  "flags": [],
+  "en": "POINTS",
+  "zh": "点数"
+ },
+ "INME": {
+  "budget": 10,
+  "flags": [],
+  "en": "TEAM SCORE",
+  "zh": "队伍得分"
+ },
+ "INMA": {
+  "budget": 12,
+  "flags": [],
+  "en": "PLAYER SCORE",
+  "zh": "玩家得分"
+ },
+ "LZPC": {
+  "budget": 18,
+  "flags": [],
+  "en": "LAUNCH PARATROOPER",
+  "zh": "空投伞兵"
+ },
+ "OBJC": {
+  "budget": 22,
+  "flags": [],
+  "en": "MULTIPLAYER OBJECTIVES",
+  "zh": "多人游戏目标"
+ },
+ "OBP1": {
+  "budget": 48,
+  "flags": [],
+  "en": "· Game ends when a team reaches the Points limit",
+  "zh": "· 一方达到分数上限时游戏结束"
+ },
+ "OBP2": {
+  "budget": 38,
+  "flags": [],
+  "en": "· Get Points by killing hostile troops",
+  "zh": "· 击杀敌军士兵可获分数"
+ },
+ "OBP3": {
+  "budget": 16,
+  "flags": [],
+  "en": "· Points to win:",
+  "zh": "· 获胜分数："
+ },
+ "OBP4": {
+  "budget": 47,
+  "flags": [],
+  "en": "· Game ends when a team reaches the Flags limit",
+  "zh": "· 一方达到旗帜上限时游戏结束"
+ },
+ "OBP5": {
+  "budget": 40,
+  "flags": [],
+  "en": "· Flags only count on surviving soldiers",
+  "zh": "· 只有存活士兵携带的旗帜才计分"
+ },
+ "OBP6": {
+  "budget": 38,
+  "flags": [],
+  "en": "· Flags can be stolen from dead bodies",
+  "zh": "· 可从尸体上夺取旗帜"
+ },
+ "OBP7": {
+  "budget": 15,
+  "flags": [],
+  "en": "· Flags to win:",
+  "zh": "· 获胜旗帜数："
+ },
+ "FP5D": {
+  "budget": 53,
+  "flags": [],
+  "en": "· Game ends in 5 minutes - Team with most Points wins",
+  "zh": "· 5分钟后游戏结束——分数最高的队伍获胜"
+ },
+ "FPXD": {
+  "budget": 54,
+  "flags": [],
+  "en": "· Game ends in 10 minutes - Team with most Points wins",
+  "zh": "· 10分钟后游戏结束——分数最高的队伍获胜"
+ },
+ "FPVD": {
+  "budget": 54,
+  "flags": [],
+  "en": "· Game ends in 15 minutes - Team with most Points wins",
+  "zh": "· 15分钟后游戏结束——分数最高的队伍获胜"
+ },
+ "FPYD": {
+  "budget": 53,
+  "flags": [],
+  "en": "· Game ends in 30 minutes - Team with most Flags wins",
+  "zh": "· 30分钟后游戏结束——旗帜最多的队伍获胜"
+ },
+ "FPZD": {
+  "budget": 53,
+  "flags": [],
+  "en": "· Game ends in 60 minutes - Team with most Flags wins",
+  "zh": "· 60分钟后游戏结束——旗帜最多的队伍获胜"
+ },
+ "FP5C": {
+  "budget": 52,
+  "flags": [],
+  "en": "· Game ends in 5 minutes - Team with most Flags wins",
+  "zh": "· 5分钟后游戏结束——旗帜最多的队伍获胜"
+ },
+ "FPXC": {
+  "budget": 53,
+  "flags": [],
+  "en": "· Game ends in 10 minutes - Team with most Flags wins",
+  "zh": "· 10分钟后游戏结束——旗帜最多的队伍获胜"
+ },
+ "FPVC": {
+  "budget": 53,
+  "flags": [],
+  "en": "· Game ends in 15 minutes - Team with most Flags wins",
+  "zh": "· 15分钟后游戏结束——旗帜最多的队伍获胜"
+ },
+ "FPYC": {
+  "budget": 53,
+  "flags": [],
+  "en": "· Game ends in 30 minutes - Team with most Flags wins",
+  "zh": "· 30分钟后游戏结束——旗帜最多的队伍获胜"
+ },
+ "FPZC": {
+  "budget": 53,
+  "flags": [],
+  "en": "· Game ends in 60 minutes - Team with most Flags wins",
+  "zh": "· 60分钟后游戏结束——旗帜最多的队伍获胜"
+ },
+ "FPKA": {
+  "budget": 41,
+  "flags": [],
+  "en": "· Game ends with only one team left alive",
+  "zh": "· 仅剩一支队伍存活时游戏结束"
+ },
+ "DESI": {
+  "budget": 14,
+  "flags": [],
+  "en": "DESYNCHRONISED",
+  "zh": "失去同步"
+ },
+ "PEPC": {
+  "budget": 14,
+  "flags": [],
+  "en": "STOP COUNTDOWN",
+  "zh": "停止倒计时"
+ },
+ "PICD": {
+  "budget": 44,
+  "flags": [],
+  "en": "Please insert the original Commandos 3: CD 3",
+  "zh": "请插入《盟军敢死队3》第三张光盘"
+ },
+ "NSCE": {
+  "budget": 3,
+  "flags": [],
+  "en": ">>>",
+  "zh": ">>>"
+ },
+ "PSCE": {
+  "budget": 3,
+  "flags": [],
+  "en": "<<<",
+  "zh": "<<<"
+ },
+ "NSCL": {
+  "budget": 9,
+  "flags": [],
+  "en": "NEXT ROOM",
+  "zh": "下一房间"
+ },
+ "PSCL": {
+  "budget": 13,
+  "flags": [],
+  "en": "PREVIOUS ROOM",
+  "zh": "上一房间"
+ },
+ "EGCC": {
+  "budget": 17,
+  "flags": [],
+  "en": "CAMPAIGN COMPLETE",
+  "zh": "战役完成"
+ },
+ "EGCO": {
+  "budget": 15,
+  "flags": [],
+  "en": "CONGRATULATIONS",
+  "zh": "恭喜"
+ },
+ "EGGO": {
+  "budget": 9,
+  "flags": [],
+  "en": "GAME OVER",
+  "zh": "游戏结束"
+ },
+ "MBMG": {
+  "budget": 91,
+  "flags": [
+   "含占位符:%CharacterDead %CharacterDeadPlayer %CharacterKiller %CharacterKillerPlayer"
+  ],
+  "en": "%CharacterKillerPlayer's %CharacterKiller has killed %CharacterDeadPlayer's %CharacterDead.",
+  "zh": "%CharacterKillerPlayer的%CharacterKiller击杀了%CharacterDeadPlayer的%CharacterDead。"
+ },
+ "PEM0": {
+  "budget": 41,
+  "flags": [],
+  "en": "Attempting to initialize network game ...",
+  "zh": "正在初始化网络游戏……"
+ },
+ "PEM1": {
+  "budget": 39,
+  "flags": [],
+  "en": "Attempting to connect to the server ...",
+  "zh": "正在连接服务器……"
+ },
+ "PEM2": {
+  "budget": 48,
+  "flags": [],
+  "en": "Unable to connect. Commandos3 will finish in ...",
+  "zh": "无法连接。盟军敢死队3将在……后结束"
+ },
+ "WFVC": {
+  "budget": 40,
+  "flags": [],
+  "en": "Please wait for version confirmation ...",
+  "zh": "正在等待版本确认……"
+ },
+ "VCF1": {
+  "budget": 139,
+  "flags": [],
+  "en": "Version confirmation timed out, either due to connection problems or, most probably, trying to connect to the old 1.0 version of Commandos3",
+  "zh": "版本确认超时，可能是连接问题，但更可能是尝试连接旧版1.0的盟军敢死队3"
+ },
+ "VCF2": {
+  "budget": 34,
+  "flags": [],
+  "en": "Server version differs from client",
+  "zh": "服务器与客户端版本不一致"
+ },
+ "VJUI": {
+  "budget": 22,
+  "flags": [],
+  "en": "Different game version",
+  "zh": "游戏版本不同"
+ },
+ "SSHP": {
+  "budget": 24,
+  "flags": [],
+  "en": "Server finished the game",
+  "zh": "服务器已结束游戏"
+ },
+ "SLOS": {
+  "budget": 29,
+  "flags": [],
+  "en": "Game ends due to session lost",
+  "zh": "会话丢失，游戏结束"
+ },
+ "SKYO": {
+  "budget": 23,
+  "flags": [],
+  "en": "Kicked from the session",
+  "zh": "已被踢出会话"
+ }
+}

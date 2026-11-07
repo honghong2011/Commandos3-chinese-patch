@@ -1,0 +1,19 @@
+盟军敢死队3 简体中文补丁（Steam 版专用）—— 安装
+==================================================
+
+适用：Steam 2016 版《Commandos 3: Destination Berlin》。
+不替换 exe、不破解，直接覆盖资源文件。
+
+【第 1 步】把本目录里的 DATA.PCK 和 data3.pck 拖进游戏根目录，覆盖：
+    G:\steam\steamapps\common\Commandos 3 Destination Berlin\
+    （DATA.PCK 约 495MB；如本包缺失该文件，请到 GitHub Release 下载）
+
+【第 2 步】把本目录里的 Data 文件夹整个拖进游戏根目录，
+    问是否合并选"是"，问是否覆盖选"全部覆盖"。
+
+【第 3 步】启动游戏。
+
+还原原版：Steam 库中右键游戏 -> 属性 -> 已安装文件 -> 验证文件完整性，
+    再删除游戏目录 Data\FONTS\ 里三个字体文件即可。
+
+文件校验：见 md5.txt

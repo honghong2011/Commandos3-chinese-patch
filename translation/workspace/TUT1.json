@@ -1,0 +1,242 @@
+{
+ "CO01": {
+  "budget": 93,
+  "flags": [],
+  "en": "GREEN BERET: Hey, watch your back, I could have been one of them. You feel like dying today? ",
+  "zh": "绿贝雷：嘿，小心背后，我本可能是他们一伙的。今天想送死吗？"
+ },
+ "FT01": {
+  "budget": 95,
+  "flags": [],
+  "en": "SNIPER: Don't worry, I knew it was you, no one makes as much noise as you. Any problems inside?",
+  "zh": "狙击手：别担心，我知道是你，没人能像你这么吵。里面有问题吗？"
+ },
+ "CO02": {
+  "budget": 74,
+  "flags": [],
+  "en": "GREEN BERET: No, it's just been a while since I encountered Nazi soldiers.",
+  "zh": "绿贝雷：没有，只是我好久没碰上纳粹士兵了。"
+ },
+ "FT02": {
+  "budget": 54,
+  "flags": [],
+  "en": "SNIPER: Well, there's a few more here to take care of.",
+  "zh": "狙击手：嗯，这里还有几个要收拾。"
+ },
+ "CO03": {
+  "budget": 154,
+  "flags": [],
+  "en": "GREEN BERET: Sounds good, I'll go ahead and point out the enemy. I'll go slow, make sure you cover my arse. I don't want it shot off like back in Colditz.",
+  "zh": "绿贝雷：好极了，我先上前把敌人的位置指出来。我会慢慢走，你可得掩护好我的屁股。我可不想像在科尔迪茨那样被打穿。"
+ },
+ "FT03": {
+  "budget": 111,
+  "flags": [],
+  "en": "SNIPER: You do go on about that, it was an accident for God's sake. Don´t worry this time. Come on, get moving.",
+  "zh": "狙击手：你老是提那事，天哪，那是个意外。这次别担心。来吧，动起来。"
+ },
+ "TWCV": {
+  "budget": 8,
+  "flags": [],
+  "en": "TUTORIAL",
+  "zh": "教学"
+ },
+ "TWCO": {
+  "budget": 6,
+  "flags": [],
+  "en": "ORDERS",
+  "zh": "命令"
+ },
+ "TWCC": {
+  "budget": 6,
+  "flags": [],
+  "en": "ADVICE",
+  "zh": "提示"
+ },
+ "NA01": {
+  "budget": 224,
+  "flags": [],
+  "en": " Welcome to the Commandos 3 tutorial. You will be guided through some simple areas and will be shown how best to control and utilise your Commandos team. You can press 'F1' at any time to see a list of HOTKEYS and FUNCTIONS.",
+  "zh": "欢迎来到《盟军敢死队3》教学关。你将通过几个简单的区域，并了解如何最好地控制和运用你的敢死队。任何时候都可以按 F1 查看快捷键与功能列表。"
+ },
+ "NA02": {
+  "budget": 248,
+  "flags": [],
+  "en": " First you must learn how to change your view of the environment. To rotate the environment use the wheel on your mouse. If you do not have a wheel you can rotate by holding down the ALT button and pressing the CURSOR KEYS to rotate Left and Right.",
+  "zh": "首先你必须学会如何改变视野。要旋转视角，使用鼠标滚轮。如果没有滚轮，可以按住 ALT 键，再按方向键左右旋转。"
+ },
+ "NA03": {
+  "budget": 133,
+  "flags": [],
+  "en": " You can also scroll around the map by pressing the mouse wheel IN and moving the mouse. You can also use the cursor keys to do this.",
+  "zh": "你也可以按下鼠标滚轮并移动鼠标来滚动地图。也可以用方向键做到这一点。"
+ },
+ "NA04": {
+  "budget": 174,
+  "flags": [],
+  "en": " You can also zoom in and out by pressing the '+' and '-' keys on the numeric pad. Alternatively you can press the mouse wheel IN and rotate the wheel forwards and backwards.",
+  "zh": "你也可以按小键盘上的 + 和 - 键来缩放视野。或者按下鼠标滚轮，前后转动滚轮。"
+ },
+ "NA05": {
+  "budget": 105,
+  "flags": [],
+  "en": " Now select the Green Beret. To select the Green Beret press the number '1' button or Right-Click on him.",
+  "zh": "现在选中绿贝雷。按数字键 1 或右键点击他即可选中绿贝雷。"
+ },
+ "NA06": {
+  "budget": 195,
+  "flags": [],
+  "en": " The Green Beret can perform many actions, one of the most important is crawling. That will enable you to avoid enemy detection. To crawl press the SPACE BAR, to stand press the SPACE BAR again. ",
+  "zh": "绿贝雷能执行多种动作，其中最重要的是爬行，这能让你避开敌人的察觉。按空格键爬行，再按空格键站立。"
+ },
+ "NA07": {
+  "budget": 95,
+  "flags": [],
+  "en": " Your commandos are able to interact with many objects, to display these objects hold down 'F7'",
+  "zh": "你的队员能与许多物体互动，按住 F7 可显示这些物体。"
+ },
+ "NA08": {
+  "budget": 182,
+  "flags": [],
+  "en": " You will see that the cursor is environment sensitive and that the cursor changes when you can interact with something. To PICK UP objects Left-Click on the object. Pick up the gun.",
+  "zh": "你会看到光标会随环境变化，当你能与某物互动时光标也会改变。要拾取物品，左键点击该物品。捡起手枪。"
+ },
+ "NA09": {
+  "budget": 149,
+  "flags": [],
+  "en": " All your characters can run as well as walk. Running will make noise so do it wisely. Run up the stairs by Double-Clicking at the top of the stairs.",
+  "zh": "你的所有角色既能走也能跑。跑动会发出声响，所以要明智使用。双击楼梯顶端即可跑上楼梯。"
+ },
+ "NA10": {
+  "budget": 104,
+  "flags": [],
+  "en": " Exit through the door at the top of the stairs. To exit and enter through doors Left-Click on the door.",
+  "zh": "从楼梯顶端的门出去。要进出门口，左键点击门即可。"
+ },
+ "NA11": {
+  "budget": 216,
+  "flags": [],
+  "en": " You can display enemy view areas by pressing TAB and Left-Clicking on the enemy. You will go unnoticed if crawling in the lighter section but will always be detected in the darker section. Display his view area now.",
+  "zh": "按 TAB 键并左键点击敌人，可显示其视野区域。在浅色区域爬行不会被发现，但在深色区域必会被察觉。现在显示他的视野区域。"
+ },
+ "NA12": {
+  "budget": 64,
+  "flags": [],
+  "en": " To PICK UP objects Left-Click on the object. Pick up the knife.",
+  "zh": "要拾取物品，请左键点击该物品。捡起匕首。"
+ },
+ "NA13": {
+  "budget": 135,
+  "flags": [],
+  "en": " Good, now saving and loading is extremely important in Commandos. To quick save press 'F9', to quick load press 'F11'. Quick save now.",
+  "zh": "很好，在《盟军敢死队》中保存和读取极为重要。按F9快速保存，按F11快速读取。现在快速保存。"
+ },
+ "NA14": {
+  "budget": 322,
+  "flags": [],
+  "en": " You now have a few weapons at your disposal. Right-Click on the weapons icon at the bottom of the screen (currently the FIST icon). This will then display the weapons available, Left-Click on the weapon to select. You can also cycle through these weapons by pressing the 'Q' and 'W' keys on the keyboard. Select the FIST.",
+  "zh": "你现在有几件武器可用。右键点击屏幕底部的武器图标（当前为拳头图标），即可显示可用武器，左键点击武器进行选择。也可以按键盘上的Q键和W键在这些武器间切换。选择拳头。"
+ },
+ "NA15": {
+  "budget": 106,
+  "flags": [],
+  "en": " Now you are going to hit the enemy. Move the cursor over the enemy and Left-Click to action. Do this now.",
+  "zh": "现在你要攻击敌人。将光标移到敌人身上，左键点击执行动作。现在就做。"
+ },
+ "NA16": {
+  "budget": 206,
+  "flags": [],
+  "en": " You have now stunned him, but he will shortly recover and attack you. You can however tie him up when stunned. To do this Right-Click to deselect the FIST, hover the cursor over the soldier and Left-Click.",
+  "zh": "你已将他击晕，但他很快会苏醒并攻击你。不过你可以趁他昏迷时将他绑起来。方法是右键取消选择拳头，将光标移到士兵身上并左键点击。"
+ },
+ "NA17": {
+  "budget": 137,
+  "flags": [],
+  "en": " Very good, once tied up you are able to relieve him of his possessions. To do this press the 'Z' key and Left-Click on him. Do that now.",
+  "zh": "很好，绑好后就能取走他身上的物品。按Z键，再左键点击他即可。现在就做。"
+ },
+ "NA18": {
+  "budget": 155,
+  "flags": [],
+  "en": " Good, now move his possessions to your inventory. Do this by Left-Clicking on the item to grab and Left-Click on your inventory to drop. Then select EXIT.",
+  "zh": "很好，现在把他的物品移入你的物品栏。方法是左键点击要拿的物品，再左键点击物品栏放下。然后选择退出。"
+ },
+ "NA19": {
+  "budget": 49,
+  "flags": [],
+  "en": " Now run up the stairs and exit through the door.",
+  "zh": "现在跑上楼梯，从门出去。"
+ },
+ "NA20": {
+  "budget": 199,
+  "flags": [],
+  "en": " You can pick up the box nearby by clicking on the box. For now though either click on the EXAMINE icon or press hotkey 'Z' and click on the box. Examine the box and place the ammo in your inventory.",
+  "zh": "你可以点击附近的箱子将其拾起。不过现在请点击查看图标，或按热键Z后点击箱子。查看箱子，并把弹药放入物品栏。"
+ },
+ "NA21": {
+  "budget": 74,
+  "flags": [],
+  "en": " Good, You can display enemy locations by holding down 'F5'. Try this now.",
+  "zh": "很好，按住F5可显示敌人位置。现在试试。"
+ },
+ "NA22": {
+  "budget": 130,
+  "flags": [],
+  "en": " Now you must eliminate these enemy soldiers. You should save now in case anything untoward should happen. Press the 'F9' key now.",
+  "zh": "现在你必须消灭这些敌人士兵。建议先保存，以防出现意外。现在按F9键。"
+ },
+ "NA23": {
+  "budget": 136,
+  "flags": [],
+  "en": " Good now dispose of these soldiers. Use any method you wish but note that if you use firearms other enemy in the area will investigate.",
+  "zh": "很好，现在解决这些士兵。方法随你，但注意若使用枪械，区域内其他敌人会前来查看。"
+ },
+ "NA24": {
+  "budget": 101,
+  "flags": [],
+  "en": " Excellent, now exit through the door to go outside. Before you do, remember to save. 'F9'. Now exit.",
+  "zh": "很好，现在从门出去到室外。出发前记得保存。按F9。然后出去。"
+ },
+ "NA25": {
+  "budget": 290,
+  "flags": [],
+  "en": " You can also rotate the camera in outdoor maps using  the wheel on your mouse. If you do not have a wheel you can rotate by holding down the ALT button and pressing the CURSOR KEYS to rotate Left and Right.  You can also zoom in and out by pressing the '+' and '-' keys on the numeric pad.",
+  "zh": "在室外地图中，你也可以用鼠标滚轮旋转视角。如果没有滚轮，可按住ALT键并配合方向键左右旋转。也可用小键盘上的加号和减号键缩放视角。"
+ },
+ "NA26": {
+  "budget": 146,
+  "flags": [],
+  "en": " Now select the sniper by pressing '2' and then follow him. You should eliminate the enemy using the Sniper rifle, best to do this while crawling.",
+  "zh": "现在按2选择狙击手，然后跟随他。用狙击步枪消灭敌人，最好在爬行状态下进行。"
+ },
+ "NA27": {
+  "budget": 67,
+  "flags": [],
+  "en": " Good work officer, the Sapper is on his way to meet with your men.",
+  "zh": "干得漂亮，军官。工兵正赶来与你的部下会合。"
+ },
+ "NA28": {
+  "budget": 104,
+  "flags": [],
+  "en": " Use the Sapper to destroy the tank with the bomb. Press '4' to select the Sapper or Right-Click on him.",
+  "zh": "用工兵拿炸弹摧毁坦克。按4选择工兵，或右键点击他。"
+ },
+ "NA29": {
+  "budget": 204,
+  "flags": [],
+  "en": " Left-Click on the Remote Bomb icon at the bottom of the screen to select. Click near the tank to place. Then move your men away and detonate using the icon that will appear next to the Sapper's backpack.",
+  "zh": "左键点击屏幕底部的遥控炸弹图标进行选择。点击坦克附近放置。然后让队员撤离，点击工兵背包旁出现的图标引爆。"
+ },
+ "TIPS": {
+  "budget": 4,
+  "flags": [],
+  "en": "HELP",
+  "zh": "帮助"
+ },
+ "TIP1": {
+  "budget": 63,
+  "flags": [],
+  "en": "The tank has not been destroyed, but you are ready to continue.",
+  "zh": "坦克尚未被摧毁，但你可以继续了。"
+ }
+}

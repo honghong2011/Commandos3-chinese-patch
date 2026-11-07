@@ -1,0 +1,32 @@
+{
+ "TIBI": {
+  "budget": 8,
+  "flags": [],
+  "en": "BRIEFING",
+  "zh": "任务简报"
+ },
+ "BIST": {
+  "budget": 670,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": "Stalingrad, Northern Sector. A vast Nazi Army has amassed on the outskirts of the city and attack seems imminent. However a very important meeting must take place here between a senior Russian officer and Allied general Franklin O´Donnell. This meeting is crucial and the information exchanged could change the course of the war on the Russian front.\\n \\nWe have been informed of the presence of the Nazis' best marksman. He is here to ensure that the meeting does not take place. Do not underestimate him. He will kill you as soon as he sets his evil eye on you. So for God's sake man, keep your head down. \\n \\nGood luck Officer, the lives of many are in your hands.\\n",
+  "zh": "斯大林格勒，北部战区。庞大的纳粹军队已在城郊集结，进攻迫在眉睫。然而一场极为重要的会晤必须在此举行：一位俄军高级军官将与盟军将军富兰克林·奥唐奈会面。此次会晤至关重要，双方交换的情报可能改变俄线战局。\\n \\n我们已获悉纳粹最优秀的神射手在此现身。他来此就是为了让会晤无法举行。不要低估他。一旦他那恶毒的目光盯上你，他就会要你的命。所以，看在上帝的份上，把头压低。\\n \\n好运，军官，许多人的性命掌握在你手中。\\n"
+ },
+ "BICE": {
+  "budget": 1340,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": "We have received intelligence that the Nazis are attempting to move priceless works of art from occupied France to Germany ahead of the imminent Allied invasion. Once great museums in Paris and other capital cities are now empty. This valuable cargo is being moved to a small town from where it will be transferred to Berlin. If the Nazis manage to cross the border, these treasures will undoubtedly be lost forever. \\n \\nSaint Avold, an insignificant train station a few days ago. Yet today it is one of the most heavily defended places in the Reich. Units from the Wehrmacht are protecting the area, but it is also being reinforced by elements from the 1st Division of the Waffen SS and by the Gestapo. They´ve set up a security perimeter and hundreds of troops are guarding the area. The final shipments of merchandise are now arriving at the station, and yesterday an armoured train appeared. We therefore believe that the convoy will leave for the border within the next few hours. Clearly we can´t attack the convoy from the air so we have had to come up with an audacious plan. Your mission will be to get some men into the station and onto that train undetected, ready to take control once it leaves the station. You will join up with the resistance a few miles further on to transfer the cargo to a collection point on the beach.\\n",
+  "zh": "我们收到情报，纳粹正试图在盟军大举登陆前夕，把无价的艺术珍品从被占领的法国运往德国。巴黎及其他首都城市的伟大博物馆如今已空空如也。这批贵重货物正被运往一座小镇，再从那里转运至柏林。一旦纳粹越过边境，这些珍宝无疑将永远失落。\\n \\n圣阿沃尔德，几天前还是个不起眼的火车站。然而今天，它已是帝国境内防御最严密的地方之一。国防军部队守卫着这一区域，武装党卫军第一师的部队和盖世太保也在不断增援。他们已设立警戒圈，数百名士兵把守各处。最后几批货物正运抵车站，昨天还出现了一列装甲列车。因此我们判断，车队将在未来几小时内开往边境。显然我们无法从空中袭击车队，只好制定一个大胆的计划。你的任务是派几人潜入车站并登上那列火车而不被发现，待列车离站后夺取控制权。你将在前方数英里处与抵抗组织会合，把货物转移到海滩上的集结点。\\n"
+ },
+ "BIOM": {
+  "budget": 879,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": "This is the situation: an enormous Allied force has gathered for the final push into France. \\nOver 7000 ships and more than 150,000 men await off the coast of England for the order to initiate Operation Overlord. The destination of this assault is the beaches of Normandy, \\ncodenamed: Utah, Omaha, Gold, Juno and Sword.\\n \\nAlright, you must take your team behind enemy lines and eliminate Nazi support encampments within the area. One of these encampments is located close to the town of Caen, the other in the port of Le Havre. \\n \\nYour mission Officer, is to destroy the potency of these bases. It is imperative to the Allied cause that the troops stationed there are in no position to reinforce the Nazis' defence of the beaches. \\n \\nThis is D-day and may signal the end of this damned war. The language in which this part of history is written depends on you, Officer.\\n",
+  "zh": "情况如下：一支庞大的盟军部队已集结完毕，准备向法国发起最后攻势。 \\n7000余艘舰船和超过15万人在英格兰海岸外待命，等候发动霸王行动的命令。此次突击的目标是诺曼底海滩， \\n代号分别为：犹他、奥马哈、金、朱诺和剑。\\n \\n好了，你必须率队深入敌后，清除该区域内的纳粹支援营地。其中一处营地位于卡昂镇附近，另一处位于勒阿弗尔港。 \\n \\n军官，你的任务是摧毁这些基地的战斗力。盟军大业成败攸关：驻守此地的部队绝不能再增援纳粹的海滩防御。 \\n \\n今天是D日，它或许标志着这场该死的战争的终结。这段历史将如何书写，全看你，军官。\\n"
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "LA01": {
+  "budget": 40,
+  "flags": [],
+  "en": "DIVER: Come in Smith, this is Blackwood.",
+  "zh": "潜水员：史密斯，收到请回答，我是布莱克伍德。"
+ },
+ "GE01": {
+  "budget": 43,
+  "flags": [],
+  "en": "COLONEL SMITH: Roger Blackwood, Smith here.",
+  "zh": "史密斯上校：收到，布莱克伍德，我是史密斯。"
+ },
+ "LA02": {
+  "budget": 81,
+  "flags": [],
+  "en": "DIVER: I´m in position sir, but behind schedule, looks like the sun´s on its way.",
+  "zh": "潜水员：长官，我已就位，但进度落后，太阳快出来了。"
+ },
+ "GE02": {
+  "budget": 228,
+  "flags": [],
+  "en": "COLONEL SMITH: Oh well, can´t be helped, the mission must proceed. You must infiltrate the Nazi base and destroy those ships. Once we attack they will be given the order to join the Nazi defence, they cannot be allowed to do so.",
+  "zh": "史密斯上校：好吧，没办法，任务必须继续。你要潜入纳粹基地并摧毁那些船只。我们一旦进攻，他们就会奉命加入纳粹防御，绝不能让他们得逞。"
+ },
+ "LA03": {
+  "budget": 65,
+  "flags": [],
+  "en": "DIVER: Understood sir, day or night I´m always open for business.",
+  "zh": "潜水员：明白，长官，无论白天黑夜，我都随时待命。"
+ },
+ "GE03": {
+  "budget": 222,
+  "flags": [],
+  "en": "COLONEL SMITH: Very good. Intelligence have informed us of the presence of explosives on the base that you can utilise to sink those ships. A well placed bomb attached to each of the hulls should be enough to see them off.",
+  "zh": "史密斯上校：很好。情报显示基地内有炸药，你可以利用它们炸沉那些船只。在每艘船体上安放一枚位置得当的炸弹，就足以解决它们。"
+ },
+ "LA04": {
+  "budget": 73,
+  "flags": [],
+  "en": "DIVER: Right you are sir, I´ll see what I can get hold of. Anything else?",
+  "zh": "潜水员：遵命，长官，我会想办法弄到。还有别的事吗？"
+ },
+ "GE04": {
+  "budget": 240,
+  "flags": [],
+  "en": "COLONEL SMITH: Yes, you´ll have to open the dock to get to the ships. There is a switch that will enable you to do this. One last thing, make sure you are a sufficient distance away from the blast. We want to see you back here in one piece.",
+  "zh": "史密斯上校：对，你得打开船坞才能接近船只。有一个开关可以做到。最后一点，务必与爆炸点保持足够距离。我们希望你能完好无损地回来。"
+ },
+ "LA05": {
+  "budget": 133,
+  "flags": [],
+  "en": "DIVER: Don´t worry sir, I plan on steering well clear. I don´t want to get caught outside when it starts raining Nazis. Over and out.",
+  "zh": "潜水员：别担心，长官，我会远远避开。我可不想在纳粹从天而降时还待在外面。完毕。"
+ },
+ "OR01": {
+  "budget": 236,
+  "flags": [],
+  "en": " Obtain two magnetic bombs and place them underwater on the ships' hulls. Detonate when you are on land, a sufficient distance away. To get to the ships you will need to open the barrier using the switch located near the Officer's post.",
+  "zh": "取得两枚磁性炸弹，将它们安放在水下船体上。上岸并在足够距离外引爆。要接近船只，需用军官哨所附近的开关打开屏障。"
+ },
+ "TWCV": {
+  "budget": 10,
+  "flags": [],
+  "en": "OBJECTIVES",
+  "zh": "目标"
+ },
+ "TIPS": {
+  "budget": 4,
+  "flags": [],
+  "en": "HELP",
+  "zh": "帮助"
+ },
+ "TIP1": {
+  "budget": 179,
+  "flags": [],
+  "en": " The Diver can throw the knife but you will need to retrieve it once used. The Diver can swim underwater for an indefinite period of time when he is equipped with the diving gear.",
+  "zh": "潜水员可以投掷匕首，但使用后需将其拾回。装备潜水装备时，潜水员可在水下无限时游泳。"
+ }
+}

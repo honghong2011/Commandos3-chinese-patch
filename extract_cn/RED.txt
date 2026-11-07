@@ -1,0 +1,12 @@
+【RED】 10 条 · 439 字符预算 · 结局字幕
+────────────────────────────────────────────────────────
+PEM0  [41]  "Attempting to initialize network game ..."
+PEM1  [39]  "Attempting to connect to the server ..."
+PEM2  [48]  "Unable to connect. Commandos3 will finish in ..."
+WFVC  [40]  "Please wait for version confirmation ..."
+VCF1  [139]  "Version confirmation timed out, either due to connection problems or, most probably, trying to connect to the old 1.0 version of Commandos3"
+VCF2  [34]  "Server version differs from client"
+VJUI  [22]  "Different game version"
+SSHP  [24]  "Server finished the game"
+SLOS  [29]  "Game ends due to session lost"
+SKYO  [23]  "Kicked from the session"

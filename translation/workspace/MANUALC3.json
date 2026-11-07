@@ -1,0 +1,879 @@
+{
+ "TI01": {
+  "budget": 15,
+  "flags": [],
+  "en": "    COMMANDOS 3",
+  "zh": "盟军敢死队3"
+ },
+ "TX01": {
+  "budget": 42,
+  "flags": [
+   "含真实换行"
+  ],
+  "en": "\r\n   Welcome to the Commandos 3 Help File!",
+  "zh": "欢迎使用盟军敢死队3帮助文件！"
+ },
+ "TI02": {
+  "budget": 1,
+  "flags": [
+   "空白/装饰",
+   "超短"
+  ],
+  "en": " ",
+  "zh": ""
+ },
+ "TI03": {
+  "budget": 7,
+  "flags": [],
+  "en": "WEAPONS",
+  "zh": "武器"
+ },
+ "TI04": {
+  "budget": 11,
+  "flags": [],
+  "en": "    Bazooka",
+  "zh": "火箭筒"
+ },
+ "TX02": {
+  "budget": 249,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Bazooka\\n \\n   Only the Sapper can use the Bazooka.\\n \\n   Aim using the cursor and fire with the left mouse button.\\n \\n   Click the right mouse button to abort this action.\\n \\n   Remaining ammunition is displayed on the Bazooka icon.\\n",
+  "zh": "\\n        火箭筒\\n \\n   只有工兵能使用火箭筒。\\n \\n   用光标瞄准，按鼠标左键发射。\\n \\n   按鼠标右键取消此动作。\\n \\n   火箭筒图标上显示剩余弹药。\\n"
+ },
+ "TI05": {
+  "budget": 15,
+  "flags": [],
+  "en": "    Remote Bomb",
+  "zh": "遥控炸弹"
+ },
+ "TX03": {
+  "budget": 326,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Remote Bomb\\n        \\n   Only the Sapper can use this bomb.\\n    \\n   Explosive triggered by remote control.\\n       \\n   Once selected Left-Click to place the bomb. Click on the Detonator icon on the backpack to trigger.\\n       \\n   The number of bombs available will be displayed on the Remote Bomb icon.\\n   \\n",
+  "zh": "\\n        遥控炸弹\\n        \\n   只有工兵能使用此炸弹。\\n    \\n   由遥控引爆的爆炸物。\\n       \\n   选中后按鼠标左键放置炸弹。点击背包上的遥控器图标即可引爆。\\n       \\n   遥控炸弹图标上显示可用炸弹数量。\\n   \\n"
+ },
+ "TI07": {
+  "budget": 14,
+  "flags": [],
+  "en": "    Timer Bomb",
+  "zh": "定时炸弹"
+ },
+ "TX05": {
+  "budget": 185,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Timer Bomb\\n   \\n   Only the Sapper can use this bomb.\\n   \\n   Place the bomb by Left-Clicking on the desired location.\\n \\n   The bomb will explode several seconds later.\\n",
+  "zh": "\\n        定时炸弹\\n   \\n   只有工兵能使用此炸弹。\\n   \\n   在目标位置按鼠标左键放置炸弹。\\n \\n   炸弹将在数秒后爆炸。\\n"
+ },
+ "TI08": {
+  "budget": 8,
+  "flags": [],
+  "en": "    Trap",
+  "zh": "陷阱"
+ },
+ "TX06": {
+  "budget": 256,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Trap\\n   \\n   Only the Sapper can use the Trap.\\n   \\n   Left-Click on the desired location to place.\\n   \\n   If an enemy soldier moves over it, the Trap will close and the soldier will be killed. \\n   \\n   Your men will avoid it when nearby.\\n",
+  "zh": "\\n        陷阱\\n   \\n   只有工兵能使用陷阱。\\n   \\n   在目标位置按鼠标左键放置。\\n   \\n   若有敌方士兵踩上，陷阱会合拢并击杀该士兵。 \\n   \\n   你的部下靠近时会绕开陷阱。\\n"
+ },
+ "TI09": {
+  "budget": 20,
+  "flags": [],
+  "en": "    Molotov Cocktail",
+  "zh": "燃烧瓶"
+ },
+ "TX07": {
+  "budget": 310,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Molotov Cocktail\\n   \\n   Only the Sapper can use the Molotov Cocktail.\\n   \\n   Left-Click on the spot you would like to throw the Molotov Cocktail to.\\n   \\n   The Molotov Cocktail can also affect your men.\\n   \\n   The number of bottles available will be displayed on the Molotov Cocktail icon.\\n",
+  "zh": "\\n        燃烧瓶\\n   \\n   只有工兵能使用燃烧瓶。\\n   \\n   在想投掷燃烧瓶的位置按鼠标左键。\\n   \\n   燃烧瓶也会伤及你的部下。\\n   \\n   燃烧瓶图标上显示可用瓶数。\\n"
+ },
+ "TI10": {
+  "budget": 9,
+  "flags": [],
+  "en": "    Knife",
+  "zh": "匕首"
+ },
+ "TX08": {
+  "budget": 232,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Knife\\n   \\n   The Green Beret and the Diver can use the Knife.\\n   \\n   Double-edged assault knife.\\n   \\n   Left-Click on an enemy soldier with the Knife selected to attack him.\\n   \\n   The Diver can throw the Knife.\\n",
+  "zh": "\\n        匕首\\n   \\n   绿贝雷和蛙人均可使用匕首。\\n   \\n   双刃突击匕首。\\n   \\n   选中匕首后，对敌方士兵按鼠标左键即可攻击。\\n   \\n   蛙人可以投掷匕首。\\n"
+ },
+ "TI12": {
+  "budget": 11,
+  "flags": [],
+  "en": "    Grenade",
+  "zh": "手榴弹"
+ },
+ "TX10": {
+  "budget": 272,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Grenade\\n   \\n   All of your commandos can use this grenade.\\n   \\n   Left-Click on the desired location to throw.\\n   \\n   You can throw grenades through doors, trap-doors, and windows.\\n   \\n   There is a minimum safe distance and they have a limited range.\\n",
+  "zh": "\\n        手榴弹\\n   \\n   所有敢死队员均可使用此手榴弹。\\n   \\n   在目标位置按鼠标左键投掷。\\n   \\n   手榴弹可穿过门、活动地板门和窗户投出。\\n   \\n   投掷有最小安全距离，且射程有限。\\n"
+ },
+ "TI13": {
+  "budget": 15,
+  "flags": [],
+  "en": "    Gas Grenade",
+  "zh": "毒气手榴弹"
+ },
+ "TX11": {
+  "budget": 283,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Gas Grenade\\n   \\n   All of your commandos can use this grenade.\\n   \\n   Left-Click on the desired location to throw.\\n   \\n   You can throw it through doors, trap-doors, and windows.\\n   \\n   There is a minimum safe distance and it has limited range and sleep effects.\\n",
+  "zh": "\\n        毒气手榴弹\\n   \\n   所有敢死队员均可使用此手榴弹。\\n   \\n   在目标位置按鼠标左键投掷。\\n   \\n   可穿过门、活动地板门和窗户投出。\\n   \\n   有最小安全距离，射程有限，并带有催眠效果。\\n"
+ },
+ "TI14": {
+  "budget": 16,
+  "flags": [],
+  "en": "    Flamethrower",
+  "zh": "火焰喷射器"
+ },
+ "TX12": {
+  "budget": 184,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Flamethrower\\n   \\n   Only the Sapper can use the Flamethrower.\\n   \\n   Left-Click on the target to fire.\\n   \\n   If the cross-hairs are red, the target is out of range.\\n",
+  "zh": "\\n        火焰喷射器\\n   \\n   仅工兵可使用火焰喷射器。\\n   \\n   左键点击目标即可喷射。\\n   \\n   准星变红表示目标超出射程。\\n"
+ },
+ "TI15": {
+  "budget": 18,
+  "flags": [],
+  "en": "    Submachine Gun",
+  "zh": "冲锋枪"
+ },
+ "TX13": {
+  "budget": 285,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Submachine Gun\\n   \\n   All of your men can use this weapon.\\n   \\n   Light automatic weapon.\\n   \\n   Aim using the cursor and fire bursts with the left mouse button. \\n   \\n   It has limited ammunition.\\n   \\n   You can reload it by picking up ammunition from the enemy.\\n",
+  "zh": "\\n        冲锋枪\\n   \\n   全体队员均可使用此武器。\\n   \\n   轻型自动武器。\\n   \\n   用光标瞄准，按住鼠标左键点射。\\n   \\n   弹药有限。\\n   \\n   拾取敌人弹药即可重新装填。\\n"
+ },
+ "TI16": {
+  "budget": 11,
+  "flags": [],
+  "en": "    AP Mine",
+  "zh": "反步兵地雷"
+ },
+ "TX14": {
+  "budget": 268,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Anti-Personnel Mine\\n   \\n   Only the Sapper can place them.\\n   \\n   Left-Click on the location you would like to set the mine.\\n \\n   You can locate and deactivate enemy mines using the Mine Detector.\\n   \\n   You cannot step on mines that you have set.\\n",
+  "zh": "\\n        反步兵地雷\\n   \\n   仅工兵可布设。\\n   \\n   左键点击要布设地雷的位置。\\n \\n   可用探雷器发现并拆除敌军地雷。\\n   \\n   自己布设的地雷不会踩响。\\n"
+ },
+ "TI17": {
+  "budget": 18,
+  "flags": [],
+  "en": "    Anti-Tank Mine",
+  "zh": "反坦克地雷"
+ },
+ "TX15": {
+  "budget": 251,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Anti-Tank Mine\\n   \\n   Only the Sapper can place them.\\n   \\n   Left-Click on the location you would like to set the mine.\\n   \\n   You can deactivate mines and pick them up.\\n   \\n   They will only explode when a vehicle runs over them.\\n",
+  "zh": "\\n        反坦克地雷\\n   \\n   仅工兵可布设。\\n   \\n   左键点击要布设地雷的位置。\\n   \\n   可拆除并拾取地雷。\\n   \\n   只有车辆碾过时才会爆炸。\\n"
+ },
+ "TI18": {
+  "budget": 7,
+  "flags": [],
+  "en": "    Gun",
+  "zh": "手枪"
+ },
+ "TX16": {
+  "budget": 306,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Gun\\n   \\n   All of your men can use this pistol.\\n   \\n   Aim using the cursor and fire with the left mouse button.\\n   \\n   If the target is out of range, the cross-hairs will be red.\\n   \\n   The Allied Gun has unlimited ammunition.\\n   \\n   You can pick up enemy pistols and ammunition.\\n \\n",
+  "zh": "\\n        手枪\\n   \\n   全体队员均可使用此手枪。\\n   \\n   用光标瞄准，按鼠标左键开火。\\n   \\n   目标超出射程时，准星变红。\\n   \\n   盟军手枪弹药无限。\\n   \\n   可拾取敌军手枪和弹药。\\n \\n"
+ },
+ "TI19": {
+  "budget": 9,
+  "flags": [],
+  "en": "    Rifle",
+  "zh": "步枪"
+ },
+ "TX17": {
+  "budget": 306,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Rifle\\n   \\n   All of your men can use this weapon.\\n   \\n   Aim using the cursor and fire with the left mouse button.\\n   \\n   When the target is out of range, the cross-hairs will be red. \\n   \\n   It has limited ammunition.\\n   \\n   You can find rifle ammo on enemies and in ammunition boxes.",
+  "zh": "\\n        步枪\\n   \\n   全体队员均可使用此武器。\\n   \\n   用光标瞄准，按鼠标左键开火。\\n   \\n   目标超出射程时，准星变红。\\n   \\n   弹药有限。\\n   \\n   可在敌人身上和弹药箱中找到步枪弹药。\\n"
+ },
+ "TI20": {
+  "budget": 16,
+  "flags": [],
+  "en": "    Sniper Rifle",
+  "zh": "狙击步枪"
+ },
+ "TX18": {
+  "budget": 408,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Sniper Rifle\\n   \\n   Used by the Sniper.\\n   \\n   Aim using the cursor and fire with the left mouse button.\\n   \\n   To shoot through a window from inside a building, look through the window by pressing the 'Z' key and Left-Clicking on the window. Select the Sniper Rifle and aim with the mouse. To move inside again, Right-Click.\\n   \\n   The available ammunition is displayed on the rifle icon.",
+  "zh": "\\n        狙击步枪\\n   \\n   狙击手专用。\\n   \\n   用光标瞄准，按鼠标左键开火。\\n   \\n   若要从建筑物内向外穿窗射击，按 Z 键并从窗口向外观察，再左键点击窗口。选择狙击步枪并用鼠标瞄准。要退回室内，请点右键。\\n   \\n   步枪图标上显示剩余弹药。\\n"
+ },
+ "TI24": {
+  "budget": 9,
+  "flags": [],
+  "en": "EQUIPMENT",
+  "zh": "装备"
+ },
+ "TI26": {
+  "budget": 17,
+  "flags": [],
+  "en": "    First-Aid Kit",
+  "zh": "急救包"
+ },
+ "TX22": {
+  "budget": 378,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        First-Aid Kit\\n   \\n   All of your men can use this kit.\\n   \\n   Cures and restores life to injured commandos.\\n   \\n   Select the First-Aid Kit and click on one of your men to cure him.\\n   \\n   You can also click on the USE button and then on the First-Aid Kit in the backpack.\\n   \\n   You can see the number of doses available in the First-Aid Kit on the icon.\\n",
+  "zh": "\\n急救包\\n\\n所有队员均可使用。\\n\\n治疗并恢复受伤敢死队员的生命。\\n\\n选择急救包并点击一名队员为其治疗。\\n\\n也可点击使用按钮，再点击背包中的急救包。\\n\\n图标上显示急救包剩余剂量。\\n"
+ },
+ "TI27": {
+  "budget": 9,
+  "flags": [],
+  "en": "    Boxes",
+  "zh": "箱子"
+ },
+ "TX23": {
+  "budget": 199,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Boxes\\n   \\n   Boxes contain weapons, ammunition and other objects.\\n   \\n   If the box is locked, the Thief can open it with his Lockpicks. \\n   \\n   The Green Beret can pick up boxes. \\n",
+  "zh": "\\n箱子\\n\\n箱内装有武器、弹药及其他物品。\\n\\n箱子若上锁，小偷可用开锁工具打开。\\n\\n绿贝雷可搬起箱子。\\n"
+ },
+ "TI28": {
+  "budget": 16,
+  "flags": [],
+  "en": "    Wire Cutters",
+  "zh": "钢丝钳"
+ },
+ "TX24": {
+  "budget": 114,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Wire Cutters\\n   \\n   All of your men can use them.\\n   \\n   They cut through barbed wire and fences.\\n",
+  "zh": "\\n钢丝钳\\n\\n所有队员均可使用。\\n\\n可剪断铁丝网和围栏。\\n"
+ },
+ "TI29": {
+  "budget": 17,
+  "flags": [],
+  "en": "    Mine Detector",
+  "zh": "探雷器"
+ },
+ "TX25": {
+  "budget": 316,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Mine Detector\\n   \\n   Only the Sapper can sweep for mines.\\n   \\n   Detects buried mines.\\n   \\n   Search for mines by Left-Clicking on the environment. Right-Click to stop the sweep and stand still.\\n   \\n   To deactivate mines, place the cursor over them and click when the DEACTIVATE cursor appears.\\n",
+  "zh": "\\n探雷器\\n\\n只有工兵能扫雷。\\n\\n探测埋设的地雷。\\n\\n左键点击环境搜索地雷。右键停止扫雷并站立不动。\\n\\n要解除地雷，将光标移到地雷上，出现解除光标时点击。\\n"
+ },
+ "TI30": {
+  "budget": 17,
+  "flags": [],
+  "en": "    Enemy Uniform",
+  "zh": "敌人军服"
+ },
+ "TX26": {
+  "budget": 405,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Enemy Uniform\\n   \\n   They can be used by all of your team.\\n   \\n   The enemy uniform will allow you to pass undetected within the enemy's long-range vision. \\n   \\n   Click the Uniform icon to wear the enemy uniform.\\n   \\n   To change back to your normal clothing, click on the Uniform icon again.\\n   \\n   If you perform any suspicious actions in view of the enemy, you will be revealed.\\n",
+  "zh": "\\n敌人军服\\n\\n全体队员均可使用。\\n\\n穿上敌人军服，可在敌人远距离视野内不被发现地通行。\\n\\n点击军服图标即可穿上敌人军服。\\n\\n要换回普通服装，再次点击军服图标。\\n\\n若在敌人视野内做出可疑举动，身份就会暴露。\\n"
+ },
+ "TI31": {
+  "budget": 15,
+  "flags": [],
+  "en": "    Rope Ladder",
+  "zh": "绳梯"
+ },
+ "TX27": {
+  "budget": 428,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Rope Ladder\\n   \\n   This ladder can be placed by the Thief. All of your men can use it.\\n   \\n   It allows your men to climb up and down areas that otherwise would be inaccessible.\\n   \\n   Click on the top of a wall, fence, building facade, or window to set it up. \\n   \\n   To use it click on the ladder. \\n   \\n   Left-Click at the top of the ladder to pick it up. \\n   \\n   You can only retrieve it from above.\\n",
+  "zh": "\\n绳梯\\n\\n小偷可放置绳梯，所有队员均可使用。\\n\\n队员可借其上下原本无法到达的区域。\\n\\n点击墙头、围栏、建筑外墙或窗口顶部进行放置。\\n\\n点击绳梯即可使用。\\n\\n左键点击绳梯顶部可将其收起。\\n\\n只能从上方收回。\\n"
+ },
+ "TI32": {
+  "budget": 13,
+  "flags": [],
+  "en": "    Lockpicks",
+  "zh": "开锁工具"
+ },
+ "TX28": {
+  "budget": 243,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Lockpicks\\n   \\n   They can only be used by the Thief.\\n   \\n   Left-Click on a locked door to open it.\\n   \\n   Once open with the Lockpicks, a door will remain open.\\n   \\n   You can also use them to open supply boxes and safes.\\n",
+  "zh": "\\n开锁工具\\n\\n仅小偷可使用。\\n\\n左键点击上锁的门即可打开。\\n\\n用开锁工具打开的门会保持开启。\\n\\n也可用来打开补给箱和保险箱。\\n"
+ },
+ "TI37": {
+  "budget": 9,
+  "flags": [],
+  "en": "    Radio",
+  "zh": "电台"
+ },
+ "TX33": {
+  "budget": 127,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Radio\\n   \\n   Everybody can use a radio.\\n   \\n   Long-range transmitter.\\n   \\n   Click on the Radio to use it. \\n",
+  "zh": "\\n电台\\n\\n所有人都可使用电台。\\n\\n远程发报机。\\n\\n点击电台即可使用。\\n"
+ },
+ "TI38": {
+  "budget": 9,
+  "flags": [],
+  "en": "    Decoy",
+  "zh": "诱饵"
+ },
+ "TX34": {
+  "budget": 315,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Decoy\\n   \\n   All of your men can use this radio-controlled decoy.\\n   \\n   Left-Click at the desired location to place the Decoy on the ground. \\n   \\n   Activate it with the icon that appears on the backpack to attract the attention of the enemy.\\n   \\n   To switch it off, click on the icon again. \\n",
+  "zh": "\\n诱饵\\n\\n所有队员均可使用这种无线电遥控诱饵。\\n\\n左键单击目标位置，将诱饵放在地上。\\n\\n点击背包上出现的图标启动它，吸引敌人注意。\\n\\n再次点击该图标即可关闭。\\n"
+ },
+ "TI40": {
+  "budget": 14,
+  "flags": [],
+  "en": "    Cigarettes",
+  "zh": "香烟"
+ },
+ "TX36": {
+  "budget": 312,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Cigarettes\\n   \\n   All of your men can use the cigarettes.\\n   \\n   Left-Click on desired location to throw.\\n   \\n   When the enemy sees the cigarettes, he will approach them to pick them up - unless his orders do not allow him to leave his post.\\n   \\n   You will find cigarettes on some enemies.\\n",
+  "zh": "\\n香烟\\n\\n所有队员均可使用香烟。\\n\\n左键单击目标位置投掷。\\n\\n敌人看到香烟后会走过去捡起，除非其命令不允许他离开岗位。\\n\\n有些敌人身上可找到香烟。\\n"
+ },
+ "TI41": {
+  "budget": 15,
+  "flags": [],
+  "en": "    Diving Gear",
+  "zh": "潜水装备"
+ },
+ "TX37": {
+  "budget": 171,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Diving Gear\\n   \\n   Only the Diver can use this gear.\\n   \\n   The Diver can swim underwater for an indefinite period of time when equipped with Diving Gear.\\n",
+  "zh": "\\n潜水装备\\n\\n只有潜水员能使用此装备。\\n\\n装备潜水装备后，潜水员可在水下无限时游泳。\\n"
+ },
+ "TI42": {
+  "budget": 1,
+  "flags": [
+   "空白/装饰",
+   "超短"
+  ],
+  "en": " ",
+  "zh": ""
+ },
+ "TI43": {
+  "budget": 8,
+  "flags": [],
+  "en": "MOVEMENT",
+  "zh": "移动"
+ },
+ "TI44": {
+  "budget": 21,
+  "flags": [],
+  "en": "    Explosive Barrels",
+  "zh": "爆炸油桶"
+ },
+ "TX38": {
+  "budget": 264,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Explosive Barrels\\n   \\n   All of your men can utilise these barrels.\\n   \\n   Fire at an Explosive Barrel to blow it up.\\n   \\n   The Green Beret can carry a barrel and move it to a different position.\\n   \\n   He cannot run whilst carrying a barrel.\\n",
+  "zh": "\\n爆炸桶\\n\\n所有队员均可利用这些桶。\\n\\n向爆炸桶射击可将其引爆。\\n\\n绿贝雷可搬运爆炸桶至不同位置。\\n\\n搬运爆炸桶时无法奔跑。\\n"
+ },
+ "TI45": {
+  "budget": 12,
+  "flags": [],
+  "en": "    Tracking",
+  "zh": "追踪"
+ },
+ "TX39": {
+  "budget": 290,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Tracking Camera\\n   \\n   Hotkey: F3\\n   \\n   This will focus the screen on a character / vehicle and follow it. \\n   \\n   You can zoom in and out and change camera without losing sight of the character / vehicle. \\n   \\n   You can have two views on the screen at the same time.\\n",
+  "zh": "\\n追踪镜头\\n\\n热键：F3\\n\\n此功能将屏幕聚焦于角色或载具并跟随。\\n\\n可在不失去角色或载具视野的情况下缩放并切换镜头。\\n\\n可同时显示两个视图。\\n"
+ },
+ "TI46": {
+  "budget": 9,
+  "flags": [],
+  "en": "    Enemy",
+  "zh": "敌人"
+ },
+ "TX40": {
+  "budget": 333,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        The Enemy\\n   \\n   Enemy vision is divided into two areas. \\n \\n   In the furthest area, your men will be seen if they are not lying on the ground or against a wall. \\n   \\n   In the nearest area, they will be seen regardless.\\n   \\n   Enemy Snipers have special vision ability and will see you even if you are crawling.\\n",
+  "zh": "\\n敌人\\n\\n敌人的视野分为两个区域。\\n\\n在最远区域，若队员未趴下或未贴墙，就会被发现。\\n\\n在最近区域，无论怎样都会被看见。\\n\\n敌人狙击手拥有特殊视野能力，即使你正在爬行也能看见你。\\n"
+ },
+ "TI47": {
+  "budget": 11,
+  "flags": [],
+  "en": "    Ladders",
+  "zh": "梯子"
+ },
+ "TX41": {
+  "budget": 329,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Ladder\\n   \\n   All of your men can use ladders.\\n   \\n   Left-Click on a ladder to use it.\\n   \\n   You can change direction or stop while you are on the ladder. Click above or below to move. Right-Click to stop. Right-Click again to drop to the ground.\\n   \\n   You cannot defend yourself whilst climbing a ladder.\\n",
+  "zh": "\\n梯子\\n\\n所有队员均可使用梯子。\\n\\n左键单击梯子即可使用。\\n\\n在梯子上可改变方向或停止。点击上方或下方移动。右键停止，再次右键跳至地面。\\n\\n爬梯时无法自卫。\\n"
+ },
+ "TI48": {
+  "budget": 11,
+  "flags": [],
+  "en": "    Examine",
+  "zh": "查看"
+ },
+ "TX42": {
+  "budget": 302,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Examine\\n   \\n   Hotkey: 'Z' \\n   \\n   All of your men can Examine.\\n   \\n   Obtain information from an object or character in the environment.\\n   \\n   You can Examine almost anything.\\n   \\n   You can also access the object exchange menu if you click on one of your commandos' backpacks.\\n",
+  "zh": "\\n        查看\\n   \\n   快捷键：Z\\n   \\n   所有队员都能使用查看。\\n   \\n   从环境中的物体或人物身上获取信息。\\n   \\n   几乎任何东西都可以查看。\\n   \\n   点击队员的背包，还能打开物品交换菜单。\\n"
+ },
+ "TI50": {
+  "budget": 13,
+  "flags": [],
+  "en": "    Inventory",
+  "zh": "物品栏"
+ },
+ "TX44": {
+  "budget": 430,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Inventory\\n   \\n   All of your men have an Inventory of all objects you are carrying at that moment.\\n   \\n   Left-Click on the backpack of the selected commando to open it.\\n   \\n   Click on objects to move them to a different location. Left-Click again to place objects into a new location within the inventory.\\n   \\n   If you want to drop the object, select the object and Left-Click outside the Inventory window.\\n",
+  "zh": "\\n        物品栏\\n   \\n   所有队员都有一个物品栏，存放当时随身携带的全部物品。\\n   \\n   左键点击所选队员的背包即可打开。\\n   \\n   点击物品可将其移到其他位置。再次左键点击，即可把物品放到物品栏内的新位置。\\n   \\n   若要丢弃物品，选中该物品，然后在物品栏窗口外左键点击。\\n"
+ },
+ "TI51": {
+  "budget": 7,
+  "flags": [],
+  "en": "    Map",
+  "zh": "地图"
+ },
+ "TX45": {
+  "budget": 129,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Map\\n   \\n   Hotkey: F4\\n   \\n   Click on the Map icon to display it.\\n   \\n   To hide, click on the Map icon again.\\n",
+  "zh": "\\n        地图\\n   \\n   快捷键：F4\\n   \\n   点击地图图标即可显示地图。\\n   \\n   再次点击地图图标可将其隐藏。\\n"
+ },
+ "TI52": {
+  "budget": 19,
+  "flags": [],
+  "en": "    Multi-Selection",
+  "zh": "多项选择"
+ },
+ "TX46": {
+  "budget": 489,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Multi-Selection\\n   \\n   Hotkeys:\\n   Select All: '8'\\n   Deselect All: '0'\\n   \\n   Select several of your men at the same time and give them orders simultaneously.\\n   \\n   Right-Click and drag the mouse to create a selection box around the commandos that you wish to select.\\n   \\n   To select / deselect a commando, press the CTRL key and click on him.\\n   \\n   To select all your commandos, press the '8' key.\\n   \\n   To deselect all of the commandos, press the '0' key.\\n",
+  "zh": "\\n        多项选择\\n   \\n   快捷键：\\n   全选：8\\n   取消全选：0\\n   \\n   同时选中多名队员，并同时向他们下达命令。\\n   \\n   右键按住并拖动鼠标，框选你想要的队员。\\n   \\n   要选中或取消选中某名队员，按住 CTRL 键并点击他。\\n   \\n   要选中全部队员，按 8 键。\\n   \\n   要取消选中全部队员，按 0 键。\\n"
+ },
+ "TI49": {
+  "budget": 14,
+  "flags": [],
+  "en": "    Navigation",
+  "zh": "移动视角"
+ },
+ "TX43": {
+  "budget": 533,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Navigation\\n   \\n   Use the mouse cursor to move around the map by moving it to the extremities of the screen.\\n   \\n   You can rotate the map in both interiors and exteriors by using the wheel on your mouse.\\n   \\n   Press and hold the mouse wheel and move it to drag the map.\\n   \\n   To zoom, click the mouse wheel and move the wheel. You can also use the '+' and '-' keys on the numeric pad.\\n   \\n   Press ' * ' on the numeric pad to reset the zoom level in exteriors, and the zoom, angle and rotation in interiors.\\n",
+  "zh": "\\n        移动视角\\n   \\n   将鼠标光标移到屏幕边缘，即可在地图上移动。\\n   \\n   无论室内还是室外，都可滚动鼠标滚轮旋转地图。\\n   \\n   按住鼠标滚轮并移动，可拖动地图。\\n   \\n   要缩放，按下鼠标滚轮并滚动它。也可使用小键盘上的 + 和 - 键。\\n   \\n   按小键盘上的 * 键，可在室外复位缩放级别，在室内复位缩放、角度和旋转。\\n"
+ },
+ "TI53": {
+  "budget": 9,
+  "flags": [],
+  "en": "    Doors",
+  "zh": "房门"
+ },
+ "TX47": {
+  "budget": 222,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Doors\\n   \\n   All of your men can use doors.\\n   \\n   Left-Click on a door to open or close it.\\n   \\n   You can hide behind open doors.\\n   \\n   Some doors are locked. Use the Thief's Lockpicks to open them.\\n",
+  "zh": "\\n        房门\\n   \\n   所有队员都能使用房门。\\n   \\n   左键点击房门可将其打开或关闭。\\n   \\n   你可以躲在敞开的门后。\\n   \\n   有些门是锁着的。用小偷的开锁工具打开。\\n"
+ },
+ "TI54": {
+  "budget": 13,
+  "flags": [],
+  "en": "    Selection",
+  "zh": "选择"
+ },
+ "TX48": {
+  "budget": 401,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Commando selection\\n   \\n   To select one of your men, press the assigned number key.\\n   \\n   1: Green Beret\\n   2: Sniper\\n   3: Diver\\n   4: Sapper\\n   5: Spy\\n   6: Thief\\n   7: Allied Infantry\\n   8: All\\n   \\n   You can also select them by Left-Clicking on the face of the commando on the side bar, or by using a selection box. \\n   \\n   Press '0' to deselect all of your commandos.\\n",
+  "zh": "\\n        敢死队员选择\\n   \\n   要选择一名队员，按下对应的数字键。\\n   \\n   1：绿贝雷\\n   2：狙击手\\n   3：潜水员\\n   4：工兵\\n   5：间谍\\n   6：小偷\\n   7：盟军步兵\\n   8：全体\\n   \\n   也可以左键点击侧边栏中队员的头像，或使用选择框来选取。\\n   \\n   按 0 键取消所有队员的选择。\\n"
+ },
+ "TI55": {
+  "budget": 21,
+  "flags": [],
+  "en": "    Display View Area",
+  "zh": "显示视野区域"
+ },
+ "TX49": {
+  "budget": 243,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Display View Area\\n   \\n   Hotkeys: TAB or ENTER\\n   \\n   Use this function to discover whether an area is covered by the enemy or not.\\n   \\n   Keep the TAB or ENTER key pressed and Left-Click on the spot you wish to investigate.\\n",
+  "zh": "\\n        显示视野区域\\n   \\n   快捷键：TAB 或 ENTER\\n   \\n   用此功能可查明某区域是否被敌人控制。\\n   \\n   按住 TAB 或 ENTER 键，左键点击要查看的地点。\\n"
+ },
+ "TI56": {
+  "budget": 12,
+  "flags": [],
+  "en": "    Lie Down",
+  "zh": "卧倒"
+ },
+ "TX50": {
+  "budget": 268,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Lie Down / Stand Up\\n   \\n   Hotkey: SPACE BAR\\n   \\n   All of your men can do this.\\n   \\n   Press the SPACE BAR to lie down and crawl. Press it again to stand up.\\n   \\n   When lying down the commando will be invisible in the long range enemy view area.\\n",
+  "zh": "\\n        卧倒、站立\\n   \\n   快捷键：空格键\\n   \\n   所有队员都可以这样做。\\n   \\n   按空格键卧倒并爬行，再按一次即可站立。\\n   \\n   卧倒时，队员在敌人远距离视野内不可见。\\n"
+ },
+ "TI57": {
+  "budget": 11,
+  "flags": [],
+  "en": "    Windows",
+  "zh": "窗户"
+ },
+ "TX51": {
+  "budget": 417,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Windows\\n   \\n   All of your men can look out of windows.\\n   \\n   Only the Thief can climb in through windows.\\n   \\n   You can look through any window you have access to.\\n   \\n   Select EXAMINE and click on the window to look through it.\\n   \\n   A box will appear on the screen to display the interior. \\n   \\n   If the Thief is looking through a window, Left-Click to climb in or out of that window.\\n",
+  "zh": "\\n        窗户\\n   \\n   所有队员都能从窗户向外观察。\\n   \\n   只有小偷能从窗户爬进去。\\n   \\n   你可以从任何能接触到的窗户向外观察。\\n   \\n   选择检查并点击窗户即可观察。\\n   \\n   屏幕上会出现一个方框，显示室内情况。\\n   \\n   若小偷正在观察窗户，左键点击即可从该窗户爬进或爬出。\\n"
+ },
+ "TI58": {
+  "budget": 9,
+  "flags": [],
+  "en": "    Views",
+  "zh": "视角"
+ },
+ "TX52": {
+  "budget": 334,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Views and Cameras\\n   \\n   Hotkey: F2 \\n   \\n   The F2 key will allow you to select different view modes.\\n   \\n   Click on one of the views to make it the active camera.\\n   \\n   Each camera is independent. You can zoom in / out, use the tracking camera, etc.\\n   \\n   Press F2 to cycle through the different view modes.\\n",
+  "zh": "\\n        视角与摄像机\\n   \\n   快捷键：F2\\n   \\n   F2 键可切换不同的视角模式。\\n   \\n   点击任一视角，将其设为当前摄像机。\\n   \\n   每个摄像机相互独立。你可以缩放、使用跟踪摄像机等。\\n   \\n   按 F2 循环切换不同视角模式。\\n"
+ },
+ "TI59": {
+  "budget": 1,
+  "flags": [
+   "空白/装饰",
+   "超短"
+  ],
+  "en": " ",
+  "zh": ""
+ },
+ "TI60": {
+  "budget": 10,
+  "flags": [],
+  "en": "TECHNIQUES",
+  "zh": "技巧"
+ },
+ "TI61": {
+  "budget": 9,
+  "flags": [],
+  "en": "    Sneak",
+  "zh": "潜行"
+ },
+ "TX53": {
+  "budget": 295,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Sneak\\n   \\n   Only the Thief has this ability.\\n   \\n   Approach an enemy soldier silently and steal objects from him.\\n   \\n   Left-Click on the enemy soldier to move behind him and follow silently.\\n   \\n   Left-Click on the soldier again to see available items in his inventory.\\n",
+  "zh": "\\n        潜行\\n   \\n   只有小偷具备此能力。\\n   \\n   悄悄接近一名敌人，偷取他身上的物品。\\n   \\n   左键点击该敌人，移动到他身后悄悄跟随。\\n   \\n   再次左键点击该敌人，查看他物品栏中可用的物品。\\n"
+ },
+ "TI62": {
+  "budget": 10,
+  "flags": [],
+  "en": "    Allies",
+  "zh": "盟军"
+ },
+ "TX54": {
+  "budget": 211,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Allies\\n   \\n   Allies will assist you in some missions.\\n   \\n   They can take cover and defend a position.\\n   \\n   They can use heavy weapons.\\n   \\n   Use them to set ambushes and protect roads.\\n",
+  "zh": "\\n        盟军\\n   \\n   在某些任务中，盟军会协助你。\\n   \\n   他们能寻找掩护并防守阵地。\\n   \\n   他们可以使用重型武器。\\n   \\n   派他们设置埋伏、保护道路。\\n"
+ },
+ "TI63": {
+  "budget": 14,
+  "flags": [],
+  "en": "    Cover Mode",
+  "zh": "掩护模式"
+ },
+ "TX55": {
+  "budget": 526,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Cover Mode\\n   \\n   Hotkey: 'A' \\n   \\n   All of your men can cover an area, this also applies to Allied soldiers.\\n   \\n   Defend yourself from the enemy and set ambushes.\\n   \\n   Once in Cover Mode, Right-Click on the environment whilst pressing the CTRL key to change the area of cover.\\n   \\n   Allied soldiers can be standing, kneeling, lying down, or positioned in windows.\\n   \\n   When you are in position and see an enemy soldier, you will automatically shoot at him using the currently selected weapon.\\n",
+  "zh": "\\n        掩护模式\\n   \\n   快捷键：A\\n   \\n   所有队员都能掩护一片区域，盟军士兵同样适用。\\n   \\n   保护自己免受敌人攻击，并设置埋伏。\\n   \\n   进入掩护模式后，按住 CTRL 键同时在环境上点击右键，即可更改掩护区域。\\n   \\n   盟军士兵可以站立、跪倒、卧倒，或部署在窗口。\\n   \\n   就位后一旦发现敌方士兵，你会自动用当前所选武器向他射击。\\n"
+ },
+ "TI64": {
+  "budget": 19,
+  "flags": [],
+  "en": "    Swim Underwater",
+  "zh": "水下游泳"
+ },
+ "TX56": {
+  "budget": 427,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Swim Underwater\\n   \\n   Hotkey: SPACE BAR\\n   \\n   All of your men can swim underwater.\\n   \\n   You can swim underwater for a limited period of time, with the exception of the Diver who can utilise his diving gear.\\n   \\n   Click on the DIVE button to start swimming underwater. \\n   \\n   Use the mouse to move the commando. Left-Click on the desired location. \\n   \\n   To return to the surface, select SURFACE.\\n",
+  "zh": "\\n        水下游泳\\n   \\n   快捷键：空格键\\n   \\n   所有队员都能在水下游泳。\\n   \\n   水下游泳的时间有限，潜水员除外，他可借助潜水装备。\\n   \\n   点击下潜按钮开始水下游泳。\\n   \\n   用鼠标移动敢死队员，左键点击目标位置。\\n   \\n   要返回水面，选择上浮。\\n"
+ },
+ "TI65": {
+  "budget": 10,
+  "flags": [],
+  "en": "    Cables",
+  "zh": "缆绳"
+ },
+ "TX57": {
+  "budget": 388,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Cables\\n   \\n   The Green Beret and the Thief can use cables.\\n   \\n   You can use them to move around without being seen.\\n   \\n   Reach cables by climbing a pole or exiting through a window. Click on the cable in the direction you wish to move in.\\n   \\n   You will be invisible to the enemy whilst hanging from a cable. If you tire completely, you will fall to the ground.\\n",
+  "zh": "\\n        缆绳\\n   \\n   绿贝雷和小偷可以使用缆绳。\\n   \\n   你可以借助缆绳移动而不被发现。\\n   \\n   爬上线杆或从窗口出来即可到达缆绳。朝想要移动的方向点击缆绳。\\n   \\n   悬挂在缆绳上时，敌人无法发现你。如果体力完全耗尽，你会摔到地面。\\n"
+ },
+ "TI66": {
+  "budget": 18,
+  "flags": [],
+  "en": "    Pick Up / Drop",
+  "zh": "拾取 / 放下"
+ },
+ "TX58": {
+  "budget": 341,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Pick Up / Drop\\n   \\n   All of your men can do this.\\n   \\n   Move objects around the environment.\\n   \\n   Click on the object you wish to pick up.\\n   \\n   Left-Click at the location you wish to place the object and you will move there. Once there, Right-Click to drop. You cannot run whilst carrying a box, barrel or soldier.\\n",
+  "zh": "\\n        拾取 / 放下\\n   \\n   所有队员都能执行此操作。\\n   \\n   在环境中搬运物体。\\n   \\n   点击想要拾取的物体。\\n   \\n   左键点击想要放置物体的位置，队员会走到那里。到达后按右键放下。搬运箱子、木桶或士兵时无法奔跑。\\n"
+ },
+ "TI67": {
+  "budget": 18,
+  "flags": [],
+  "en": "    Limited Access",
+  "zh": "限制通行"
+ },
+ "TX59": {
+  "budget": 153,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Limited Access\\n   \\n   Only the Thief can access certain areas.\\n   \\n   He can enter any window or crawl in through gaps in the environment.",
+  "zh": "\\n        进入限制\\n   \\n   只有小偷能进入某些区域。\\n   \\n   他可以进入任意窗口，或从环境中的缝隙爬入。\\n"
+ },
+ "TI68": {
+  "budget": 18,
+  "flags": [],
+  "en": "    Drive Vehicles",
+  "zh": "驾驶车辆"
+ },
+ "TX60": {
+  "budget": 527,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Drive Vehicles\\n   \\n   All of your men can drive.\\n   \\n   Left-Click on the vehicle to get on or in.\\n   \\n   Drive it using the cursors or Left-Click on the environment. \\n   \\n   If you keep SHIFT pressed or Double-Click on the environment, the vehicle will move faster. \\n   \\n   Special vehicles, such as armoured vehicles, can only be handled by the Sapper.\\n   \\n   Press CTRL and Left-Click to fire the vehicle's weapon. You can only do this if the Sapper is inside.\\n   \\n   To exit a vehicle, press 'X'.\\n",
+  "zh": "\\n        驾驶载具\\n   \\n   所有队员都会驾驶。\\n   \\n   左键点击载具即可上车或进入。\\n   \\n   使用方向键或左键点击地面来驾驶。\\n   \\n   按住 SHIFT 或双击地面，载具会加速行驶。\\n   \\n   装甲车等特殊载具只能由工兵驾驶。\\n   \\n   按 CTRL 并左键点击可发射车载武器，且工兵必须在车内。\\n   \\n   按 X 键下车。\\n"
+ },
+ "TI69": {
+  "budget": 12,
+  "flags": [],
+  "en": "    Distract",
+  "zh": "分散注意"
+ },
+ "TX61": {
+  "budget": 332,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Distract\\n   \\n   Only the Spy can distract the enemy.\\n   \\n   You need an enemy Uniform.\\n   \\n   The higher your rank, the more influence you will have.\\n   \\n   Left-Click on the enemy you wish to distract.\\n   \\n   If the disguise you are wearing is of a higher rank than the enemy's, you can also give him orders.\\n",
+  "zh": "\\n        吸引注意\\n   \\n   只有间谍能吸引敌人注意。\\n   \\n   你需要敌人军服。\\n   \\n   军衔越高，影响力越大。\\n   \\n   左键点击你想吸引的敌人。\\n   \\n   若你的伪装军衔高于对方，还可向其下达命令。\\n"
+ },
+ "TI71": {
+  "budget": 9,
+  "flags": [],
+  "en": "    Climb",
+  "zh": "攀爬"
+ },
+ "TX63": {
+  "budget": 205,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Climb\\n   \\n   Only the Thief can climb.\\n   \\n   He can climb walls without special equipment.\\n   \\n   Left-Click on a wall to scale it.\\n   \\n   You are able to move sideways on some walls.\\n",
+  "zh": "\\n        攀爬\\n   \\n   只有小偷能攀爬。\\n   \\n   他无需特殊装备即可攀上墙壁。\\n   \\n   左键点击墙壁即可攀爬。\\n   \\n   在某些墙壁上可以横向移动。\\n"
+ },
+ "TI73": {
+  "budget": 15,
+  "flags": [],
+  "en": "    Punch / Tie",
+  "zh": "拳击 / 捆绑"
+ },
+ "TX65": {
+  "budget": 387,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Punch, Tie, and Gag\\n   \\n   All of your commandos can do this (except the Spy, he can only Tie and Gag).\\n   \\n   Click on the soldier you wish to stun with the FIST selected.\\n   \\n   Once the enemy is stunned, Right-Click to deselect the FIST and Left-Click on him to tie and gag.\\n   \\n   Once he is tied, you can search him and take everything he has, even his uniform.\\n",
+  "zh": "\\n        击晕、捆绑与堵嘴\\n   \\n   所有敢死队员都能这么做（间谍除外，他只能捆绑与堵嘴）。\\n   \\n   选中拳头，点击你想击晕的士兵。\\n   \\n   敌人被击晕后，右键取消拳头，再左键点击他进行捆绑与堵嘴。\\n   \\n   捆绑后，你可以搜身并取走他的一切，包括军服。\\n"
+ },
+ "TI74": {
+  "budget": 18,
+  "flags": [],
+  "en": "    Knock on Walls",
+  "zh": "敲墙诱敌"
+ },
+ "TX66": {
+  "budget": 251,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Knock on Walls\\n   \\n   All of your commandos can do this.\\n     \\n   Distract the enemy by making noise.\\n   \\n   Click on a wall to bang on it. It will attract the attention of everyone within hearing distance, and they may investigate.\\n",
+  "zh": "\\n        敲墙\\n   \\n   所有敢死队员都能这么做。\\n     \\n   通过制造声响吸引敌人。\\n   \\n   点击墙壁即可敲击。这会吸引听觉范围内所有人的注意，他们可能会前来查看。\\n"
+ },
+ "TI75": {
+  "budget": 8,
+  "flags": [],
+  "en": "    Swim",
+  "zh": "游泳"
+ },
+ "TX67": {
+  "budget": 261,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Swim\\n   \\n   All of your men can do this.\\n   \\n   You can cross areas of water.\\n   \\n   To dive into the water, Left-Click on it.\\n   \\n   Click once to swim at ordinary speed.\\n   \\n   Double-Click to swim faster, but that will make more noise.\\n",
+  "zh": "\\n        游泳\\n   \\n   所有队员都能这么做。\\n   \\n   你可以穿越水域。\\n   \\n   左键点击水面即可潜入水中。\\n   \\n   单击以普通速度游泳。\\n   \\n   双击可游得更快，但会发出更大声响。\\n"
+ },
+ "TI76": {
+  "budget": 15,
+  "flags": [],
+  "en": "    Hide Bodies",
+  "zh": "隐藏尸体"
+ },
+ "TX68": {
+  "budget": 224,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Hide Enemy Bodies\\n   \\n   All of your commandos can do this.\\n   \\n   Hide bodies in the bushes or by tossing them into the water. \\n   \\n   Pick up a body and Left-Click on the water's edge or on a bushy area.\\n",
+  "zh": "\\n        隐藏敌人尸体\\n   \\n   所有敢死队员都能这么做。\\n   \\n   将尸体藏入灌木丛或扔进水中。\\n   \\n   扛起尸体，左键点击水边或灌木丛区域。\\n"
+ },
+ "TI77": {
+  "budget": 18,
+  "flags": [],
+  "en": "    Against a Wall",
+  "zh": "靠墙隐蔽"
+ },
+ "TX69": {
+  "budget": 423,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Press Up Against a Wall\\n   \\n   All of your men can do this.\\n   \\n   Use the walls to hide yourself and avoid being seen.\\n   \\n   If you position a commando next to a wall, he will press up against it and will be invisible in the enemy's long-range view area. You can move while pressed up against a wall, maintaining your camouflage. \\n   \\n   To move him from the wall, Left-Click on the desired location.\\n",
+  "zh": "\\n        贴靠墙壁\\n   \\n   所有队员都可以这样做。\\n   \\n   利用墙壁隐蔽自己，避免被发现。\\n   \\n   将敢死队员安置在墙边，他就会贴靠上去，并在敌人的远程视野中隐形。贴靠墙壁时仍可移动，并保持伪装。 \\n   \\n   要让他离开墙壁，左键点击目标位置。\\n"
+ },
+ "TI78": {
+  "budget": 9,
+  "flags": [],
+  "en": "    Poles",
+  "zh": "电线杆"
+ },
+ "TX70": {
+  "budget": 287,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Poles\\n     \\n   These can be utilised by the Green Beret, Thief and Sniper\\n   \\n   Climb to the top of a pole to climb along the cables or to shoot from the top.\\n   \\n   Left-Click on a pole to climb.\\n   \\n   Left-Click at the base or Right-Click to drop to the ground. \\n",
+  "zh": "\\n        电线杆\\n     \\n   绿贝雷、小偷和狙击手可以使用\\n   \\n   爬上杆顶，即可沿缆线移动或从高处射击。\\n   \\n   左键点击电线杆即可攀爬。\\n   \\n   左键点击杆底或右键点击即可落到地面。 \\n"
+ },
+ "TI79": {
+  "budget": 16,
+  "flags": [],
+  "en": "    Exit Windows",
+  "zh": "从窗户离开"
+ },
+ "TX71": {
+  "budget": 326,
+  "flags": [
+   "含\\n转义"
+  ],
+  "en": " \\n        Exit Through Windows\\n   \\n   This can be performed by the Green Beret and the Thief.\\n   \\n   Escape from inside a building by jumping out of the window.\\n   \\n   Left-Click on a window to exit. \\n   \\n   Depending on the height of the window, you may fall to the ground, hang from a sill or dangle from a cable.\\n",
+  "zh": "\\n        从窗户撤离\\n   \\n   绿贝雷和小偷可以这样做。\\n   \\n   从建筑物内跳出窗户逃生。\\n   \\n   左键点击窗户即可退出。 \\n   \\n   视窗户高度而定，你可能会摔到地面、吊在窗台上或悬挂在缆线上。\\n"
+ }
+}

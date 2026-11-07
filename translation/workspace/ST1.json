@@ -1,0 +1,98 @@
+{
+ "FR01": {
+  "budget": 22,
+  "flags": [],
+  "en": "SNIPER: Hello Comrade!",
+  "zh": "狙击手：你好，同志！"
+ },
+ "RU01": {
+  "budget": 20,
+  "flags": [],
+  "en": "ALLIED SOLDIER: Sir!",
+  "zh": "盟军士兵：长官！"
+ },
+ "FR02": {
+  "budget": 30,
+  "flags": [],
+  "en": "SNIPER: Where is that bounder?",
+  "zh": "狙击手：那混蛋在哪？"
+ },
+ "RU02": {
+  "budget": 97,
+  "flags": [],
+  "en": "ALLIED SOLDIER: He is a ghost, sir! Eight deaths in morning... two officers... one shot one kill.",
+  "zh": "盟军士兵：长官，他是个幽灵！一早上八条人命……两名军官……一枪一个。"
+ },
+ "FR03": {
+  "budget": 46,
+  "flags": [],
+  "en": "SNIPER: A good morning's work for a soldier...",
+  "zh": "狙击手：对士兵来说，早上干得不错……"
+ },
+ "RU03": {
+  "budget": 56,
+  "flags": [],
+  "en": "ALLIED SOLDIER: He is not a soldier, sir! He's a killer.",
+  "zh": "盟军士兵：长官，他不是士兵！他是个杀手。"
+ },
+ "FR04": {
+  "budget": 63,
+  "flags": [],
+  "en": "SNIPER: OK, enough talk. As the Yanks say, I´m taking him down.",
+  "zh": "狙击手：好了，别废话。就像美国佬说的，我要把他干掉。"
+ },
+ "RU04": {
+  "budget": 33,
+  "flags": [],
+  "en": "ALLIED SOLDIER: Da... Da... OK...",
+  "zh": "盟军士兵：是……是……好的……"
+ },
+ "USGE": {
+  "budget": 12,
+  "flags": [],
+  "en": "U.S. GENERAL",
+  "zh": "美军将军"
+ },
+ "RUGE": {
+  "budget": 15,
+  "flags": [],
+  "en": "RUSSIAN GENERAL",
+  "zh": "苏军将军"
+ },
+ "RUSO": {
+  "budget": 15,
+  "flags": [],
+  "en": "RUSSIAN SOLDIER",
+  "zh": "苏军士兵"
+ },
+ "OR01": {
+  "budget": 78,
+  "flags": [],
+  "en": " Eliminate the enemy sniper before he finishes off all of your Russian Allies.",
+  "zh": "消灭敌方狙击手，别让他把你的苏军战友全部杀光。"
+ },
+ "OR02": {
+  "budget": 59,
+  "flags": [],
+  "en": " Hurry up with the enemy sniper, there are few Allies left.",
+  "zh": "快解决敌方狙击手，盟军所剩无几了。"
+ },
+ "TWCV": {
+  "budget": 10,
+  "flags": [],
+  "en": "OBJECTIVES",
+  "zh": "任务目标"
+ },
+ "TIPS": {
+  "budget": 4,
+  "flags": [],
+  "en": "HELP",
+  "zh": "帮助"
+ },
+ "TIP1": {
+  "budget": 117,
+  "flags": [],
+  "en": " The enemy sniper can shoot further than you. You can also find extra ammunition for your rifle. Try not to waste it.",
+  "zh": "敌方狙击手的射程比你远。你还能找到额外的步枪弹药。尽量别浪费。"
+ }
+}

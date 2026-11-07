@@ -1,0 +1,14 @@
+【TM】 12 条 · 747 字符预算 · 战役任务 台词/字幕
+────────────────────────────────────────────────────────
+CO01  [28]  "GREEN BERET: Are you there? "
+LD01  [35]  "THIEF: Yes Butcher, everything OK? "
+CO02  [64]  "GREEN BERET: Sure, you owe me one though. What´s the situation? "
+LD02  [77]  "THIEF: We don´t know where we are going but we do know that we are not alone."
+CO03  [93]  "GREEN BERET: OK, we'll have to clear the train of enemies and get to the engine. Understood? "
+LD03  [26]  "THIEF: Sounds like a plan."
+TWCV  [10]  "OBJECTIVES"
+ROTO  [34]  "SOME OF THE ART HAS BEEN DESTROYED"
+OR01  [30]  " Eliminate all enemy soldiers."
+OR02  [120]  " The patrolling soldiers by the armoured wagon outside will position themselves inside the train. Eliminate all enemies."
+TIPS  [4]  "HELP"
+TIP1  [226]  " Use the cigarettes to distract enemy soldiers. If you throw a packet of cigarettes into an enemy's field of vision he will go and inspect it. But watch out, you will not be able to distract all your enemies using this method."

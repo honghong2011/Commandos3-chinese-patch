@@ -1,0 +1,11 @@
+【TC_01】 9 条 · 734 字符预算 · 战役任务 台词/字幕
+────────────────────────────────────────────────────────
+AR01  [19]  "SAPPER: Nice place."
+FT01  [52]  "SNIPER: OK Thomas, enough sightseeing, back to work."
+AR02  [77]  "SAPPER: Oh yes, work. Winning the war single-handed, don't you mean? Heh Heh."
+FT02  [190]  "SNIPER: Yes, well, humour aside, the resistance have informed us that the convoy containing the works of art is to pass through here shortly. We have to clear the area and prepare an ambush."
+FLMA  [45]  " THE CONVOY HAS BEEN ALERTED TO YOUR PRESENCE"
+OR01  [163]  " Eliminate all the enemies. If the alarm sounds, the sidecars will go to alert the convoy and your mission will be over. Destroy them before they reach the convoy."
+TWCV  [10]  "OBJECTIVES"
+TIPS  [4]  "HELP"
+TIP1  [174]  " Molotov Cocktail: Only the Sapper can use the Molotov Cocktail. Left-Click on the spot you would like to throw the Molotov Cocktail to. The Molotov can also affect your men."

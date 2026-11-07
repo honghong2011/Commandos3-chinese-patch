@@ -1,0 +1,13 @@
+【TC】 11 条 · 680 字符预算 · 战役任务 台词/字幕
+────────────────────────────────────────────────────────
+AR01  [56]  "SAPPER: La, La, Lili Marleen. OK, what are we doing now?"
+FT01  [140]  "SNIPER: Looks like Frenchy and Paul have been captured. However, Butcher has managed to hide in one of the trucks. You know what that means?"
+AR02  [39]  "SAPPER: Sure, don't blow up the trucks."
+FT02  [101]  "SNIPER: Exactly, I know how you love your explosives but let’s exercise a little caution on this one."
+CH01  [39]  "ALLIED SOLDIER: Reporting for duty sir!"
+FLMA  [34]  "SOME OF THE ART HAS BEEN DESTROYED"
+FLCN  [23]  "THE CONVOY HAS ESCAPED "
+OR01  [46]  " Stop the convoy and recover the works of art."
+TWCV  [10]  "OBJECTIVES"
+TIPS  [4]  "HELP"
+TIP1  [188]  " Anti-personnel Mine: Only placed by the Sapper. Left-Click on the desired location to activate. You can also deactivate mines and pick them up. You cannot step on mines that you have set."

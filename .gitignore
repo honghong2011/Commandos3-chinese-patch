@@ -1,0 +1,24 @@
+# 超大文件：DATA.PCK（495MB）超过 GitHub 单文件 100MB 硬限制，
+# 推送会被直接拒绝 —— 不入库，通过 GitHub Release 分发（单文件上限 2GB）
+build/final/DATA.PCK
+
+# 原版备份不入库
+backup/
+
+# API 密钥配置（真实密钥，绝不入库；格式见 README）
+translation/llm_config.json
+
+# 自制术语字典（按要求排除）
+translation/glossary.tsv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 编辑器/系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

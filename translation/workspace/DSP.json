@@ -1,0 +1,56 @@
+{
+ "CO01": {
+  "budget": 53,
+  "flags": [],
+  "en": "GREEN BERET: We have to take out the heavy artillery!",
+  "zh": "绿贝雷：我们必须摧毁重型火炮！"
+ },
+ "CH01": {
+  "budget": 56,
+  "flags": [],
+  "en": "ALLIED SOLDIER: I agree sir, but we´ve lost so many men!",
+  "zh": "盟军士兵：我同意，长官，可我们损失了太多人！"
+ },
+ "CO02": {
+  "budget": 105,
+  "flags": [],
+  "en": "GREEN BERET: We have to push now soldier. Remember, this is what I do best. Let's go kick some Nazi arse.",
+  "zh": "绿贝雷：士兵，我们现在必须推进。记住，这是我最擅长的。走，去揍那帮纳粹杂种。"
+ },
+ "CH02": {
+  "budget": 26,
+  "flags": [],
+  "en": "ALLIED SOLDIER: Yes sir!!!",
+  "zh": "盟军士兵：是，长官！！！"
+ },
+ "TWCV": {
+  "budget": 10,
+  "flags": [],
+  "en": "OBJECTIVES",
+  "zh": "目标"
+ },
+ "OR01": {
+  "budget": 183,
+  "flags": [],
+  "en": " Penetrate the enemy beach defenses and then eliminate the engineers that operate the artillery. You must eliminate all of the enemies inside the bunkers located to the East and West.",
+  "zh": "突破敌人海滩防线，然后消灭操作火炮的工兵。你必须消灭东西两侧碉堡内的所有敌人。"
+ },
+ "TIPS": {
+  "budget": 4,
+  "flags": [],
+  "en": "HELP",
+  "zh": "帮助"
+ },
+ "TIP1": {
+  "budget": 70,
+  "flags": [],
+  "en": " Doors: You may find locked doors that can only be opened from inside.",
+  "zh": "门：有些锁住的门只能从里面打开。"
+ },
+ "TIP2": {
+  "budget": 65,
+  "flags": [],
+  "en": " Now, your troops can access the bunker complex through the door.",
+  "zh": "现在你的部队可以通过这扇门进入碉堡群。"
+ }
+}

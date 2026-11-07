@@ -1,0 +1,104 @@
+{
+ "ES01": {
+  "budget": 39,
+  "flags": [],
+  "en": "SPY: My God, will it ever stop raining?",
+  "zh": "间谍：天啊，这雨到底会不会停？"
+ },
+ "LD01": {
+  "budget": 129,
+  "flags": [],
+  "en": "THIEF: I agree, and the mud isn't much fun either. I am covered in it and it's starting to piss me off. We should get on with it.",
+  "zh": "小偷：我同意，泥浆也不好玩。我浑身是泥，真是烦透了。我们该动手了。"
+ },
+ "ES02": {
+  "budget": 67,
+  "flags": [],
+  "en": "SPY: Not so fast, if the alarm is sounded we will fail our mission.",
+  "zh": "间谍：别急着动手，一旦警报响起，任务就会失败。"
+ },
+ "LD02": {
+  "budget": 185,
+  "flags": [],
+  "en": "THIEF: Of course, the mission, the mission. Always the mission. OK, I understand. Anyway, with this many soldiers around it won't be the mission I'll be worried about. It'll be my skin.",
+  "zh": "小偷：当然，任务，任务，永远是任务。好，我明白。不过，周围这么多士兵，我担心的可不是任务，而是我自己的小命。"
+ },
+ "ES03": {
+  "budget": 114,
+  "flags": [],
+  "en": "SPY: Enough chatter, we need to get onto that train. However, we need to get into the train station to begin with.",
+  "zh": "间谍：别废话了，我们得登上那列火车。不过，首先得进车站。"
+ },
+ "RE01": {
+  "budget": 36,
+  "flags": [],
+  "en": " Thank you for coming to our rescue.",
+  "zh": "感谢你们前来营救我们。"
+ },
+ "RE02": {
+  "budget": 116,
+  "flags": [],
+  "en": " We were captured and unable to get past the Nazi guard. The thieving Nazis are loading the treasure into the train.",
+  "zh": "我们被俘了，无法越过纳粹守卫。那些纳粹盗贼正把财宝装上火车。"
+ },
+ "RE03": {
+  "budget": 75,
+  "flags": [],
+  "en": " We will help you get inside the train station by distracting some of them.",
+  "zh": "我们会引开一些人，帮你们混进车站。"
+ },
+ "RE04": {
+  "budget": 52,
+  "flags": [],
+  "en": " Once inside there's a perfect hiding place for you.",
+  "zh": "进去之后，有一处绝佳的藏身点。"
+ },
+ "RE05": {
+  "budget": 48,
+  "flags": [],
+  "en": " Quickly, let's go. The train is about to leave.",
+  "zh": "快，我们走。火车马上要开了。"
+ },
+ "TWCV": {
+  "budget": 10,
+  "flags": [],
+  "en": "OBJECTIVES",
+  "zh": "任务目标"
+ },
+ "FLMA": {
+  "budget": 18,
+  "flags": [],
+  "en": "THE TRAIN HAS LEFT",
+  "zh": "火车已经开走了"
+ },
+ "FLTF": {
+  "budget": 37,
+  "flags": [],
+  "en": "YOU HAVE BEEN DISCOVERED IN THE TRUCK",
+  "zh": "你在卡车里被发现了"
+ },
+ "OR01": {
+  "budget": 52,
+  "flags": [],
+  "en": " Get into the station without setting off the alarm.",
+  "zh": "在不触发警报的情况下进入车站。"
+ },
+ "TIPS": {
+  "budget": 4,
+  "flags": [],
+  "en": "HELP",
+  "zh": "帮助"
+ },
+ "TIP0": {
+  "budget": 197,
+  "flags": [],
+  "en": " To DISTRACT an inferior ranking soldier select Distract from the interface and click on the soldier. The soldier will be distracted and you can order him to move or look in a particular direction.",
+  "zh": "要引开军衔较低的士兵，请从界面中选择“引开”并点击该士兵。士兵会被引开，你可以命令他移动或朝某个方向查看。"
+ },
+ "TIP1": {
+  "budget": 62,
+  "flags": [],
+  "en": " Inside the station you will find a hiding place. Hide inside.",
+  "zh": "车站里有一处藏身点，躲进去。"
+ }
+}

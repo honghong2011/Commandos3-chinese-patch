@@ -1,0 +1,32 @@
+{
+ "0001": {
+  "budget": 24,
+  "flags": [],
+  "en": "Congratulations officer!",
+  "zh": "祝贺你，军官！"
+ },
+ "0002": {
+  "budget": 51,
+  "flags": [],
+  "en": "You have completed Commandos 3: Destination Berlin.",
+  "zh": "你已完成《盟军敢死队3：目标柏林》。"
+ },
+ "0003": {
+  "budget": 64,
+  "flags": [],
+  "en": "Hitler and his army have been thwarted by your tactical prowess.",
+  "zh": "你的战术才能挫败了希特勒及其军队。"
+ },
+ "0004": {
+  "budget": 36,
+  "flags": [],
+  "en": "It looks like We WILL win the war...",
+  "zh": "看来这场战争我们赢定了……"
+ },
+ "0005": {
+  "budget": 14,
+  "flags": [],
+  "en": "...Or will we?",
+  "zh": "……还是未必？"
+ }
+}

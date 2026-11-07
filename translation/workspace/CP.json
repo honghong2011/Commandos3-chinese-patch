@@ -1,0 +1,74 @@
+{
+ "AR01": {
+  "budget": 149,
+  "flags": [],
+  "en": "SAPPER: OK, this is the plan, we have to do as much damage as possible. Tanks, armoured vehicles, fuel deposits, anything that will hamper the Nazis.",
+  "zh": "工兵：好，计划是这样，我们必须尽可能多地制造破坏。坦克、装甲车、燃料库，凡是能阻碍纳粹的东西都算。"
+ },
+ "AR02": {
+  "budget": 169,
+  "flags": [],
+  "en": "SAPPER: In a few hours Operation Overlord will hit these shores and this area will support the beaches' defences. We have to assist our forces by helping ease their way.",
+  "zh": "工兵：几小时后，霸王行动将在这片海岸展开，这一地区将支援滩头防御。我们必须协助部队，为他们扫清道路。"
+ },
+ "LD01": {
+  "budget": 40,
+  "flags": [],
+  "en": "THIEF: And who will ease the way for us?",
+  "zh": "小偷：那谁来为我们扫清道路？"
+ },
+ "AR03": {
+  "budget": 47,
+  "flags": [],
+  "en": "SAPPER: You are part of the Commando Corps boy.",
+  "zh": "工兵：小子，你是突击队的一员。"
+ },
+ "LD02": {
+  "budget": 16,
+  "flags": [],
+  "en": "THIEF: OK, OK...",
+  "zh": "小偷：好，好……"
+ },
+ "AR04": {
+  "budget": 34,
+  "flags": [],
+  "en": "SAPPER: Right, let's get stuck in!",
+  "zh": "工兵：对，动手干吧！"
+ },
+ "OR01": {
+  "budget": 261,
+  "flags": [],
+  "en": " Obtain explosives from the Munitions Building and place a bomb inside to destroy it. Destroy the large fuel tanks and at least six armoured vehicles. If the alarm is sounded they will immediately leave for the beach defences. They must not be allowed to leave!",
+  "zh": "从弹药库取得炸药，并在内安放炸弹将其摧毁。摧毁大型燃料罐和至少六辆装甲车。若警报响起，他们会立刻前往滩头防御阵地。绝不能让他们离开！"
+ },
+ "TWCV": {
+  "budget": 10,
+  "flags": [],
+  "en": "OBJECTIVES",
+  "zh": "目标"
+ },
+ "TTTT": {
+  "budget": 39,
+  "flags": [],
+  "en": " TOO MANY NAZI REINFORCEMENTS HAVE LEFT",
+  "zh": "太多纳粹增援部队已离开"
+ },
+ "BBBB": {
+  "budget": 44,
+  "flags": [],
+  "en": " THERE ARE NO BOMBS TO DESTROY THE AMMO DUMP",
+  "zh": "没有炸弹可摧毁弹药库"
+ },
+ "TIPS": {
+  "budget": 4,
+  "flags": [],
+  "en": "HELP",
+  "zh": "帮助"
+ },
+ "TIP1": {
+  "budget": 124,
+  "flags": [],
+  "en": " Alarms: On occasion, setting off alarms will not result in failing the mission but will make it more difficult to complete.",
+  "zh": "警报：有时触发警报不会导致任务失败，但会增加完成难度。"
+ }
+}

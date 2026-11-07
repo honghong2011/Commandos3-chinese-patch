@@ -1,0 +1,32 @@
+{
+ "TWCV": {
+  "budget": 10,
+  "flags": [],
+  "en": "OBJECTIVES",
+  "zh": "任务目标"
+ },
+ "FLMA": {
+  "budget": 18,
+  "flags": [],
+  "en": "THE TRAIN HAS LEFT",
+  "zh": "列车已经出发"
+ },
+ "OR01": {
+  "budget": 87,
+  "flags": [],
+  "en": " Board the train and enter a carriage with both your men without setting off the alarm.",
+  "zh": "登上列车，带领两名队员进入车厢，切勿触发警报。"
+ },
+ "TIPS": {
+  "budget": 4,
+  "flags": [],
+  "en": "HELP",
+  "zh": "帮助"
+ },
+ "TIP1": {
+  "budget": 162,
+  "flags": [],
+  "en": " Only the Thief can climb. He can climb walls without the aid of special equipment. Left-Click on a wall to scale it. You are able to move sideways on some walls.",
+  "zh": "只有小偷能攀爬。他无需特殊装备即可爬墙。左键点击墙壁即可攀爬。在某些墙壁上可以横向移动。"
+ }
+}

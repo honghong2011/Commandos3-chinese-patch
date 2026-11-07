@@ -1,0 +1,11 @@
+【DSP】 9 条 · 572 字符预算 · 战役任务 台词/字幕
+────────────────────────────────────────────────────────
+CO01  [53]  "GREEN BERET: We have to take out the heavy artillery!"
+CH01  [56]  "ALLIED SOLDIER: I agree sir, but we´ve lost so many men!"
+CO02  [105]  "GREEN BERET: We have to push now soldier. Remember, this is what I do best. Let's go kick some Nazi arse."
+CH02  [26]  "ALLIED SOLDIER: Yes sir!!!"
+TWCV  [10]  "OBJECTIVES"
+OR01  [183]  " Penetrate the enemy beach defenses and then eliminate the engineers that operate the artillery. You must eliminate all of the enemies inside the bunkers located to the East and West."
+TIPS  [4]  "HELP"
+TIP1  [70]  " Doors: You may find locked doors that can only be opened from inside."
+TIP2  [65]  " Now, your troops can access the bunker complex through the door."

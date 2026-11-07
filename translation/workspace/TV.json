@@ -1,0 +1,62 @@
+{
+ "CO01": {
+  "budget": 27,
+  "flags": [],
+  "en": "GREEN BERET: Paul? Frenchy?",
+  "zh": "绿贝雷：保罗？法国佬？"
+ },
+ "ES01": {
+  "budget": 65,
+  "flags": [],
+  "en": "SPY: Yes Butcher, we're here, but in a bit of a sticky situation.",
+  "zh": "间谍：是的，屠夫，我们到了，但处境有点棘手。"
+ },
+ "CO02": {
+  "budget": 243,
+  "flags": [],
+  "en": "GREEN BERET: Yes, I heard, resistance intercepted a transmission from the train. Listen, I'm a few miles away from your position. It looks like the Nazis are looking to derail the train. Leave it to me lads, I'll make sure you can get through.",
+  "zh": "绿贝雷：是的，我听说了，抵抗组织截获了火车发出的电报。听着，我离你们的位置只有几英里。看来纳粹想炸毁铁轨让火车脱轨。交给我吧兄弟们，我会确保你们能通过。"
+ },
+ "ES02": {
+  "budget": 75,
+  "flags": [],
+  "en": "SPY: Sounds good but the train will still be packed full of enemy soldiers.",
+  "zh": "间谍：听起来不错，但火车上仍会挤满敌军士兵。"
+ },
+ "CO03": {
+  "budget": 98,
+  "flags": [],
+  "en": "GREEN BERET: OK, we can tackle that later. I have to make sure there's a train to get on to first.",
+  "zh": "绿贝雷：好，那事可以稍后再处理。我得先确保还有火车可上。"
+ },
+ "FLMA": {
+  "budget": 24,
+  "flags": [],
+  "en": "YOU HAVE RUN OUT OF TIME",
+  "zh": "时间耗尽，任务失败"
+ },
+ "OR01": {
+  "budget": 98,
+  "flags": [],
+  "en": " Eliminate the enemy and their vehicles. Move the truck off the tracks so that the train can pass.",
+  "zh": "消灭敌人及其车辆。把卡车移出铁轨，好让火车通过。"
+ },
+ "TWCV": {
+  "budget": 10,
+  "flags": [],
+  "en": "OBJECTIVES",
+  "zh": "目标"
+ },
+ "TIPS": {
+  "budget": 4,
+  "flags": [],
+  "en": "HELP",
+  "zh": "帮助"
+ },
+ "TIP1": {
+  "budget": 217,
+  "flags": [],
+  "en": " Explosive Barrels: All of your men can utilise these barrels. Fire at an explosive barrel to blow it up. The Green Beret can carry a barrel and move it to a different position. He cannot run whilst carrying a barrel.",
+  "zh": "爆炸桶：你的所有队员都能利用这些桶。向爆炸桶射击可将其引爆。绿贝雷能扛起一只桶并搬到别处，但扛桶时无法奔跑。"
+ }
+}

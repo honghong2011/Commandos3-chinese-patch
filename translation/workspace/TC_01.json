@@ -1,0 +1,56 @@
+{
+ "AR01": {
+  "budget": 19,
+  "flags": [],
+  "en": "SAPPER: Nice place.",
+  "zh": "工兵：好地方。"
+ },
+ "FT01": {
+  "budget": 52,
+  "flags": [],
+  "en": "SNIPER: OK Thomas, enough sightseeing, back to work.",
+  "zh": "狙击手：好了托马斯，风景看够了，回去干活。"
+ },
+ "AR02": {
+  "budget": 77,
+  "flags": [],
+  "en": "SAPPER: Oh yes, work. Winning the war single-handed, don't you mean? Heh Heh.",
+  "zh": "工兵：哦对，干活。你是说单枪匹马打赢这场战争吧？嘿嘿。"
+ },
+ "FT02": {
+  "budget": 190,
+  "flags": [],
+  "en": "SNIPER: Yes, well, humour aside, the resistance have informed us that the convoy containing the works of art is to pass through here shortly. We have to clear the area and prepare an ambush.",
+  "zh": "狙击手：好了，玩笑归玩笑，抵抗组织通知我们，载有艺术品的车队很快会经过这里。我们得清空这一带，准备打伏击。"
+ },
+ "FLMA": {
+  "budget": 45,
+  "flags": [],
+  "en": " THE CONVOY HAS BEEN ALERTED TO YOUR PRESENCE",
+  "zh": "车队已接到警报，察觉你们的行踪"
+ },
+ "OR01": {
+  "budget": 163,
+  "flags": [],
+  "en": " Eliminate all the enemies. If the alarm sounds, the sidecars will go to alert the convoy and your mission will be over. Destroy them before they reach the convoy.",
+  "zh": "消灭所有敌人。一旦警报响起，边车就会去通知车队，你的任务便告失败。在他们抵达车队前将其摧毁。"
+ },
+ "TWCV": {
+  "budget": 10,
+  "flags": [],
+  "en": "OBJECTIVES",
+  "zh": "目标"
+ },
+ "TIPS": {
+  "budget": 4,
+  "flags": [],
+  "en": "HELP",
+  "zh": "帮助"
+ },
+ "TIP1": {
+  "budget": 174,
+  "flags": [],
+  "en": " Molotov Cocktail: Only the Sapper can use the Molotov Cocktail. Left-Click on the spot you would like to throw the Molotov Cocktail to. The Molotov can also affect your men.",
+  "zh": "燃烧瓶：只有工兵能使用燃烧瓶。左键点击想要投掷的位置。燃烧瓶也会伤到自己人。"
+ }
+}

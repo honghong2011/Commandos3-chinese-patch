@@ -1,0 +1,62 @@
+{
+ "PEM0": {
+  "budget": 41,
+  "flags": [],
+  "en": "Attempting to initialize network game ...",
+  "zh": "正在初始化网络游戏……"
+ },
+ "PEM1": {
+  "budget": 39,
+  "flags": [],
+  "en": "Attempting to connect to the server ...",
+  "zh": "正在连接服务器……"
+ },
+ "PEM2": {
+  "budget": 48,
+  "flags": [],
+  "en": "Unable to connect. Commandos3 will finish in ...",
+  "zh": "无法连接，盟军敢死队3将在……后结束"
+ },
+ "WFVC": {
+  "budget": 40,
+  "flags": [],
+  "en": "Please wait for version confirmation ...",
+  "zh": "请等待版本确认……"
+ },
+ "VCF1": {
+  "budget": 139,
+  "flags": [],
+  "en": "Version confirmation timed out, either due to connection problems or, most probably, trying to connect to the old 1.0 version of Commandos3",
+  "zh": "版本确认超时，原因可能是连接问题，或者更可能是尝试连接旧版1.0的盟军敢死队3"
+ },
+ "VCF2": {
+  "budget": 34,
+  "flags": [],
+  "en": "Server version differs from client",
+  "zh": "服务器与客户端版本不同"
+ },
+ "VJUI": {
+  "budget": 22,
+  "flags": [],
+  "en": "Different game version",
+  "zh": "游戏版本不同"
+ },
+ "SSHP": {
+  "budget": 24,
+  "flags": [],
+  "en": "Server finished the game",
+  "zh": "服务器已结束游戏"
+ },
+ "SLOS": {
+  "budget": 29,
+  "flags": [],
+  "en": "Game ends due to session lost",
+  "zh": "因会话丢失，游戏结束"
+ },
+ "SKYO": {
+  "budget": 23,
+  "flags": [],
+  "en": "Kicked from the session",
+  "zh": "你已被踢出会话"
+ }
+}

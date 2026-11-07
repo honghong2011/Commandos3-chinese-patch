@@ -1,0 +1,152 @@
+{
+ "FR01": {
+  "budget": 42,
+  "flags": [],
+  "en": "SNIPER: Looks like we've got some company.",
+  "zh": "狙击手：看来有客人来了。"
+ },
+ "CO01": {
+  "budget": 186,
+  "flags": [],
+  "en": "GREEN BERET: No shit! Looks like news of Bulldog's arrival has gotten back to Berlin. How nice of them to send a welcoming committee. They'll be wanting to capture him for interrogation.",
+  "zh": "绿贝雷：废话！看来斗牛犬抵达的消息已经传回柏林了。他们还派了个欢迎团来，真是客气。他们是想抓他回去审问。"
+ },
+ "AR01": {
+  "budget": 78,
+  "flags": [],
+  "en": "SAPPER: I couldn't care less, let them have him, I personally can't stand him.",
+  "zh": "工兵：我才不在乎，让他们带走他好了，我本人受不了他。"
+ },
+ "CO02": {
+  "budget": 119,
+  "flags": [],
+  "en": "GREEN BERET: If they capture him and make him talk they could get hold of high level intel. Then we'd be up crap creek.",
+  "zh": "绿贝雷：要是他们抓住他逼他开口，就能拿到高层情报。那我们就完蛋了。"
+ },
+ "FR02": {
+  "budget": 100,
+  "flags": [],
+  "en": "SNIPER: I'm not sure if you've noticed but there seems to be a hell of a lot of our Nazi chums here.",
+  "zh": "狙击手：不知你注意到没有，这儿的纳粹老伙计可真不少。"
+ },
+ "CO03": {
+  "budget": 17,
+  "flags": [],
+  "en": "GREEN BERET: And?",
+  "zh": "绿贝雷：那又怎样？"
+ },
+ "FR03": {
+  "budget": 19,
+  "flags": [],
+  "en": "SNIPER: Oh, bugger!",
+  "zh": "狙击手：哦，妈的！"
+ },
+ "KK01": {
+  "budget": 1,
+  "flags": [
+   "空白/装饰",
+   "超短"
+  ],
+  "en": " ",
+  "zh": ""
+ },
+ "SR01": {
+  "budget": 33,
+  "flags": [],
+  "en": "RUSSIAN SOLDIER: Sergeant O'Hara?",
+  "zh": "苏联士兵：奥哈拉中士？"
+ },
+ "CO04": {
+  "budget": 22,
+  "flags": [],
+  "en": "GREEN BERET: Go ahead.",
+  "zh": "绿贝雷：请讲。"
+ },
+ "SR02": {
+  "budget": 150,
+  "flags": [],
+  "en": "RUSSIAN SOLDIER: General O'Donnell has left the sector and is on his way to the plane at the south of the city. I was thinking you would like to hear.",
+  "zh": "苏联士兵：奥唐奈将军已撤离本区，正前往城南的飞机。我想你或许愿意听一听。"
+ },
+ "CO05": {
+  "budget": 71,
+  "flags": [],
+  "en": "GREEN BERET: What? Has he taken leave of his senses? Did you hear that?",
+  "zh": "绿贝雷：什么？他疯了吗？你听见了吗？"
+ },
+ "FR04": {
+  "budget": 56,
+  "flags": [],
+  "en": "SNIPER: I certainly did. How unusual. What should we do?",
+  "zh": "狙击手：当然听见了。真反常。我们该怎么办？"
+ },
+ "CO06": {
+  "budget": 121,
+  "flags": [],
+  "en": "GREEN BERET: Oh, we need to get out of here too, seems like we'll be asking O'Donnell for a ride. Let's get to the plane!",
+  "zh": "绿贝雷：哦，我们也得撤了，看来得求奥唐奈捎我们一程。走吧，去飞机那儿！"
+ },
+ "KK02": {
+  "budget": 1,
+  "flags": [
+   "空白/装饰",
+   "超短"
+  ],
+  "en": " ",
+  "zh": ""
+ },
+ "AR02": {
+  "budget": 41,
+  "flags": [],
+  "en": "SAPPER: Right then Butcher, where to now?",
+  "zh": "工兵：好吧，布彻，现在往哪儿走？"
+ },
+ "GE01": {
+  "budget": 67,
+  "flags": [],
+  "en": "TRAITOR: Ha, the mission was a success. OK Kamerad, lass uns gehen.",
+  "zh": "叛徒：哈，任务成功了。好了，同志，我们走吧。"
+ },
+ "GEMU": {
+  "budget": 26,
+  "flags": [],
+  "en": "GENERAL O'DONNELL HAS DIED",
+  "zh": "奥唐奈将军阵亡"
+ },
+ "GEPI": {
+  "budget": 35,
+  "flags": [],
+  "en": "GENERAL O'DONNELL HAS BEEN CAPTURED",
+  "zh": "奥唐奈将军已被俘"
+ },
+ "OR01": {
+  "budget": 27,
+  "flags": [],
+  "en": " Protect General O'Donnell.",
+  "zh": "保护奥唐奈将军。"
+ },
+ "OR02": {
+  "budget": 39,
+  "flags": [],
+  "en": " Take your men and board the aeroplane.",
+  "zh": "带你的人登上飞机。"
+ },
+ "TWCV": {
+  "budget": 10,
+  "flags": [],
+  "en": "OBJECTIVES",
+  "zh": "任务目标"
+ },
+ "TIPS": {
+  "budget": 4,
+  "flags": [],
+  "en": "HELP",
+  "zh": "帮助"
+ },
+ "TIP1": {
+  "budget": 420,
+  "flags": [],
+  "en": "Cover Mode: Your men can cover an area to enable defence against the enemy and set ambushes. Press 'A' to activate Cover Mode and Right-Click on the environment whilst pressing the CTRL key to change the area of cover. Allied soldiers can be standing, lying down, or positioned in windows. When the soldier is in position and sees an enemy soldier, he will automatically shoot at him using the currently selected weapon.",
+  "zh": "掩护模式：你的队员可以掩护一片区域，用以防御敌人并设置埋伏。按A键启用掩护模式，按住CTRL键并右键点击环境即可改变掩护区域。盟军士兵可以站立、卧倒或部署在窗口。士兵就位后若发现敌方士兵，会自动用当前选中的武器向其开火。"
+ }
+}

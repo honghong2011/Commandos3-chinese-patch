@@ -1,0 +1,14 @@
+【CP】 12 条 · 937 字符预算 · 战役任务 台词/字幕
+────────────────────────────────────────────────────────
+AR01  [149]  "SAPPER: OK, this is the plan, we have to do as much damage as possible. Tanks, armoured vehicles, fuel deposits, anything that will hamper the Nazis."
+AR02  [169]  "SAPPER: In a few hours Operation Overlord will hit these shores and this area will support the beaches' defences. We have to assist our forces by helping ease their way."
+LD01  [40]  "THIEF: And who will ease the way for us?"
+AR03  [47]  "SAPPER: You are part of the Commando Corps boy."
+LD02  [16]  "THIEF: OK, OK..."
+AR04  [34]  "SAPPER: Right, let's get stuck in!"
+OR01  [261]  " Obtain explosives from the Munitions Building and place a bomb inside to destroy it. Destroy the large fuel tanks and at least six armoured vehicles. If the alarm is sounded they will immediately leave for the beach defences. They must not be allowed to leave!"
+TWCV  [10]  "OBJECTIVES"
+TTTT  [39]  " TOO MANY NAZI REINFORCEMENTS HAVE LEFT"
+BBBB  [44]  " THERE ARE NO BOMBS TO DESTROY THE AMMO DUMP"
+TIPS  [4]  "HELP"
+TIP1  [124]  " Alarms: On occasion, setting off alarms will not result in failing the mission but will make it more difficult to complete."

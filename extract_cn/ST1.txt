@@ -1,0 +1,18 @@
+【ST1】 16 条 · 677 字符预算 · 斯大林格勒战役 台词/字幕
+────────────────────────────────────────────────────────
+FR01  [22]  "SNIPER: Hello Comrade!"
+RU01  [20]  "ALLIED SOLDIER: Sir!"
+FR02  [30]  "SNIPER: Where is that bounder?"
+RU02  [97]  "ALLIED SOLDIER: He is a ghost, sir! Eight deaths in morning... two officers... one shot one kill."
+FR03  [46]  "SNIPER: A good morning's work for a soldier..."
+RU03  [56]  "ALLIED SOLDIER: He is not a soldier, sir! He's a killer."
+FR04  [63]  "SNIPER: OK, enough talk. As the Yanks say, I´m taking him down."
+RU04  [33]  "ALLIED SOLDIER: Da... Da... OK..."
+USGE  [12]  "U.S. GENERAL"
+RUGE  [15]  "RUSSIAN GENERAL"
+RUSO  [15]  "RUSSIAN SOLDIER"
+OR01  [78]  " Eliminate the enemy sniper before he finishes off all of your Russian Allies."
+OR02  [59]  " Hurry up with the enemy sniper, there are few Allies left."
+TWCV  [10]  "OBJECTIVES"
+TIPS  [4]  "HELP"
+TIP1  [117]  " The enemy sniper can shoot further than you. You can also find extra ammunition for your rifle. Try not to waste it."

@@ -1,0 +1,15 @@
+【PT】 13 条 · 1554 字符预算 · 战役任务 台词/字幕
+────────────────────────────────────────────────────────
+LA01  [40]  "DIVER: Come in Smith, this is Blackwood."
+GE01  [43]  "COLONEL SMITH: Roger Blackwood, Smith here."
+LA02  [81]  "DIVER: I´m in position sir, but behind schedule, looks like the sun´s on its way."
+GE02  [228]  "COLONEL SMITH: Oh well, can´t be helped, the mission must proceed. You must infiltrate the Nazi base and destroy those ships. Once we attack they will be given the order to join the Nazi defence, they cannot be allowed to do so."
+LA03  [65]  "DIVER: Understood sir, day or night I´m always open for business."
+GE03  [222]  "COLONEL SMITH: Very good. Intelligence have informed us of the presence of explosives on the base that you can utilise to sink those ships. A well placed bomb attached to each of the hulls should be enough to see them off."
+LA04  [73]  "DIVER: Right you are sir, I´ll see what I can get hold of. Anything else?"
+GE04  [240]  "COLONEL SMITH: Yes, you´ll have to open the dock to get to the ships. There is a switch that will enable you to do this. One last thing, make sure you are a sufficient distance away from the blast. We want to see you back here in one piece."
+LA05  [133]  "DIVER: Don´t worry sir, I plan on steering well clear. I don´t want to get caught outside when it starts raining Nazis. Over and out."
+OR01  [236]  " Obtain two magnetic bombs and place them underwater on the ships' hulls. Detonate when you are on land, a sufficient distance away. To get to the ships you will need to open the barrier using the switch located near the Officer's post."
+TWCV  [10]  "OBJECTIVES"
+TIPS  [4]  "HELP"
+TIP1  [179]  " The Diver can throw the knife but you will need to retrieve it once used. The Diver can swim underwater for an indefinite period of time when he is equipped with the diving gear."

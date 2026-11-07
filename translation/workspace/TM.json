@@ -1,0 +1,74 @@
+{
+ "CO01": {
+  "budget": 28,
+  "flags": [],
+  "en": "GREEN BERET: Are you there? ",
+  "zh": "绿贝雷：你在吗？"
+ },
+ "LD01": {
+  "budget": 35,
+  "flags": [],
+  "en": "THIEF: Yes Butcher, everything OK? ",
+  "zh": "小偷：是我，屠夫，一切正常吗？"
+ },
+ "CO02": {
+  "budget": 64,
+  "flags": [],
+  "en": "GREEN BERET: Sure, you owe me one though. What´s the situation? ",
+  "zh": "绿贝雷：当然，不过你欠我一次。情况如何？"
+ },
+ "LD02": {
+  "budget": 77,
+  "flags": [],
+  "en": "THIEF: We don´t know where we are going but we do know that we are not alone.",
+  "zh": "小偷：我们不知道要去哪里，但可以肯定我们并不孤单。"
+ },
+ "CO03": {
+  "budget": 93,
+  "flags": [],
+  "en": "GREEN BERET: OK, we'll have to clear the train of enemies and get to the engine. Understood? ",
+  "zh": "绿贝雷：好，我们得清掉列车上的敌人，然后到机车去。明白吗？"
+ },
+ "LD03": {
+  "budget": 26,
+  "flags": [],
+  "en": "THIEF: Sounds like a plan.",
+  "zh": "小偷：听起来不错。"
+ },
+ "TWCV": {
+  "budget": 10,
+  "flags": [],
+  "en": "OBJECTIVES",
+  "zh": "目标"
+ },
+ "ROTO": {
+  "budget": 34,
+  "flags": [],
+  "en": "SOME OF THE ART HAS BEEN DESTROYED",
+  "zh": "部分美术资源已被损坏"
+ },
+ "OR01": {
+  "budget": 30,
+  "flags": [],
+  "en": " Eliminate all enemy soldiers.",
+  "zh": "消灭所有敌军士兵。"
+ },
+ "OR02": {
+  "budget": 120,
+  "flags": [],
+  "en": " The patrolling soldiers by the armoured wagon outside will position themselves inside the train. Eliminate all enemies.",
+  "zh": "外面装甲车厢旁的巡逻兵会进入列车内部就位。消灭所有敌人。"
+ },
+ "TIPS": {
+  "budget": 4,
+  "flags": [],
+  "en": "HELP",
+  "zh": "帮助"
+ },
+ "TIP1": {
+  "budget": 226,
+  "flags": [],
+  "en": " Use the cigarettes to distract enemy soldiers. If you throw a packet of cigarettes into an enemy's field of vision he will go and inspect it. But watch out, you will not be able to distract all your enemies using this method.",
+  "zh": "用香烟引开敌军士兵的注意。把一包香烟扔进敌人视野内，他就会过去查看。但要注意，并非所有敌人都能被这种方式引开。"
+ }
+}

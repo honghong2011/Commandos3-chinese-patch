@@ -1,0 +1,203 @@
+{
+ "NA00": {
+  "budget": 88,
+  "flags": [],
+  "en": " It is the 21st of February, 1939. Nine hundred hours. Location...The German Embassy... ",
+  "zh": "1939年2月21日。9时整。地点……德国大使馆……"
+ },
+ "NA01": {
+  "budget": 14,
+  "flags": [],
+  "en": " ...in London.",
+  "zh": "……在伦敦。"
+ },
+ "LD01": {
+  "budget": 59,
+  "flags": [],
+  "en": "THIEF: We need to get past that guard without him noticing.",
+  "zh": "小偷：我们得绕过那名卫兵，不能让他发现。"
+ },
+ "ES01": {
+  "budget": 138,
+  "flags": [],
+  "en": "SPY: Agreed, and to gain access to the Embassy I need an officer's uniform. The one standing near the fountain looks a suitable candidate.",
+  "zh": "间谍：同意。要进入大使馆，我需要一套军官军服。站在喷泉边的那个人看着挺合适。"
+ },
+ "LD02": {
+  "budget": 107,
+  "flags": [],
+  "en": "THIEF: I have no problem climbing the wall to neutralise the soldier on the balcony. Then it's over to you.",
+  "zh": "小偷：翻墙上去干掉阳台上的士兵，我没问题。之后就交给你了。"
+ },
+ "ES02": {
+  "budget": 115,
+  "flags": [],
+  "en": "SPY: This is your first mission. Nervous? Don't be, I've done this a hundred times. We shouldn't have any problems.",
+  "zh": "间谍：这是你的第一次任务。紧张吗？别紧张，这种事我干过上百回了。不会有什么问题的。"
+ },
+ "LD03": {
+  "budget": 100,
+  "flags": [],
+  "en": "THIEF: It's not the mission it's the police, I am uncomfortable around them. I am a thief after all.",
+  "zh": "小偷：让我不自在的不是任务，是警察。在他们旁边我就浑身不舒服。毕竟我是小偷。"
+ },
+ "ES03": {
+  "budget": 113,
+  "flags": [],
+  "en": "SPY: It is not the police, it is MI5. They are here to assist but cannot appear to be involved in this operation.",
+  "zh": "间谍：那不是警察，是军情五处。他们是来协助的，但不能让人看出参与了这次行动。"
+ },
+ "LD04": {
+  "budget": 79,
+  "flags": [],
+  "en": "THIEF: Looks like we are on our own. I guess that is the way it will always be.",
+  "zh": "小偷：看来只能靠我们自己了。我想往后也一直会是这样。"
+ },
+ "TWCV": {
+  "budget": 8,
+  "flags": [],
+  "en": "TUTORIAL",
+  "zh": "教学"
+ },
+ "TWCO": {
+  "budget": 6,
+  "flags": [],
+  "en": "ORDERS",
+  "zh": "命令"
+ },
+ "TWCC": {
+  "budget": 6,
+  "flags": [],
+  "en": "ADVICE",
+  "zh": "建议"
+ },
+ "NA02": {
+  "budget": 275,
+  "flags": [],
+  "en": " Before you embark on this mission, I´ll use this opportunity to explain an important function. Your men can exchange items in their backpacks if standing close to each other. Select the Thief (press '6') and Left-Click on the backpack icon at the bottom-right of the screen.",
+  "zh": "在开始这次任务之前，我要借此机会说明一项重要功能。两人靠近时，可以交换各自背包里的物品。选择小偷（按'6'），然后左键点击屏幕右下角的背包图标。"
+ },
+ "NA03": {
+  "budget": 105,
+  "flags": [],
+  "en": " His inventory is now displayed. Left-Click on TRADE and Left-Click on the Spy image above the inventory.",
+  "zh": "他的物品栏已显示。左键点击交换，再左键点击物品栏上方的间谍头像。"
+ },
+ "NA04": {
+  "budget": 107,
+  "flags": [],
+  "en": " Left-Click on the Syringe to select and drop in the Spy´s inventory. Select EXIT to return to the mission.",
+  "zh": "左键点击注射器将其选中，再放入间谍的物品栏。选择退出即可返回任务。"
+ },
+ "NA05": {
+  "budget": 178,
+  "flags": [],
+  "en": " Excellent, now select your men. To select more than one of your men, keep the right mouse button pressed and drag a box around them. Everyone inside in the box will be selected.",
+  "zh": "很好，现在选择你的人员。要同时选中多名队员，按住鼠标右键拖出一个方框把他们框住。框内的所有人都会被选中。"
+ },
+ "NA06": {
+  "budget": 188,
+  "flags": [],
+  "en": " Hold down the TAB key and Left-Click on the soldier by the gate and his view area will be displayed. Use this information to gain entry to the Embassy grounds without being seen or heard.",
+  "zh": "按住 TAB 键并左键点击门口的士兵，就会显示他的视野范围。利用这些信息进入大使馆院内，别被看见，也别弄出声响。"
+ },
+ "NA07": {
+  "budget": 95,
+  "flags": [],
+  "en": " Good, now select the Thief. To select your man Right-Click on him with the mouse or press '6'.",
+  "zh": "很好，现在选择小偷。要选中他，用鼠标右键点击他，或按'6'。"
+ },
+ "NA08": {
+  "budget": 170,
+  "flags": [],
+  "en": " Hit and Tie-up the Mechanic. To HIT click on the FIST icon on the interface and then on the enemy. To TIE-UP the enemy Right-Click to deselect HIT and Left-Click on him.",
+  "zh": "打晕并捆绑机修工。要打晕，先点击界面上的拳头图标，再点击敌人。要捆绑敌人，右键取消打晕，然后左键点击他。"
+ },
+ "NA09": {
+  "budget": 136,
+  "flags": [],
+  "en": " Good, save your progress by pressing 'F9'. You could alternatively save through the in-game menu which can be accessed by pressing ESC.",
+  "zh": "很好，按'F9'保存进度。也可以通过按 ESC 打开的游戏中菜单来保存。"
+ },
+ "NA10": {
+  "budget": 201,
+  "flags": [],
+  "en": " You must now get to the Embassy balcony without being seen. To use the Thief's CLIMB ability, Left-Click on the wall. To move along or up the wall click in the direction you would like him to move in.",
+  "zh": "现在你必须在不被发现的情况下抵达使馆阳台。使用小偷的攀爬能力，左键点击墙壁。要沿墙移动或向上攀爬，点击你希望他移动的方向。"
+ },
+ "NA11": {
+  "budget": 166,
+  "flags": [],
+  "en": " Well done, now Hit and Tie-up the soldier on the balcony. Remember, use the FIST icon to HIT, Right-Click to deselect the FIST and Left-Click on the soldier to TIE. ",
+  "zh": "干得好，现在击晕并捆绑阳台上的士兵。记住，用拳头图标击打，右键取消选择拳头，左键点击士兵进行捆绑。"
+ },
+ "NA12": {
+  "budget": 172,
+  "flags": [],
+  "en": " Now select the Spy. To select the Spy press '5' or Right-Click on him. Note that, to center the screen on one of your characters press the relevant character number twice.",
+  "zh": "现在选择间谍。选中间谍可按5键或右键点击他。注意，若要屏幕以某名角色为中心，请连按两次该角色的数字键。"
+ },
+ "NA13": {
+  "budget": 271,
+  "flags": [],
+  "en": " Neutralise the Officer near the fountain. To select the Syringe click on the Syringe icon on the interface. To drug the enemy click the Syringe icon on the desired enemy. Two doses will knock him out. Three will kill him. If only knocked out you will have to tie him up.",
+  "zh": "解决喷泉附近的军官。要选择注射器，点击界面上的注射器图标。要向敌人下药，点击目标敌人身上的注射器图标。两剂可将其击晕，三剂可将其杀死。若只是击晕，你还得把他捆绑起来。"
+ },
+ "NA14": {
+  "budget": 162,
+  "flags": [],
+  "en": " Use the Spy to take the Officer´s Uniform and Pistol. Click on the EXAMINE icon at the bottom of the screen or press hotkey 'Z' and Left-Click on him to examine.",
+  "zh": "用间谍拿走军官的军服和手枪。点击屏幕底部的检查图标，或按快捷键Z，然后左键点击他进行检查。"
+ },
+ "NA15": {
+  "budget": 199,
+  "flags": [],
+  "en": " The Spy must wear the Officer´s uniform. To wear an enemy uniform click on the UNIFORM icon in the interface. The Spy will go undetected by soldiers of an inferior rank to the uniform he is wearing.",
+  "zh": "间谍必须穿上军官军服。要穿上敌人军服，点击界面上的军服图标。军衔低于该军服对应军衔的士兵将无法识破间谍。"
+ },
+ "NA16": {
+  "budget": 110,
+  "flags": [],
+  "en": " Very nice, now enter the Embassy dressed as the Officer. Enter doors by clicking on the door with the cursor.",
+  "zh": "很好，现在扮成军官进入使馆。用光标点击门即可进入。"
+ },
+ "NA17": {
+  "budget": 352,
+  "flags": [],
+  "en": " DISTRACT the soldier with the Spy. To DISTRACT an inferior ranking soldier select Distract from the interface and click on the soldier. The soldier will be distracted. You can now order him to move or look in a particular direction, do this so he cannot see the door. These abilities are displayed in the interface. Then bring in the Thief undetected.",
+  "zh": "用间谍引开士兵。要引开军衔较低的士兵，在界面上选择引开，然后点击该士兵。士兵就会被引开注意力。现在你可以命令他移动或朝某个方向看，让他看不到门。这些能力会显示在界面上。然后在不被发现的情况下带小偷进来。"
+ },
+ "NA18": {
+  "budget": 114,
+  "flags": [],
+  "en": " Now you have selected the Thief enter the Ambassador's private study. It might be a good idea to save here. 'F9'.",
+  "zh": "现在你已选中 小偷，进入大使的私人书房。在这里保存一下可能是个好主意。F9。"
+ },
+ "NA19": {
+  "budget": 143,
+  "flags": [],
+  "en": " Well done, now knock out and Tie-up the Ambassador. Remember, use the FIST icon to attack, Right-Click to deselect and then Left-Click to TIE.",
+  "zh": "干得好，现在击晕并捆绑大使。记住，用拳头图标攻击，右键取消选择，然后左键点击进行捆绑。"
+ },
+ "NA20": {
+  "budget": 282,
+  "flags": [],
+  "en": " Open the safe and examine its contents. To open a locked object Left-Click on the object. The Thief has this ability while the lockpicks are in his possession. Click on the EXAMINE icon at the bottom of the screen or press hotkey 'Z' and Left-Click on the Safe. Take the documents.",
+  "zh": "打开保险箱并检查里面的东西。要打开上锁的物品，左键点击该物品。只要小偷身上带着开锁工具，他就具备这项能力。点击屏幕底部的检查图标，或按快捷键Z，然后左键点击保险箱。取走文件。"
+ },
+ "NA21": {
+  "budget": 135,
+  "flags": [],
+  "en": " Very good Officer, now gather your men and meet with MI5 outside the Embassy without being detected and your mission will be complete.",
+  "zh": "很好，军官。现在集合你的手下，在不被发现的情况下到使馆外与军情五处接头，你的任务就完成了。"
+ },
+ "NADA": {
+  "budget": 1,
+  "flags": [
+   "空白/装饰",
+   "超短"
+  ],
+  "en": " ",
+  "zh": ""
+ }
+}
